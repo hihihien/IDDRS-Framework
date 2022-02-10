@@ -743,7 +743,7 @@ Variables
   
   .search-container {
     align-self: center;
-    background-image: url(assets/IDDRS.png);
+    background-image: url(../assets/IDDRS.png);
     background-position: 50% 50%;
     background-size: cover;
     height: 490px;
