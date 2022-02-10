@@ -276,10 +276,9 @@ Variables
     border-radius: 10px;
     display: flex;
     height: 55px;
-    justify-content: flex-end;
+    justify-content: flex-start;
     margin-left: 22px;
     min-width: 157px;
-    padding: 0 11px;
   }
   
   .donate {
@@ -291,7 +290,7 @@ Variables
     letter-spacing: 0;
     margin-bottom: 0;
     text-align: center;
-    width: 131px;
+    width: 157px;
   }
   
   .text-4 {
