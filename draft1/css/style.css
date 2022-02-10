@@ -319,7 +319,7 @@ Variables
     align-items: flex-start;
     align-self: flex-end;
     display: flex;
-    margin-right: 39px;
+    margin-right: 135px;
     margin-top: 30px;
     min-width: 971px;
   }
@@ -728,7 +728,7 @@ Variables
   }
   
   .following-the-2017-2 {
-    height: 128px;
+    height: 160px;
     letter-spacing: 0;
     margin-left: 45px;
     width: 608px;
@@ -743,7 +743,7 @@ Variables
   
   .search-container {
     align-self: center;
-    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62045c898b2c76016da98303/releases/62045cb436d1f8ec1081f9b2/img/iddrs-03-1@1x.png);
+    background-image: url(assets/IDDRS.png);
     background-position: 50% 50%;
     background-size: cover;
     height: 490px;
@@ -762,7 +762,7 @@ Variables
     left: 278px;
     letter-spacing: 0;
     position: absolute;
-    top: 417px;
+    top: 360px;
   }
   
   .search-bar {
@@ -771,10 +771,10 @@ Variables
     background-color: var(--white);
     border: 3px solid var(--concrete);
     border-radius: 15px;
-    height: 52px;
+    height: 40px;
     left: 208px;
     position: absolute;
-    top: 403px;
+    top: 350px;
     width: 825px;
   }
   
@@ -788,7 +788,7 @@ Variables
     letter-spacing: 0;
     position: absolute;
     text-align: center;
-    top: 408px;
+    top: 350px;
     width: 54px;
   }
   
