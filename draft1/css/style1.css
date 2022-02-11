@@ -14,22 +14,23 @@ Variables
    /* primary colors of UN */ 
     --black: rgba(0, 0, 0, 1);
     --cerulean:  rgba(0, 158, 219, 1);
-    --sapphire:  rgba(37, 90, 159, 1);
     --mine-shaft: rgba(51, 51, 51, 1);
-    --fruit-salad-2:  rgba(73, 162, 92, 0.251);
-    --fruit-salad:  rgba(73, 162, 92, 1);
+    --fruit-salad-2:  rgba(73, 162, 92, 0.251); 
     --abbey:  rgba(77, 77, 77, 1);
-    --kimberly: rgba(112, 103, 159, 1);
     --boulder:  rgba(120, 120, 120, 1);
     --gray: rgba(127, 127, 127, 1);
-    --thunderbird: rgba(192, 40, 30, 1);
-    --viola: rgba(195, 127, 175, 1);
     --mist-gray: rgba(196, 196, 196, 1);
-    --raw-sienna: rgba(225, 132, 89, 1);
     --bon-jour:  rgba(225, 225, 225, 1);
     --concrete: rgba(242, 242, 242, 1);
     --white: rgba(255, 255, 255, 1);
-  
+    /* primary colors of levels */ 
+    --level-1: rgba(225, 132, 89, 1);
+    --level-2:  rgba(37, 90, 159, 1);
+    --level-3:  rgba(73, 162, 92, 1);
+    --level-4: rgba(112, 103, 159, 1);
+    --level-5: rgba(192, 40, 30, 1);
+    --level-6: rgba(195, 127, 175, 1);
+    /* font size */ 
     --font-size-xs: 14px;
     --font-size-s: 18px;
     --font-size-m: 20px;
@@ -37,23 +38,21 @@ Variables
     --font-size-xl: 25px;
     --font-size-xxl: 40px;
     --font-size-xxxl: 50px;
-  
+    /* font family */ 
     --font-family-font_awesome_5_brands-regular: "Font Awesome 5 Brands-Regular";
     --font-family-font_awesome_5_free-solid: "Font Awesome 5 Free-Solid";
     --font-family-roboto: "Roboto";
     --font-family-roboto_condensed: "Roboto Condensed";
   }
-  
-  
-  
-  .roboto-bold-white-20px {
+
+  .a4 {
     color: var(--white);
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-m);
     font-weight: 700;
     font-style: normal;
   }
-  .roboto-normal-black-18px {
+  .a3 {
     color: var(--black);
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-s);
@@ -81,28 +80,27 @@ Variables
     font-weight: 400;
     font-style: normal;
   }
-  .roboto-normal-white-18px {
+  .a2 {
     color: var(--white);
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-s);
     font-weight: 400;
     font-style: normal;
   }
-  .roboto-black-white-50px {
+  .a6 {
     color: var(--white);
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-xxxl);
     font-weight: 900;
     font-style: normal;
+    height: 45px;
+    letter-spacing: 0;
+    margin-left: 6px;
+    text-align: center;
+    width: 52px;
   }
-  .fontawesome5brands-regular-normal-white-40px {
-    color: var(--white);
-    font-family: var(--font-family-font_awesome_5_brands-regular);
-    font-size: var(--font-size-xxl);
-    font-weight: 400;
-    font-style: normal;
-  }
-  .roboto-bold-white-22px {
+
+  .a5 {
     color: var(--white);
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-l);
@@ -130,7 +128,7 @@ Variables
     font-weight: 500;
     font-style: normal;
   }
-  .roboto-bold-mine-shaft-25px {
+  .h3 {
     color: var(--mine-shaft);
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-xl);
@@ -144,7 +142,7 @@ Variables
     font-weight: 400;
     font-style: normal;
   }
-  .roboto-normal-mine-shaft-14px {
+  .p {
     color: var(--mine-shaft);
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-xs);
@@ -186,8 +184,8 @@ Variables
     font-weight: 400;
     src: url("https://fonts.animaapp.com/FontAwesome5Free-Solid") format("opentype");
   }
-  
-  .landing-page-1 {
+  /* variables */
+  .wrapper {
     align-items: flex-start;
     background-color: var(--white);
     display: flex;
@@ -202,7 +200,7 @@ Variables
     pointer-events: none;
     visibility: hidden;
   }
-  
+  /* footer */
   .footer {
     align-items: flex-start;
     display: flex;
@@ -211,8 +209,7 @@ Variables
     min-height: 363px;
     width: 1464px;
   }
-  
-  .overlap-group1 {
+  .footer-section {
     align-items: flex-start;
     background-color: var(--abbey);
     display: flex;
@@ -221,55 +218,52 @@ Variables
     padding: 59px 51px;
     width: 1440px;
   }
-  
-  .line-7 {
+  .footer-line {
     height: 1px;
     margin-top: 38px;
     width: 1317px;
   }
-  
-  .flex-row-2 {
+  .footer-flex-1 {
     align-items: center;
     display: flex;
     min-width: 1299px;
   }
-  
-  .text-5 {
-    height: 46px;
-    letter-spacing: 0;
-    margin-left: 40px;
-    margin-top: 1px;
-    min-width: 35px;
-  }
-  
-  .valign-text-middle {
+  .footer-flex-2 {
+    align-items: flex-start;
+    align-self: flex-end;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    margin-right: 135px;
+    margin-top: 30px;
+    min-width: 971px;
   }
-  
-  .un-footer-1 {
+  .un-logo{
     height: 89px;
     object-fit: cover;
     width: 298px;
   }
-  
-  .text-6 {
-    height: 46px;
-    letter-spacing: 0;
-    margin-left: 50px;
-    margin-top: 1px;
-    min-width: 35px;
-  }
-  
-  .text-3 {
+  .footer-icon {
+    color: var(--white);
+    font-family: var(--font-family-font_awesome_5_brands-regular);
+    font-size: var(--font-size-xxl);
+    font-weight: 400;
+    font-style: normal;
     height: 46px;
     letter-spacing: 0;
     margin-left: 45px;
     margin-top: 1px;
     min-width: 40px;
   }
+  .facebook {
+    margin-left: 387px;
+  }
+
+  .valign {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
   
+
   .overlap-group {
     align-items: flex-end;
     background-color: var(--concrete);
@@ -292,14 +286,7 @@ Variables
     text-align: center;
     width: 157px;
   }
-  
-  .text-4 {
-    height: 46px;
-    letter-spacing: 0;
-    margin-left: 45px;
-    margin-top: 1px;
-    min-width: 45px;
-  }
+
   
   .line-8 {
     height: 55px;
@@ -307,22 +294,7 @@ Variables
     width: 1px;
   }
   
-  .text-2 {
-    height: 46px;
-    letter-spacing: 0;
-    margin-left: 387px;
-    margin-top: 1px;
-    min-width: 40px;
-  }
-  
-  .flex-row-3 {
-    align-items: flex-start;
-    align-self: flex-end;
-    display: flex;
-    margin-right: 135px;
-    margin-top: 30px;
-    min-width: 971px;
-  }
+
   
   .place-1 {
     height: 21px;
@@ -477,8 +449,7 @@ Variables
   
   .frame-13-4 {
     align-items: center;
-    background-color: 
-  #c37faf;
+    background-color: var(--level-6);
     display: flex;
     flex-direction: column;
     height: 165px;
@@ -512,17 +483,10 @@ Variables
     text-align: center;
   }
   
-  .number {
-    height: 45px;
-    letter-spacing: 0;
-    margin-left: 6px;
-    text-align: center;
-    width: 52px;
-  }
   
   .frame-13-3 {
     align-items: center;
-    background-color: #c0281e;
+    background-color: var(--level-5); 
     display: flex;
     flex-direction: column;
     height: 165px;
@@ -540,8 +504,7 @@ Variables
   
   .frame-14 {
     align-items: center;
-    background-color: 
-  #e18459;
+    background-color: var(--level-1);
     display: flex;
     flex-direction: column;
     height: 165px;
@@ -550,8 +513,7 @@ Variables
   
   .frame-13-2 {
     align-items: center;
-    background-color: 
-  #70679f;
+    background-color: var(--level-4);
     display: flex;
     flex-direction: column;
     height: 165px;
@@ -561,8 +523,7 @@ Variables
   
   .frame-13 {
     align-items: center;
-    background-color: 
-  #255a9f;
+    background-color: var(--level-2);
     display: flex;
     flex-direction: column;
     height: 165px;
@@ -575,7 +536,7 @@ Variables
   }
   
   .frame-13-1 {
-    background-color: #49a25c;
+    background-color: var(--level-3);
     cursor: pointer;
     height: 165px;
     margin-left: 45px;
@@ -643,8 +604,7 @@ Variables
   }
   
   .rectangle-2 {
-    background-color: 
-  #009edb;
+    background-color: #009edb;
     height: 6px;
     left: 0;
     position: absolute;
@@ -700,13 +660,13 @@ Variables
     min-width: 1217px;
   }
   
-  .the-integrated-ddr-s {
+  .p-2 {
     height: 176px;
     letter-spacing: 0;
     width: 564px;
   }
   
-  .following-the-2017-2 {
+  .p-3 {
     height: 160px;
     letter-spacing: 0;
     margin-left: 45px;
@@ -732,7 +692,7 @@ Variables
     width: 1217px;
   }
   
-  .search-iddrs {
+  .placeholder {
     color: var(--gray);
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-xl);
