@@ -200,15 +200,20 @@ Variables
     pointer-events: none;
     visibility: hidden;
   }
-  /* footer */
-  .footer {
-    align-items: flex-start;
-    display: flex;
-    flex-direction: column;
-    margin-top: 202px;
-    min-height: 363px;
-    width: 1464px;
-  }
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+/* footer */
+.footer {
+ align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 202px;
+  min-height: 363px;
+  width: 1464px;
+}
   .footer-section {
     align-items: flex-start;
     background-color: var(--abbey);
@@ -264,7 +269,7 @@ Variables
   }
   
 
-  .overlap-group {
+  .donate-button {
     align-items: flex-end;
     background-color: var(--concrete);
     border-radius: 10px;
