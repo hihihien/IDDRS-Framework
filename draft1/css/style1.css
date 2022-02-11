@@ -11,40 +11,40 @@ Variables
 ===============
 */
 :root {
-   /* primary colors of UN */ 
-    --black: rgba(0, 0, 0, 1);
-    --cerulean:  rgba(0, 158, 219, 1);
-    --mine-shaft: rgba(51, 51, 51, 1);
-    --fruit-salad-2:  rgba(73, 162, 92, 0.251); 
-    --abbey:  rgba(77, 77, 77, 1);
-    --boulder:  rgba(120, 120, 120, 1);
-    --gray: rgba(127, 127, 127, 1);
-    --mist-gray: rgba(196, 196, 196, 1);
-    --bon-jour:  rgba(225, 225, 225, 1);
-    --concrete: rgba(242, 242, 242, 1);
-    --white: rgba(255, 255, 255, 1);
-    /* primary colors of levels */ 
-    --level-1: rgba(225, 132, 89, 1);
-    --level-2:  rgba(37, 90, 159, 1);
-    --level-3:  rgba(73, 162, 92, 1);
-    --level-4: rgba(112, 103, 159, 1);
-    --level-5: rgba(192, 40, 30, 1);
-    --level-6: rgba(195, 127, 175, 1);
-    /* font size */ 
-    --font-size-xs: 14px;
-    --font-size-s: 18px;
-    --font-size-m: 20px;
-    --font-size-l: 22px;
-    --font-size-xl: 25px;
-    --font-size-xxl: 40px;
-    --font-size-xxxl: 50px;
-    /* font family */ 
-    --font-family-font_awesome_5_brands-regular: "Font Awesome 5 Brands-Regular";
-    --font-family-font_awesome_5_free-solid: "Font Awesome 5 Free-Solid";
-    --font-family-roboto: "Roboto";
-    --font-family-roboto_condensed: "Roboto Condensed";
+  /* primary colors of UN */ 
+  --black: rgba(0, 0, 0, 1);
+  --cerulean:  rgba(0, 158, 219, 1);
+  --mine-shaft: rgba(51, 51, 51, 1);
+  --fruit-salad-2:  rgba(73, 162, 92, 0.251); 
+  --abbey:  rgba(77, 77, 77, 1);
+  --boulder:  rgba(120, 120, 120, 1);
+  --gray: rgba(127, 127, 127, 1);
+  --mist-gray: rgba(196, 196, 196, 1);
+  --bon-jour:  rgba(225, 225, 225, 1);
+  --concrete: rgba(242, 242, 242, 1);
+  --white: rgba(255, 255, 255, 1);
+  /* primary colors of levels */ 
+  --level-1: rgba(225, 132, 89, 1);
+  --level-2:  rgba(37, 90, 159, 1);
+  --level-3:  rgba(73, 162, 92, 1);
+  --level-4: rgba(112, 103, 159, 1);
+  --level-5: rgba(192, 40, 30, 1);
+  --level-6: rgba(195, 127, 175, 1);
+  /* font size */ 
+  --font-size-xs: 14px;
+  --font-size-s: 18px;
+  --font-size-m: 20px;
+  --font-size-l: 22px;
+  --font-size-xl: 25px;
+  --font-size-xxl: 40px;
+  --font-size-xxxl: 50px;
+  /* font family */ 
+  --font-family-font_awesome_5_brands-regular: "Font Awesome 5 Brands-Regular";
+  --font-family-font_awesome_5_free-solid: "Font Awesome 5 Free-Solid";
+  --font-family-roboto: "Roboto";
+  --font-family-roboto_condensed: "Roboto Condensed";
   }
-
+ /* font variables */
   .a4 {
     color: var(--white);
     font-family: var(--font-family-roboto);
@@ -57,13 +57,6 @@ Variables
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-s);
     font-weight: 400;
-    font-style: normal;
-  }
-  .roboto-black-boulder-25px {
-    color: var(--boulder);
-    font-family: var(--font-family-roboto);
-    font-size: var(--font-size-xl);
-    font-weight: 900;
     font-style: normal;
   }
   .fontawesome5free-solid-normal-gray-30px {
@@ -107,39 +100,11 @@ Variables
     font-weight: 700;
     font-style: normal;
   }
-  .roboto-bold-black-40px {
-    color: var(--black);
-    font-family: var(--font-family-roboto);
-    font-size: var(--font-size-xxl);
-    font-weight: 700;
-    font-style: normal;
-  }
-  .robotocondensed-bold-fruit-salad-30px {
-    color: var(--fruit-salad);
-    font-family: var(--font-family-roboto_condensed);
-    font-size: 30px;
-    font-weight: 700;
-    font-style: normal;
-  }
-  .roboto-medium-black-20px {
-    color: var(--black);
-    font-family: var(--font-family-roboto);
-    font-size: var(--font-size-m);
-    font-weight: 500;
-    font-style: normal;
-  }
   .h3 {
     color: var(--mine-shaft);
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-xl);
     font-weight: 700;
-    font-style: normal;
-  }
-  .fontawesome5free-solid-normal-black-20px {
-    color: var(--black);
-    font-family: var(--font-family-font_awesome_5_free-solid);
-    font-size: var(--font-size-m);
-    font-weight: 400;
     font-style: normal;
   }
   .p {
@@ -149,158 +114,123 @@ Variables
     font-weight: 400;
     font-style: normal;
   }
-  .border-3px-concrete {
-    border-width: 3px;
-    border-style: solid;
-    border-color: var(--concrete);
-  }
-  .fontawesome5free-solid-normal-cerulean-60px {
-    color: var(--cerulean);
-    font-family: var(--font-family-font_awesome_5_free-solid);
-    font-size: 60px;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .robotocondensed-normal-fruit-salad-18px {
-    color: var(--fruit-salad);
-    font-family: var(--font-family-roboto_condensed);
-    font-size: var(--font-size-s);
-    font-weight: 400;
-    font-style: normal;
-  }
-
   @font-face {
     font-family: "Font Awesome 5 Brands-Regular";
     font-style: normal;
     font-weight: 400;
     src: url("https://fonts.animaapp.com/FontAwesome5Brands-Regular") format("opentype");
   }
-  
-  @import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,900|Roboto+Condensed:400,700");
-  
   @font-face {
     font-family: "Font Awesome 5 Free-Solid";
     font-style: normal;
     font-weight: 400;
     src: url("https://fonts.animaapp.com/FontAwesome5Free-Solid") format("opentype");
   }
-  /* variables */
-  .wrapper {
-    align-items: flex-start;
-    background-color: var(--white);
-    display: flex;
-    flex-direction: column;
-    height: 2000px;
-    overflow: hidden;
-    width: 1440px;
-  }
+  @import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,900|Roboto+Condensed:400,700");
   
-  .hidden,
-  .hidden * {
-    pointer-events: none;
-    visibility: hidden;
-  }
-
+/* global variables */
+.wrapper {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2000px;
+  overflow: hidden;
+  width: 1440px;
+}
 a, a:hover, a:focus, a:active {
   text-decoration: none;
   color: inherit;
 }
+.align {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 /* footer */
 .footer {
- align-items: flex-start;
+  align-items: flex-start;
   display: flex;
   flex-direction: column;
   margin-top: 202px;
   min-height: 363px;
   width: 1464px;
 }
-  .footer-section {
-    align-items: flex-start;
-    background-color: var(--abbey);
-    display: flex;
-    flex-direction: column;
-    min-height: 305px;
-    padding: 59px 51px;
-    width: 1440px;
+.footer-section {
+  align-items: flex-start;
+  background-color: var(--abbey);
+  display: flex;
+  flex-direction: column;
+  min-height: 305px;
+  padding: 59px 51px;
+  width: 1440px;
+}
+.footer-line {
+  height: 1px;
+  margin-top: 38px;
+  width: 1317px;
+}
+.footer-flex-1 {
+  align-items: center;
+  display: flex;
+  min-width: 1299px;
+}
+.footer-flex-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-right: 135px;
+  margin-top: 30px;
+  min-width: 971px;
+}
+.un-logo{
+  height: 89px;
+  object-fit: cover;
+  width: 298px;
+}
+.footer-icon {
+  color: var(--white);
+  font-family: var(--font-family-font_awesome_5_brands-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  font-style: normal;
+  height: 46px;
+  letter-spacing: 0;
+  margin-left: 45px;
+  margin-top: 1px;
+  min-width: 40px;
   }
-  .footer-line {
-    height: 1px;
-    margin-top: 38px;
-    width: 1317px;
-  }
-  .footer-flex-1 {
-    align-items: center;
-    display: flex;
-    min-width: 1299px;
-  }
-  .footer-flex-2 {
-    align-items: flex-start;
-    align-self: flex-end;
-    display: flex;
-    margin-right: 135px;
-    margin-top: 30px;
-    min-width: 971px;
-  }
-  .un-logo{
-    height: 89px;
-    object-fit: cover;
-    width: 298px;
-  }
-  .footer-icon {
-    color: var(--white);
-    font-family: var(--font-family-font_awesome_5_brands-regular);
-    font-size: var(--font-size-xxl);
-    font-weight: 400;
-    font-style: normal;
-    height: 46px;
-    letter-spacing: 0;
-    margin-left: 45px;
-    margin-top: 1px;
-    min-width: 40px;
-  }
-  .facebook {
-    margin-left: 387px;
-  }
-
-  .valign {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-  
-
-  .donate-button {
-    align-items: flex-end;
-    background-color: var(--concrete);
-    border-radius: 10px;
-    display: flex;
-    height: 55px;
-    justify-content: flex-start;
-    margin-left: 22px;
-    min-width: 157px;
-  }
-  
-  .donate {
-    color: var(--black);
-    font-family: var(--font-family-roboto);
-    font-size: var(--font-size-m);
-    font-weight: 500;
-    height: 54px;
-    letter-spacing: 0;
-    margin-bottom: 0;
-    text-align: center;
-    width: 157px;
-  }
-
-  
-  .line-8 {
-    height: 55px;
-    margin-left: 60px;
-    width: 1px;
-  }
-  
-
-  
+.facebook {
+  margin-left: 387px;
+}
+.donate-button {
+  align-items: flex-end;
+  background-color: var(--concrete);
+  border-radius: 10px;
+  display: flex;
+  height: 55px;
+  justify-content: flex-start;
+  margin-left: 22px;
+  min-width: 157px;
+} 
+.donate {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  height: 54px;
+  letter-spacing: 0;
+  margin-bottom: 0;
+  text-align: center;
+  width: 157px;
+}
+.line-8 {
+  height: 55px;
+  margin-left: 60px;
+  width: 1px;
+}
+/* end footer styles */
+ 
   .place-1 {
     height: 21px;
     letter-spacing: 0;
@@ -617,7 +547,7 @@ a, a:hover, a:focus, a:active {
     width: 1440px;
   }
   
-  .text-1 {
+  .home-logo {
     color: var(--black);
     font-family: var(--font-family-font_awesome_5_free-solid);
     font-size: var(--font-size-m);
@@ -752,7 +682,7 @@ a, a:hover, a:focus, a:active {
     min-width: 721px;
   }
   
-  .overlap-group5 {
+  .navbar-brand {
     height: 112px;
     margin-bottom: 1px;
     margin-left: 32px;
@@ -779,6 +709,7 @@ a, a:hover, a:focus, a:active {
     position: absolute;
     top: 0;
     width: 166px;
+    margin-top: 6px;
   }
   
   .the-integrated-disar {
