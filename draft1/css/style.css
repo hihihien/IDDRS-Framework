@@ -60,13 +60,7 @@ Variables
     font-weight: 400;
     font-style: normal;
   }
-  .roboto-black-boulder-25px {
-    color: var(--boulder);
-    font-family: var(--font-family-roboto);
-    font-size: var(--font-size-xl);
-    font-weight: 900;
-    font-style: normal;
-  }
+
   .fontawesome5free-solid-normal-gray-30px {
     color: var(--gray);
     font-family: var(--font-family-font_awesome_5_free-solid);
