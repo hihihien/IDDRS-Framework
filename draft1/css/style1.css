@@ -146,12 +146,21 @@ Variables
 Global Variables
 ===============
 */
+@media screen and (min-width: 1200px) {
+  .search-container {
+    width: 1ßß%;
+    grid-template-columns: 1fr 1fr;
+  }
+  .photo {
+    height: 150px;
+  }
+}
 .wrapper {
   align-items: flex-start;
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 3050px;
+  height: 3270px;
   overflow: hidden;
   width: 1440px;
 }
@@ -810,7 +819,7 @@ margin-top: 0;
 }
 .result-bg {
   background-color: var(--concrete);
-  height: 968px;
+  height: 1140px;
   left: 92px;
   position: absolute;
   top: 0;
@@ -873,7 +882,8 @@ margin-top: 0;
   font-weight: 400;
   left: 132px;
   letter-spacing: 0;
-  line-height: 20px;
+  line-height: 25px;
+  font-style: normal;
   position: relative;
   top: 149px;
   width: 1161px;
