@@ -128,7 +128,12 @@ Variables
   }
   @import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,900|Roboto+Condensed:400,700");
   
-/* global variables */
+/*
+=============== 
+Global Variables
+===============
+*/
+
 .wrapper {
   align-items: flex-start;
   background-color: var(--white);
@@ -147,7 +152,11 @@ a, a:hover, a:focus, a:active {
   flex-direction: column;
   justify-content: center;
 }
-/* footer */
+/*
+=============== 
+Footer Variables
+===============
+*/
 .footer {
   align-items: flex-start;
   display: flex;
@@ -170,6 +179,7 @@ a, a:hover, a:focus, a:active {
   margin-top: 38px;
   width: 1317px;
 }
+/* footer flex social media */
 .footer-flex-1 {
   align-items: center;
   display: flex;
@@ -229,82 +239,82 @@ a, a:hover, a:focus, a:active {
   margin-left: 60px;
   width: 1px;
 }
-/* end footer styles */
- 
-  .place-1 {
+/* footer flex info */
+.contact {
     height: 21px;
     letter-spacing: 0;
     margin-left: 22px;
     min-width: 81px;
-  }
+}
   
-  .faq-1 {
+.faq-1 {
     height: 21px;
     letter-spacing: 0;
     margin-left: 20px;
     min-width: 33px;
-  }
+}
   
-  .terms-of-use {
+.terms-of-use {
     height: 21px;
     letter-spacing: 0;
     margin-left: 18px;
-  }
+}
   
-  .line {
+.line {
     height: 21px;
     margin-left: 20px;
     width: 3px;
-  }
+}
 
-  .privacy-notice {
-    height: 21px;
-    letter-spacing: 0;
-    margin-left: 16px;
-    min-width: 140px;
+.privacy-notice {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 16px;
+  min-width: 140px;
+}
+  
+.a-z-site-index {
+  height: 21px;
+  letter-spacing: 0;
+  min-width: 124px;
+}
+  
+.copyright {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 20px;
+  min-width: 98px;
   }
   
-  .a-z-site-index {
-    height: 21px;
-    letter-spacing: 0;
-    min-width: 124px;
-  }
+.fraud-alert {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 16px;
+  min-width: 114px;
+}
+/* end footer flex */
+.rectangle-7 {
+  background-color: #e1e1e1;
+  height: 58px;
+  width: 1440px;
+}
+/* end footer styles */
+
+.overlap-group2 {
+  align-self: center;
+  height: 53px;
+  margin-right: 22px;
+  margin-top: 38px;
+  position: relative;
+  width: 1216px;
+}
   
-  .copyright {
-    height: 21px;
-    letter-spacing: 0;
-    margin-left: 20px;
-    min-width: 98px;
-  }
-  
-  .fraud-alert {
-    height: 21px;
-    letter-spacing: 0;
-    margin-left: 16px;
-    min-width: 114px;
-  }
-  
-  .rectangle-7 {
-    background-color: #e1e1e1;
-    height: 58px;
-    width: 1440px;
-  }
-  
-  .overlap-group2 {
-    align-self: center;
-    height: 53px;
-    margin-right: 22px;
-    margin-top: 38px;
-    position: relative;
-    width: 1216px;
-  }
-  
-  .the-iddrs {
-    height: 21px;
-    left: 13px;
-    letter-spacing: 0;
-    position: absolute;
-    top: 16px;
+.the-iddrs {
+  height: 21px;
+  left: 13px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 16px;
   }
   
   .search {
@@ -466,6 +476,7 @@ a, a:hover, a:focus, a:active {
     width: 165px;
   }
   
+  /* hover effect for level 3 */
   .frame-13-1:hover {
     transform: scale(1.1);
   }
