@@ -238,7 +238,7 @@
   width: 1464px;
 }
 
-.ddr-programme-design-1 {
+.result-title {
   color: var(--mine-shaft);
   font-family: var(--font-family-roboto);
   font-size: 32px;
@@ -502,7 +502,7 @@
   width: 142px;
 }
 
-.rectangle-6 {
+.result-bg {
   background-color: var(--concrete);
   height: 968px;
   left: 92px;

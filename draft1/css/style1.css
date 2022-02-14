@@ -3,8 +3,7 @@
 Fonts
 ===============
 */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
-
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,900|Roboto+Condensed:400,700");
 /*
 =============== 
 Variables
@@ -25,8 +24,9 @@ Variables
   --white: rgba(255, 255, 255, 1);
   /* primary colors of levels */ 
   --level-1: rgba(225, 132, 89, 1);
-  --level-2:  rgba(37, 90, 159, 1);
-  --level-3:  rgba(73, 162, 92, 1);
+  --level-2: rgba(37, 90, 159, 1);
+  --level-3: rgba(73, 162, 92, 1);
+  --level-3-light: rgba(73, 162, 92, 0.251);
   --level-4: rgba(112, 103, 159, 1);
   --level-5: rgba(192, 40, 30, 1);
   --level-6: rgba(195, 127, 175, 1);
@@ -102,18 +102,16 @@ Variables
   width: 52px;
 }
 .a7 {
-  color: var(--fruit-salad);
+  color: var(--level-3);
   font-family: var(--font-family-roboto_condensed);
   font-size: 30px;
   font-weight: 700;
-  font-style: normal;
 }
 .a8 {
-  color: var(--fruit-salad);
+  color: var(--level-3);
   font-family: var(--font-family-roboto_condensed);
   font-size: var(--font-size-s);
   font-weight: 400;
-  font-style: normal;
 }
 
 .h3 {
@@ -142,7 +140,7 @@ Variables
   font-weight: 400;
   src: url("https://fonts.animaapp.com/FontAwesome5Free-Solid") format("opentype");
 }
-@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,900|Roboto+Condensed:400,700");
+
 /*
 =============== 
 Global Variables
@@ -555,6 +553,7 @@ Footer Variables
   margin-top: 202px;
   min-height: 363px;
   width: 1464px;
+  position: relative;
 }
 .footer-section {
   align-items: flex-start;
@@ -563,7 +562,7 @@ Footer Variables
   flex-direction: column;
   min-height: 305px;
   padding: 59px 51px;
-  width: 1440px;
+  width: 1339px;
 }
 .footer-line {
   height: 1px;
@@ -580,7 +579,7 @@ Footer Variables
   align-items: flex-start;
   align-self: flex-end;
   display: flex;
-  margin-right: 135px;
+  padding-right: 30px;
   margin-top: 30px;
   min-width: 971px;
 }
@@ -700,6 +699,8 @@ Footer Variables
   margin-top: 26px;
   min-width: 1092px;
 }
+
+/* arrow click  */
 .arrow {
   color: var(--cerulean);
   font-family: var(--font-family-font_awesome_5_free-solid);
@@ -716,14 +717,13 @@ Footer Variables
 .arrow-right {
   margin-left: 39px;
 }
-
+/* module name  */
 .module-name {
   height: 114px;
   letter-spacing: 0;
   margin-left: 10px;
   margin-top: 7px;
 }
-
 .module-name32 {
   color: var(--white);
   font-family: var(--font-family-roboto_condensed);
@@ -734,7 +734,7 @@ Footer Variables
   margin-left: 10px;
   margin-top: 7px;
 }
-
+/* module frame  */
 .mf {
   display: flex;
   flex-direction: column;
@@ -745,19 +745,19 @@ Footer Variables
 }
 .mf0 {
 align-self: flex-end;
-background-color: var(--fruit-salad-2);
+background-color: var(--level-3-light);
 }
 .mf1 {
-  background-color: var(--fruit-salad-2);
+  background-color: var(--level-3-light);
 }
 .mf2 {
-  background-color: var(--fruit-salad);
+  background-color: var(--level-3);
 }
 .mf3 {
   align-self: flex-end;
-  background-color: var(--fruit-salad-2);
+  background-color: var(--level-3-light);
 }  
-
+/* module title  */
 .m-text {
   height: 45px;
   letter-spacing: 0;
@@ -768,10 +768,111 @@ background-color: var(--fruit-salad-2);
 margin-left: 0;
 margin-top: 0;
 }
-
 .m-onclick {
   color: var(--white);
   font-family: var(--font-family-roboto_condensed);
-  font-size: var(--font-size-xxl);
   font-weight: 700;
+  font-size: 30px;
+}
+ /* ellipse nav  */
+ .ellipse-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-right: 31px;
+  margin-top: 13px;
+  min-width: 65px;
+}
+.ellipse {
+  border-radius: 5px;
+  height: 10px;
+  width: 10px;
+  margin-left: 18px;
+}
+.e1 {
+  background-color: var(--cerulean);
+  margin-left: 0px;
+}
+.e2 {
+  background-color: var(--mist-gray);
+}
+.e3 {
+  background-color: var(--mist-gray);
+}
+ /* result  */
+.overlap-group6 {
+  height: 1359px;
+  margin-top: 32px;
+  position: relative;
+  width: 1464px;
+}
+.result-bg {
+  background-color: var(--concrete);
+  height: 968px;
+  left: 92px;
+  position: absolute;
+  top: 0;
+  width: 1224px;
+}
+.result-title {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-roboto);
+  font-size: 32px;
+  font-weight: 700;
+  height: 57px;
+  left: 123px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 57px;
+  width: 364px;
+}
+
+/* view module button  */
+.overlap-group1 {
+  height: 81px;
+  left: 1106px;
+  position: absolute;
+  top: 86px;
+  width: 163px;
+}
+
+.view-module {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  height: 81px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 163px;
+}
+
+.view-module-button {
+  background-color: var(--white);
+  border: 1px solid var(--black);
+  border-radius: 10px;
+  height: 56px;
+  left: 11px;
+  position: absolute;
+  top: 13px;
+  width: 142px;
+}
+
+.module-sum {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  top: 149px;
+  width: 1161px;
 }
