@@ -151,7 +151,7 @@ Global Variables
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 2000px;
+  height: 3050px;
   overflow: hidden;
   width: 1440px;
 }
@@ -409,7 +409,7 @@ Body Variables
   height: 40px;
   left: 208px;
   position: absolute;
-  top: 350px;
+  top: 390px;
   width: 825px;
 }
 .search-icon {
@@ -422,7 +422,7 @@ Body Variables
   letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 350px;
+  top: 390px;
   width: 54px;
 }
 .placeholder {
@@ -434,7 +434,7 @@ Body Variables
   left: 278px;
   letter-spacing: 0;
   position: absolute;
-  top: 360px;
+  top: 400px;
 }
 /*
 =============== 
@@ -553,7 +553,9 @@ Footer Variables
   margin-top: 202px;
   min-height: 363px;
   width: 1464px;
-  position: relative;
+  left: 0;
+  position: absolute;
+  padding-top: 30px;
 }
 .footer-section {
   align-items: flex-start;
