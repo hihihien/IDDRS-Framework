@@ -706,9 +706,9 @@ Footer Variables
   align-self: center;
   display: flex;
   height: 168px;
-  margin-right: 22px;
+  margin-left: 40px;
   margin-top: 26px;
-  min-width: 1092px;
+  min-width: 890px;
 }
 
 /* arrow click  */
@@ -724,10 +724,16 @@ Footer Variables
   margin-bottom: 2px;
   text-align: center;
   width: 103px;
+  position: -webkit-sticky;
 }
-.arrow-right {
+#next {
   margin-left: 39px;
+  position: block;
 }
+#prev {
+  position: block;
+}
+
 /* module name  */
 .module-name {
   height: 114px;
@@ -750,7 +756,7 @@ Footer Variables
   display: flex;
   flex-direction: column;
   height: 165px;
-  margin-left: 51px;
+  margin-left: 46px;
   overflow: hidden;
   width: 165px;
 }
@@ -887,4 +893,24 @@ margin-top: 0;
   position: relative;
   top: 149px;
   width: 1161px;
+}
+
+/* carousel  */
+#content1 {
+  display: grid;
+  grid-gap: 0;
+  grid-auto-flow: column;
+  margin: auto;
+  box-sizing: border-box;
+}
+#carousel {
+  overflow: auto;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  display: block;
+  max-width: 890px;
+}
+
+#carousel::-webkit-scrollbar {
+  height: 0;
 }
