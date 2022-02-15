@@ -792,7 +792,7 @@ margin-top: 0;
   font-size: 30px;
 }
  /* ellipse nav  */
- .ellipse-container {
+ .map {
   align-items: flex-start;
   align-self: center;
   display: flex;
@@ -801,8 +801,8 @@ margin-top: 0;
   min-width: 65px;
 }
 .ellipse {
-  border-radius: 5px;
-  height: 10px;
+  border-radius: 50%;
+  height: 15px;
   width: 10px;
   margin-left: 18px;
 }
