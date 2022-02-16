@@ -763,25 +763,20 @@ Footer Variables
   margin-left: 0px;
   overflow: hidden;
   width: 165px;
-}
-.mf0 {
-align-self: flex-end;
-background-color: var(--level-3-light);
-}
-.mf1 {
   background-color: var(--level-3-light);
 }
-.mf2 {
-  background-color: var(--level-3);
+.mf:hover {
+  background: var(--level-3);
 }
-.mf: :hover {
-  background-color: var(--level-3-light);
+.mf:hover .a7{
+  color: var(--white);
 }
-
-.mf3 {
-  align-self: flex-end;
-  background-color: var(--level-3-light);
-}  
+.mf:hover .a8{
+  color: var(--white);
+}
+.mf.a7:hover {
+  color: var(--white) ;
+}
 /* module title  */
 .m-text {
   height: 45px;
@@ -792,12 +787,6 @@ background-color: var(--level-3-light);
 .m10 {
 margin-left: 0;
 margin-top: 0;
-}
-.m-onclick {
-  color: var(--white);
-  font-family: var(--font-family-roboto_condensed);
-  font-weight: 700;
-  font-size: 30px;
 }
  /* ellipse nav  */
  .map {
@@ -918,6 +907,7 @@ margin-top: 0;
   scrollbar-width: none;
   display: block;
   max-width: 850px;
+  display: none;
 }
 
 #carousel::-webkit-scrollbar {
