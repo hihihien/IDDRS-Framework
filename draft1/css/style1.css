@@ -146,9 +146,19 @@ Variables
 Global Variables
 ===============
 */
+html {
+  scroll-behavior: smooth;
+}
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 @media screen and (min-width: 1200px) {
   .search-container {
-    width: 1ßß%;
+    width: 100%;
     grid-template-columns: 1fr 1fr;
   }
   .photo {
@@ -559,11 +569,11 @@ Footer Variables
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-top: 202px;
+  margin-top: 10px;
   min-height: 363px;
   width: 1464px;
   left: 0;
-  position: absolute;
+  position: relative;
   padding-top: 30px;
 }
 .footer-section {
@@ -693,22 +703,16 @@ Footer Variables
   margin-left: 16px;
   min-width: 114px;
 }
-/* footer background */
-.footer-bg {
-  background-color: #e1e1e1;
-  height: 58px;
-  width: 1440px;
-}
 
 /* new elements*/
 .flex-row-2 {
   align-items: flex-start;
   align-self: center;
   display: flex;
-  height: 168px;
-  margin-left: 40px;
+  /* height: 168px;
+  margin-left: 40px; */
   margin-top: 26px;
-  min-width: 890px;
+  /* min-width: 890px; */
 }
 
 /* arrow click  */
@@ -770,6 +774,10 @@ background-color: var(--level-3-light);
 .mf2 {
   background-color: var(--level-3);
 }
+.mf: :hover {
+  background-color: var(--level-3-light);
+}
+
 .mf3 {
   align-self: flex-end;
   background-color: var(--level-3-light);
@@ -819,7 +827,8 @@ margin-top: 0;
  /* result  */
 .overlap-group6 {
   height: 1359px;
-  margin-top: 100px;
+  margin-top: 50px;
+  margin-bottom: 70px;
   position: relative;
   width: 1464px;
 }
@@ -919,3 +928,6 @@ margin-top: 0;
   width: 180px !important;
 } */
 
+#summary {
+  display: none;
+}
