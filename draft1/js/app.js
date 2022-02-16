@@ -1,4 +1,4 @@
-// owl carousel with dots
+// owl carousel with dots and buttons
 $(document).ready(function(){
   $(".owl-carousel").owlCarousel({
     nav: true,
@@ -12,6 +12,7 @@ $(document).ready(function(){
   );
 });
 
+// show and hide modules
 function showSummary(id) {
   var e = document.getElementById(id);
   if(e.style.display == 'block')
@@ -26,9 +27,6 @@ function showModule(id) {
   else
     e.style.display = 'block';
 }
-
-
-
 
 
 
