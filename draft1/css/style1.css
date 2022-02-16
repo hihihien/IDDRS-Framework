@@ -170,9 +170,9 @@ html {
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 3270px;
+  height: 4000px;
   overflow: hidden;
-  width: 1440px;
+  width: 100%;
 }
 a, a:hover, a:focus, a:active {
   text-decoration: none;
@@ -205,7 +205,8 @@ Header Variables
 .overlap-group4 {
   height: 53px;
   position: relative;
-  width: 1440px;
+  width: 100%;
+  display: flex;
 }
 .nav-header-bg {
   background-color: var(--concrete);
@@ -213,7 +214,7 @@ Header Variables
   left: 0;
   position: absolute;
   top: 0;
-  width: 1440px;
+  width: 100%;
 }
 .nav-header-underline {
   background-color: #009edb;
@@ -221,7 +222,7 @@ Header Variables
   left: 0;
   position: absolute;
   top: 47px;
-  width: 1440px;
+  width: 100%;
 }
 .home-logo {
   color: var(--black);
@@ -231,7 +232,7 @@ Header Variables
   height: 20px;
   left: 67px;
   letter-spacing: 0;
-  position: absolute;
+  position: relative;
   top: 15px;
   width: 33px;
 }
@@ -241,10 +242,11 @@ Header Variables
   letter-spacing: 0;
   position: absolute;
   top: 16px;
+  width: 20%;
 }
 .home {
   height: 30px;
-  left: 1128px;
+  left: 86%;
   letter-spacing: 0;
   position: absolute;
   top: 12px;
@@ -252,15 +254,15 @@ Header Variables
 }
 .contact-us {
   height: 30px;
-  left: 1219px;
+  left: 91%;
   letter-spacing: 0;
-  position: absolute;
+  position: relative;
   top: 12px;
   width: 96px;
 }
 .login {
   height: 30px;
-  left: 1350px;
+  left: 89%;
   letter-spacing: 0;
   position: absolute;
   top: 12px;
@@ -270,9 +272,10 @@ Header Variables
 .masterhead {
   align-items: center;
   display: flex;
-  margin-left: 100px;
+  margin-left: 150px;
   margin-top: 34px;
   min-width: 721px;
+  position: relative;
 }
 .navbar-brand {
   height: 112px;
@@ -320,19 +323,17 @@ Header Variables
 .overlap-group2 {
   align-self: center;
   height: 53px;
-  margin-right: 22px;
   margin-top: 38px;
   position: relative;
-  width: 1216px;
+  width: 90%;
 }
 .nav-bar {
   background-color: var(--abbey);
   display: flex;
   height: 53px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 1216px;
+  position: relative;
+  width: 100%;
+  align-self: center;
 }
 .the-iddrs {
   height: 21px;
@@ -389,47 +390,48 @@ Body Variables
 */
 /* Paragraphs */ 
 .para-container {
-  align-items: flex-start;
+  align-items: center;
   align-self: center;
   display: flex;
-  margin-right: 23px;
-  margin-top: 22px;
-  min-width: 1217px;
+  margin: 2%;
+  margin-left: 0spx;
+  max-width: 100%;
 }
 .p2 {
   height: 176px;
   letter-spacing: 0;
   width: 564px;
+  align-self: start;
 }
 .p3 {
   height: 160px;
   letter-spacing: 0;
   margin-left: 45px;
   width: 608px;
+  align-self: end;
 }
 /* Search Container */
-.search-container {
+.search-bg {
   align-self: center;
   background-image: url(../assets/IDDRS.png);
   background-position: 50% 50%;
   background-size: cover;
-  height: 490px;
-  margin-right: 23px;
-  margin-top: 19px;
+  height: 25%;
+  margin-top: 20px;
   position: relative;
-  width: 1217px;
+  width: 90%;
 }
 .search-bar {
-  -webkit-backdrop-filter: blur(4px) brightness(100%);
   backdrop-filter: blur(4px) brightness(100%);
   background-color: var(--white);
   border: 3px solid var(--concrete);
   border-radius: 15px;
-  height: 40px;
-  left: 208px;
+  height: 50px;
+  margin: 20%;
+  margin-top: 700px;
+  align-self: center;
+  width: 60%;
   position: absolute;
-  top: 390px;
-  width: 825px;
 }
 .search-icon {
   color: var(--gray);
@@ -437,12 +439,13 @@ Body Variables
   font-size: 30px;
   font-weight: 400;
   height: 47px;
-  left: 213px;
+  left: 20%;
+  top: 86%;
   letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 390px;
   width: 54px;
+  align-self: start;
 }
 .placeholder {
   color: var(--gray);
@@ -450,10 +453,10 @@ Body Variables
   font-size: var(--font-size-xl);
   font-weight: 400;
   height: 29px;
-  left: 278px;
+  left: 23%;
   letter-spacing: 0;
   position: absolute;
-  top: 400px;
+  top: 87%;
 }
 /*
 =============== 
@@ -571,7 +574,7 @@ Footer Variables
   flex-direction: column;
   margin-top: 10px;
   min-height: 363px;
-  width: 1464px;
+  width: 100%;
   left: 0;
   position: relative;
   padding-top: 30px;
@@ -583,18 +586,19 @@ Footer Variables
   flex-direction: column;
   min-height: 305px;
   padding: 59px 51px;
-  width: 1339px;
+  width: 100%;
 }
 .footer-line {
   height: 1px;
   margin-top: 38px;
-  width: 1317px;
+  width: 100%;
 }
 /* footer flex social media */
 .footer-flex-1 {
   align-items: center;
+  align-self: flex-end;
   display: flex;
-  min-width: 1299px;
+  width: 100%;
 }
 .footer-flex-2 {
   align-items: flex-start;
@@ -607,7 +611,6 @@ Footer Variables
 .un-logo{
   height: 89px;
   object-fit: cover;
-  width: 298px;
 }
 .footer-icon {
   color: var(--white);
@@ -622,7 +625,7 @@ Footer Variables
   min-width: 40px;
   }
 .facebook {
-  margin-left: 387px;
+  margin-left: 65%;
 }
 .donate-button {
   align-items: flex-end;
@@ -820,6 +823,7 @@ margin-top: 0;
   margin-bottom: 70px;
   position: relative;
   width: 1464px;
+  align-self: center;
 }
 .result-bg {
   background-color: var(--concrete);
@@ -845,14 +849,13 @@ margin-top: 0;
 }
 
 /* view module button  */
-.overlap-group1 {
+.module-button {
   height: 81px;
   left: 1106px;
   position: absolute;
   top: 86px;
   width: 163px;
 }
-
 .view-module {
   color: var(--black);
   font-family: var(--font-family-roboto);
@@ -867,7 +870,6 @@ margin-top: 0;
   top: 0;
   width: 163px;
 }
-
 .view-module-button {
   background-color: var(--white);
   border: 1px solid var(--black);
@@ -877,6 +879,12 @@ margin-top: 0;
   position: absolute;
   top: 13px;
   width: 142px;
+}
+.module-button:hover .view-module {
+  color: var(--white);
+}
+.module-button:hover .view-module-button {
+  background: var(--black);
 }
 
 .module-sum {
