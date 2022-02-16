@@ -756,7 +756,7 @@ Footer Variables
   display: flex;
   flex-direction: column;
   height: 165px;
-  margin-left: 46px;
+  margin-left: 0px;
   overflow: hidden;
   width: 165px;
 }
@@ -819,7 +819,7 @@ margin-top: 0;
  /* result  */
 .overlap-group6 {
   height: 1359px;
-  margin-top: 32px;
+  margin-top: 100px;
   position: relative;
   width: 1464px;
 }
@@ -899,7 +899,7 @@ margin-top: 0;
 #content1 {
   display: grid;
   grid-gap: 0;
-  grid-auto-flow: column;
+  grid-auto-flow: row;
   margin: auto;
   box-sizing: border-box;
 }
@@ -908,9 +908,14 @@ margin-top: 0;
   scroll-behavior: smooth;
   scrollbar-width: none;
   display: block;
-  max-width: 890px;
+  max-width: 850px;
 }
 
 #carousel::-webkit-scrollbar {
   height: 0;
 }
+
+/* .owl-item {
+  width: 180px !important;
+} */
+
