@@ -1,3 +1,6 @@
+
+
+
 .nav-header-underline {
   background-color: #009edb;
   height: 6px;
@@ -13,6 +16,26 @@
   float: right !important;
 }
 
-.btn.dark, .dark .btn, .gray-bg .btn {
-  background-color: white;
+.footer .donate {
+  margin-top: 1.7rem;
+  margin-left: 2.8rem;
+  margin-right: 0.1rem;
+  padding-left: 2.1rem;
+  border-left-width: 0.1rem;
+  border-left-style: solid;
+  border-left-color: var(--mist-gray);
+}
+
+.footer .social-media {
+  margin-top: 1.7rem;
+}
+
+footer.footer .social-media .nav.list-inline {
+  float: right;
+}
+
+.btn.dark,
+.dark .btn,
+.gray-bg .btn {
+  background: white; 
 }
