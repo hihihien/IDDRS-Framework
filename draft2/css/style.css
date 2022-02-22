@@ -3,6 +3,16 @@
   height: 6px;
   left: 0;
   position: absolute;
-  top: 47px;
   width: 100%;
+}
+
+.pull-left {
+  float: left !important;
+}
+.pull-right {
+  float: right !important;
+}
+
+.btn.dark, .dark .btn, .gray-bg .btn {
+  background-color: white;
 }
