@@ -29,7 +29,7 @@
 }
 
 
-.overlap-group6 {
+/* .overlap-group6 {
     height: 1359px;
     margin-top: 50px;
     margin-bottom: 70px;
@@ -57,11 +57,11 @@
     position: absolute;
     text-align: center;
     top: 57px;
-    width: 364px;
+    width: 364px; */
   }
   
   /* view module button  */
-  .module-button {
+  /* .module-button {
     height: 81px;
     left: 1106px;
     position: absolute;
@@ -101,10 +101,6 @@
   
   .module-sum {
     color: var(--black);
-    font-family: var(--font-family-roboto);
-    font-size: var(--font-size-m);
-    font-weight: 400;
-    left: 132px;
     letter-spacing: 0;
     line-height: 25px;
     font-style: normal;
@@ -115,7 +111,7 @@
   #summary {
     display: none;
   }
-  
+   */
 
 
 /* arrow click  */
