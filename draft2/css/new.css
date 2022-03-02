@@ -20,6 +20,183 @@
     --level-5: rgba(192, 40, 30, 1);
     --level-6: rgba(195, 127, 175, 1);
 }
+.fontawesome5free-solid-normal-gray-30px {
+    color: var(--gray);
+    font-family: var(--font-family-font_awesome_5_free-solid) !important;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.overlap-group6 {
+    height: 1359px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    position: relative;
+    width: 1464px;
+    align-self: center;
+  }
+  .result-bg {
+    background-color: var(--concrete);
+    height: 1140px;
+    left: 92px;
+    position: absolute;
+    top: 0;
+    width: 1224px;
+  }
+  .result-title {
+    color: var(--mine-shaft);
+    font-family: var(--font-family-roboto);
+    font-size: 32px;
+    font-weight: 700;
+    height: 57px;
+    left: 123px;
+    letter-spacing: 0;
+    line-height: 25px;
+    position: absolute;
+    text-align: center;
+    top: 57px;
+    width: 364px;
+  }
+  
+  /* view module button  */
+  .module-button {
+    height: 81px;
+    left: 1106px;
+    position: absolute;
+    top: 86px;
+    width: 163px;
+  }
+  .view-module {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xs);
+    font-weight: 400;
+    height: 81px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 25px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 163px;
+  }
+  .view-module-button {
+    background-color: var(--white);
+    border: 1px solid var(--black);
+    border-radius: 10px;
+    height: 56px;
+    left: 11px;
+    position: absolute;
+    top: 13px;
+    width: 142px;
+  }
+  .module-button:hover .view-module {
+    color: var(--white);
+  }
+  .module-button:hover .view-module-button {
+    background: var(--black);
+  }
+  
+  .module-sum {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    left: 132px;
+    letter-spacing: 0;
+    line-height: 25px;
+    font-style: normal;
+    position: relative;
+    top: 149px;
+    width: 1161px;
+  }
+  #summary {
+    display: none;
+  }
+  
+
+
+/* arrow click  */
+.arrow {
+    color: var(--cerulean);
+    font-family: var(--font-family-font_awesome_5_free-solid);
+    font-size: 60px;
+    font-weight: 400;
+    font-style: normal;
+    align-self: center;
+    height: 82px;
+    letter-spacing: 0;
+    margin-bottom: 2px;
+    text-align: center;
+    width: 103px;
+    position: -webkit-sticky;
+  }
+  #next {
+    margin-left: 39px;
+    position: block;
+  }
+  #prev {
+    position: block;
+  }
+
+/* carousel  */
+.flex-row-2{
+    max-width: 900px;
+    align-self: center !important;
+}
+
+#carousel {
+    max-width: 900px;
+    overflow: auto;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    display: inline-flex;
+    align-self: center;
+    margin: 10px 0px 0px 40px;
+}
+#content1 {
+    display: grid;
+    grid-gap: 0;
+    grid-auto-flow: row;
+    margin: auto;
+    box-sizing: border-box;
+}
+#carousel::-webkit-scrollbar {
+    height: 0;
+}
+
+/* levels expand  */
+.h1 {
+    color: var(--level-3) !important;
+}
+.h6 {
+    color: var(--level-3) !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    text-align: left;
+    margin: 10px;
+}
+.mf3 {
+    display: flex;
+    flex-direction: column;
+    width: 165px;
+    height: 165px;
+    margin: 5px 50px 5px 50px;
+    border-radius: 0px;
+    overflow: hidden;
+    background-color: var(--level-3-light);
+  }
+.mf3:hover {
+    background: var(--level-3);
+}
+.mf3:hover .h1 {
+    color: var(--white) !important;
+  }
+.mf3:hover .h6{
+    color: var(--white) !important;
+}
 /* 6 levels */
 .frame-container {
     margin: 0 auto;
@@ -137,8 +314,8 @@ label[for="email"] {
         width: 30px !important;
         margin: -5px 0 0 5px !important;
      }
-    }
-  }
+    
+}
 @media only screen and (max-width: 992px) {
     div#form-box {
         margin-top: -45px;
