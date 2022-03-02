@@ -1,0 +1,125 @@
+
+
+
+
+
+
+/* paragraph */
+#para-divide {
+    padding-top: 10px;
+    -webkit-columns: 40px 2;
+    /* Chrome, Safari, Opera */
+    -moz-columns: 60px 2;
+    /* Firefox */
+    columns: 60px 2;
+}
+/* search container  */
+.search-bg {
+    position: relative;
+} 
+/* search form  */
+img {
+    width: 100%;
+}
+
+div#form-box {
+    text-align: center;
+    margin-top: -75px;
+}
+
+div#input-group {
+    width: 60%;
+    margin: 0 auto 30px;
+    position: relative;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+  
+input#email, label[for="email"] {
+    display: inline-block;
+    vertical-align: center;
+    height: 30px;
+}
+  
+input#email {
+    width: calc(100% - 60px);
+    padding: 10px;
+    border: none;
+    margin: 5px auto;
+}
+  
+label[for="email"] {
+    width: 40px;
+    
+    line-height: 40px;
+}
+
+@media only screen and (max-width: 1200px) {
+    div#form-box {
+        margin-top: -45px;
+        text-align: center;
+    }
+    input#email, label[for="email"] {
+        display: inline-block;
+        vertical-align: center;
+        height: 20px;
+    }
+    .glyphicon {
+        float: left;
+        width: 30px !important;
+        margin: -5px 0 0 5px !important;
+     }
+    }
+  }
+@media only screen and (max-width: 992px) {
+    div#form-box {
+        margin-top: -45px;
+        text-align: center;
+    }
+    input#email, label[for="email"] {
+        display: inline-block;
+        vertical-align: center;
+        height: 20px;
+    }
+    .glyphicon {
+        float: left;
+        width: 30px !important;
+        margin: -5px 0 0 5px !important;
+     }
+}
+@media only screen and (max-width: 768px) {
+    div#form-box {
+        margin-top: -45px;
+        height: 50px;
+        text-align: center;
+    }
+    input#email, label[for="email"] {
+        display: inline-block;
+        vertical-align: center;
+        height: 20px;
+    }
+    .glyphicon {
+        float: left;
+        width: 30px !important;
+        margin: -5px 0 0 5px !important;
+    }
+    
+}
+  @media only screen and (max-width: 576px) {
+    div#form-box {
+        margin-top: -35px;
+        height: 50px;
+        text-align: center;
+    }
+    input#email, label[for="email"] {
+        display: inline-block;
+        vertical-align: bottom;
+        height: 20px;
+    }
+    .glyphicon {
+       float: left;
+       width: 30px !important;
+       margin: -5px 0 0 5px !important;
+    }
+  }
