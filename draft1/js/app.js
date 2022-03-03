@@ -7,9 +7,7 @@ $(document).ready(function(){
     slideBy: 5,
     items: 4,
     margin: 0,
-  }
-
-  );
+  });
 });
 
 // show and hide modules

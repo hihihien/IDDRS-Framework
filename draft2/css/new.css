@@ -27,6 +27,10 @@
     font-weight: 400;
     font-style: normal;
 }
+.navbar-brand {
+    margin-top:0px !important;
+    padding-top: 0px !important ;
+}
 
 /* view module button  */
 .view-module {
@@ -100,7 +104,10 @@
 /* carousel  */
 .flex-row-2{
     max-width: 900px;
-    align-self: center !important;
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    margin-top: 26px;
 }
 
 #carousel {
@@ -111,7 +118,7 @@
     display: inline-flex;
     align-self: center;
     margin: 10px 0px 0px 40px;
-    display: none;
+    /* display: none;  */
 }
 #content1 {
     display: grid;
