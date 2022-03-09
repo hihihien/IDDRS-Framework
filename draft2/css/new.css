@@ -46,7 +46,8 @@
     border-radius: 10px;
     height: 40px;
     width: 142px;
-    margin-top: 20px !important;
+    margin-top: 50px !important;
+    margin-right: 10px;
 }
 
 #view-module-button:hover .view-module {
@@ -57,7 +58,7 @@
 }
 @media only screen and (max-width: 576px) {
     #view-module-button {
-        margin-left: 30px;
+        margin-left: 30px !important;
     }
 }
 
@@ -77,6 +78,9 @@
 }
 .expand-text {
    margin-bottom: 50px;
+}
+#summary {
+    
 }
 /* arrow click  */
 .arrow {
@@ -103,7 +107,6 @@
 
 /* carousel  */
 .flex-row-2{
-    max-width: 900px;
     align-items: flex-start;
     align-self: center;
     display: flex;
@@ -111,13 +114,14 @@
 }
 
 #carousel {
-    max-width: 900px;
+    /* max-width: 900px; */
     overflow: auto;
     scroll-behavior: smooth;
     scrollbar-width: none;
-    display: inline-flex;
-    align-self: center;
-    margin: 10px 0px 0px 40px;
+    display: block;
+    max-width: 850px;
+    display: none;
+    align-items: center;
     /* display: none;  */
 }
 #content1 {
@@ -147,7 +151,7 @@
     flex-direction: column;
     width: 165px;
     height: 165px;
-    margin: 5px 50px 5px 50px;
+    margin: 5px 0px 5px 0px;
     border-radius: 0px;
     overflow: hidden;
     background-color: var(--level-3-light);
@@ -163,8 +167,40 @@
 }
 /* 6 levels */
 .frame-container {
-    margin: 0 auto;
+    margin: auto;
+    align-items: center;
 }
+@media only screen and (min-width: 1200px) {
+    .frame-container {
+        margin-left: 70px;
+        align-items: center;
+    }
+    #carousel {
+        margin-left: 200px !important;
+        align-items: center;
+    }
+    
+}
+@media only screen and (min-width: 992px) {
+    .frame-container {
+        margin-left: 0px;
+        align-items: center;
+    }
+    #carousel {
+       max-width: 750px;
+       margin-left: 50px;
+        align-items: center;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .frame-container {
+        align-items: center;
+    }
+    .expand-title {
+        padding: 0px;
+    }
+}
+
 .frame-box {
     width: 165px;
     height: 165px;
