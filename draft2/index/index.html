@@ -1,162 +1,372 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Landing Page</title>
+<html dir="ltr" lang="en">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-    <!-- styles -->
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+		<meta name="description" content=""/>
+		<meta name="author" content="United Nations"/>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="shortcut icon" href="https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico" type="image/vnd.microsoft.icon" />
+    <style type="text/css">
+        @import url("https://www.un.org/modules/system/system.base.css?r7ptll");
+    </style>
+    <style type="text/css">
+        @import url("https://www.un.org/sites/un2.un.org/modules/calendar/css/calendar_multiday.css?r7ptll");
+        @import url("https://www.un.org/sites/un2.un.org/modules/date/date_repeat_field/date_repeat_field.css?r7ptll");
+        @import url("https://www.un.org/modules/field/theme/field.css?r7ptll");
+        @import url("https://www.un.org/modules/node/node.css?r7ptll");
+        @import url("https://www.un.org/sites/un2.un.org/modules/views/css/views.css?r7ptll");
+        @import url("https://www.un.org/sites/un2.un.org/modules/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?r7ptll");
+    </style>
+    <style type="text/css">
+        @import url("https://www.un.org/sites/un2.un.org/modules/ctools/css/ctools.css?r7ptll");
+        @import url("https://www.un.org/modules/locale/locale.css?r7ptll");
+    </style>
+
+    <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@unicorn-fail/drupal-bootstrap-styles@0.0.2/dist/3.3.1/7.x-3.x/drupal-bootstrap.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto+Slab:400,700|Roboto:300,400,400i,500,700&amp;display=swap&amp;subset=cyrillic" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
     <link rel="stylesheet" href="../css/owl.carousel.min.css">
     <link rel="stylesheet" href="../css/owl.theme.default.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
-    <link
-    href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" 
-    rel="stylesheet" 
-    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" 
-    crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/style.css" />
-  </head>
-  <body>
-    <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="https://www.unddr.org/">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6zm5-.793V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z"/>
-                        <path fill-rule="evenodd" d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z"/>
-                    </svg> 
-                    Welcome to the United Nations
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto d-flex mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="https://www.unddr.org/">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="https://sso.unite.un.org/adfs/ls/?client-request-id=de3bd6ae-5ffb-4012-97c8-84c54d99d4ed&username=&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQIIAdNiNtQztFIxgAAjXRCpa5CWZqibnApiIYEiIS6Bddes7_2OF3KYfqLlqO_MK29nMbKV5unlF6WvYlTKKCkpKLbS188vLcnJz8_Wy09Ly0xONTYz1UvOz9XPL0_U38HIeIGRcRWTuZmxmaWRsYGRsZGZgbGpmZmloV6aWWKiOZDQNTIxTtE1SU1J07VISjHTTU60NE5MNDFKMjA2vsXE7-9YWpJhBCLyizKrUj8xcablF-XGF-QXl8xiznBJLq5wyXdMd3F1Ccov9MvzDnf2CYo0DQnyK8_2DXFLNS43j09KsXAqd6_wy8kvdo9ydy2o8HKP9ArwzA3NSUoLCglNCvbMTioo8jM0di8OCfAJLk8s9EzMjTKyDK7ITMsoSzMyMc_RXcVMVIhtYmYDej03P-8UM1t-QWpeZsoFFsYfLIyLWIFBuX7vorUOGx-4LzrIda18qxjDKVZ90xAj_YLKIEM_zwoTS2_nPO3QJLNEnwh3HyPtrNzA3GDvtPzQolSP8ERnT1szK8MJbIwT2NhesDF-YGPsYGfYxUlEFNziEjEyMLTUNTDVNTBUMDSwMjSyMjSMAgA1">Login</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="https://www.un.org/en/contact-us-0" tabindex="-1" aria-disabled="true">Contact Us</a>
-                    </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <div class="nav-header-underline"></div>
+    <style type="text/css">
+        @import url("https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/css/style.css?r7ptll");
+    </style>
+    <style type="text/css">
+        @import url("https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/css/bootstrap-accessibility.css?r7ptll");
+        @import url("https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/css/style-chronicle.css?r7ptll");
+        @import url("https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/css/style-wss.css?r7ptll");
+    </style>
+    <link rel="stylesheet" href="../css/new.css">
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-35441 node-type-page i18n-en">
+  <!-- un-header -->
+  <div class="wrapper">
+    <!-- UN.ORG language bar -->
+    <nav id="brand-bar" class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <!-- UN global brand bar -->
+      <div class="container-fluid brandbar-header language-switcher">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="https://www.un.org/">Welcome to the United Nations</a>
+        </div>
+        <!-- UN global brand bar and language switcher -->
+        <div class="navbar-collapse collapse" id="language-switcher">
+          <nav role="navigation">
+            <ul class="language-switcher-locale-url nav navbar-nav navbar-right" role="menu">
+              <ul class="language-switcher-locale-url">
+                <li class="ar first"><a href="https://www.un.org/en/" class="language-link" role="menuitem">Home</a></li>
+                <li class="zh-hans"><a href="https://www.unddr.org/" class="language-link" role="menuitem">Login</a></li>
+                <li class="en"><a href="https://www.un.org/en/contact-us-0" class="language-link" role="menuitem">Contact Us</a></li>
+              </ul>            
+            </ul>
+          <!-- </nav> -->
+        </div>
+        <!-- UN.ORG side bar end -->
+      </div>
+    </nav>
+    <!-- un-header -->
+    <header id="navbar" role="banner" class="">
+      <div class="container">
+        <!-- <nav class="navbar navbar-default"> -->
+          <div class="navbar-header">
+            <a class="logo navbar-btn pull-left flip emblem_menu_and_masthead" href="/en" title="United Nations">
+              <img src="https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/logo.png" alt="UN logo" />
+            </a>
+            <a class="navbar-brand pull-left flip" href="">The Integrated Disarmament <BR> Demobilization and <BR> Reintegration Standards</a>
+              <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-main-menu">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              </button>
+          </div>
+          <div class="collapse navbar-collapse" id="bs-navbar-main-menu">
+            <ul id="main-menu" class="nav navbar-nav">        
+              <li class="menu-23298 top-level">          
+                <a href="https://www.unddr.org/the-iddrs/" role="button" class="" aria-expanded="false" title="">The IDDRS</a>         
+              </li>
+              <li class="menu-23299 top-level">          
+                <a href="https://www.unddr.org/" role="button" class="" aria-expanded="false" title="">Search</a>         
+              </li>        
+              <li class="menu-23301 top-level">          
+                <a href="https://www.un.org/en/about-us/frequently-asked-questions" role="button" title="" class="">FAQ</a>
+              </li>        
+              <li class="menu-23297 top-level">          
+                <a href="https://www.unddr.org/ddr-training/" role="button" title="" class="">How to</a>
+              </li>             
+            </ul>          
+          </div>    
+      </div>    
+      <!-- close div container -->
     </header>
-    <main class="my-3">
-    <div class="container">
-        <div class="row">
-            <div class="col-2 col-md-6">
-                <img src="../assets/logo.png" alt="" class="img-fluid">
-            </div>
-            <div class="col-2 col-md-6">
-               <h2>United Nations</h2>
-            </div>
-            <div class="col-3 col-md-6">
-                The Integrated Disarmament Demobilization and Reintegration Standards
-            </div>
+    <!-- end un-header -->
+    <div class="main-container container">
+      <div class="row">
+        <div class="col-sm-12">
+          <section class="region region-content">
+            <section id="block-system-main" class="block block-system clearfix">
+              <!-- search container -->
+              <div class="search-bg">
+                <img src="../assets/IDDRS.png"/>
+                <div id="form-box">
+                  <form>
+                    <div id="input-group">
+                      <label for="email" class="glyphicon glyphicon-search"></label><!--
+                      --><input type="text" placeholder="Search IDDRS" id="email">
+                    </div>
+                    <br/>
+                  </form>
+                </div>
+              </div>
+              <!-- The IDDRS  -->
+              <div class="h3" style="border-bottom: 5px solid #00adef; width: 100px;">The IDDRS</div>
+              <div id="para-divide">
+                <p class="">
+                  The Integrated DDR Standards have been formulated through the joint efforts of 25 UN entities, which together form the Inter-Agency
+                  Working Group on DDR (IAWG). Between 2009 and 2014, the IDDRS have been updated with new and revised modules. In 2017, the IAWG took
+                  the decision to undertake a comprehensive review of the IDDRS, which culminated with the launch of the revised UN Approach to DDR in
+                  2019.<br /><br />The IDDRS were originally developed to provide guidance in post-conflict contexts where DDR forms an integral part of
+                  comprehensive peace agreements, usually where peace operations have also been established and mandated to support national DDR
+                  efforts.
+                </p>
+                <p class="">
+                  Following the 2017-2019 IDDRS review, the revised UN Approach to DDR provides guidance to DDR practitioners working in both mission
+                  and non-mission settings as well as for DDR efforts within and outside the framework of comprehensive peace agreements.<br /><br />The
+                  Integrated Disarmament, Demobilization and Reintegration Standards (IDDRS) have been formulated through the joint efforts of 25 UN
+                  entities, which together form the Inter-Agency Working Group on DDR (IAWG), and guide the United Nations system’s support to
+                  Disarmament, Demobilization and Reintegration (DDR) processes.
+                </p>
+              </div>
+              <!-- IDDRS Frameworks  -->
+              <div class="h3" style="border-bottom: 5px solid #00adef; width: 150px;">IDDRS Framework</div>                               
+              <!-- 6 levels box  -->
+              <div class="col-md-12">
+                  <div class="frame-container d-flex flex-row flex-wrap">
+                    <div class="badge badge align-self-center frame-box flex-row f1"> 
+                      <div class="flex-row frame-title">
+                        <h2>Level&nbsp;</h2>
+                        <a>1</a>
+                      </div>
+                        <h3>General IDDRS</h3>
+                    </div>
+                    <div class="badge align-self-center frame-box flex-row f2"> 
+                      <div class="flex-row frame-title ">
+                        <h2>Level&nbsp;</h2>
+                        <a>2</a>
+                      </div>
+                      <h3>Concepts, Policy <br> And Strategy <br> Of The IDDRS</h3>                                      
+                    </div>
+                    <div class="badge align-self-center frame-box flex-row f3" onclick="showModule('carousel')"> 
+                      <div class="flex-row frame-title">
+                        <h2>Level&nbsp;</h2>
+                        <a>3</a>
+                      </div>
+                      <h3>Structures And <br> Processes</h3>                                      
+                    </div>
+                    <div class="badge align-self-center frame-box flex-row f4"> 
+                      <div class="flex-row frame-title">
+                        <h2>Level&nbsp;</h2>
+                        <a>4</a>
+                      </div>
+                      <h3>Operations,<br> Programmes And <br> Support</h3>                                      
+                    </div>
+                    <div class="badge align-self-center frame-box flex-row f5"> 
+                      <div class="flex-row frame-title">
+                        <h2>Level&nbsp;</h2>
+                        <a>5</a>
+                      </div>
+                      <h3>Cross-cutting <br> Issues</h3>                                      
+                    </div>
+                    <div class="badge align-self-center frame-box flex-row f6"> 
+                      <div class="flex-row frame-title">
+                        <h2>Level&nbsp;</h2>
+                        <a>6</a>
+                      </div>
+                      <h3>Linkages</h3>                                      
+                    </div>
+                  </div>
+                  <!-- <div class="col-md-1"></div> -->
+              </div>
+              <!-- expand levels box 3 -->
+              <div class="flex-row-2 col-md-12">
+                <div id="carousel">
+                  <div id="content1" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap">
+                        <div class="badge badge align-self-center flex-row mf3 " onclick="showSummary('summary')">
+                          <div class="h1">M 3.10</div>
+                          <div class="h6">
+                          Integrated ​DDR <br> Planning: Processes <br> And Structures
+                          </div>
+                        </div>
+                        <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')" >
+                          <div class="h1">M 3.11</div>
+                          <div class="h6">Integrated <br> Assessments</div>
+                        </div>
+                        <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
+                          <div class="h1">M 3.20</div>
+                          <div class="h6">DDR Programme <br> Design</div>
+                        </div>
+                        <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
+                          <div class="h1">M 3.21</div>
+                          <div class="h6">
+                            Participants,<br> Beneficiaries,<br> And Partners
+                        </div>
+                        </div>
+                        <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
+                          <div class="h1">M 3.30</div>
+                          <div class="h6">
+                            National Institutions ​<br />for DDR
+                        </div>
+                        </div>
+                        <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
+                          <div class="h1">M 3.41</div>
+                          <div class="h6">Mission and <br> Programme Support <br> for DDR</div>
+                        </div>
+                        <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
+                          <div class="h1">M 3.42</div>
+                          <div class="h6">Personnel and <br> Staffing</div>
+                        </div>
+                        <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
+                          <div class="h1">M 3.50</div>
+                          <div class="h6">
+                          Monitoring and <br> Evaluation
+                          </div>
+                        </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="expand-wrap col-md-12" id="summary">
+                    <div class="d-flex flex-row"> 
+                      <div class="expand-title ">
+                        <h2>DDR Programme Design</h2>
+                        <h3>Summary</h3>
+                      </div>
+                      <div class="col-sm-2 col-md-4 col-lg-6 col-xl-7"></div>
+                      <div id="view-module-button" class="ml-auto align-self-end " onclick="location.href='https://www.unddr.org/modules/IDDRS-3.20-DDR-Programme-Design.pdf'">
+                          <div class="view-module">View Module</div>
+                    <!-- <a class="btn btn-primary" style="background-color: #55acee;" href="https://www.unddr.org/modules/IDDRS-3.20-DDR-Programme-Design.pdf" role="button">
+                      View Module
+                    </a> -->
+                      </div>
+                    
+                    <div id="module-sum">
+                        <p class="expand-text">  
+                        Each programme design cycle, including the disarmament, demobilization and reintegration (DDR) programme design cycle, has three stages:
+                        (1) detailed field assessments; (2) detailed programme development and costing of requirements; and (3) development of an implementation 
+                        plan. Throughout the programme design cycle, it is of the utmost importance to use a flexible approach. While experiencing each stage of
+                        the cycle and moving from one stage to the other, it is important to ensure coordination among all the participants and stakeholders 
+                        involved, especially national stakeholders. A framework that would probably work for integrated DDR programme design is the post­conflict 
+                        needs assessment (PCNA), which ensures consistency between United Nations (UN) and national objectives, while considering differing 
+                        approaches to DDR.<br/><br/>
+                        Before the detailed programme design cycle can even begin, a comprehensive field needs assessment should be carried out, focusing on 
+                        areas such as the country’s social, economic and political context; possible participants, beneficiaries and partners in the DDR programme; 
+                        the operational environment; and key priority objectives. This assessment helps to establish important aspects such as positive or negative 
+                        factors that can affect the outcome of the DDR programme, baseline factors for programme design and identification of institutional 
+                        capacities for carrying out DDR.<br/><br/>
+                        During the second stage of the cycle, key considerations include identifying DDR participants and beneficiaries, as well as performance 
+                        indicators, such as reintegration opportunities, the security situation, size and organization of the armed forces and groups, 
+                        socio­economic baselines, the availability and distribution of weapons, etc. Also, methodologies for data collection together with analysis 
+                        of assessment results (quantitative, qualitative, mass surveys, etc.) need to be decided.<br/><br/>
+                        When developing DDR programme documents, the central content should be informed by strategic objectives and outcomes, key principles of 
+                        intervention, preconditions and, most importantly, a strategic vision and approach. For example, in determining an overall strategic approach 
+                        to DDR, the following questions should be asked: (1) How will multiple components of DDR programme design reflect the realities and needs of 
+                        the situation? (2) How will eligibility criteria for entry in the DDR programme be determined? (3) How will DDR activities be organized into 
+                        phases and in what order will they take place within the recommended programme time­frame? (4) Which key issues are vital to the 
+                        implementation of the programme? Defining the overall approach to DDR defines how the DDR programme will, ultimately, be put into operation.
+                        <br/><br/>
+                        When developing the results and budgeting framework, an important consideration should be ensuring that the programme that is designed 
+                        complies with the peacekeeping results­based budgeting framework, and establishing a sequence of stages for the implementation of the 
+                        programme.<br/><br/>
+                        The final stage of the DDR programme design cycle should include developing planning instruments to aid practitioners (UN, non­UN and 
+                        government) to implement the activities and strategies that have been planned. When formulating the sequence of stages for the 
+                        implementation of the programme, particular attention should be paid to coordinated management arrangements, a detailed work plan, timing 
+                        and methods of implementation.<br/><br/>
+                      </p>
+                    </div>
+                  </div>
+              </div>
+            </section>
+          </section>
         </div>
+      </div>
     </div>
-    </main>
-    <footer class="bg-dark mt-5">
-        <div class="nav-header-underline"></div>
-        <div class="container">
-            <div class="row">
+  </div>
+    <!-- footer  -->
+    <div class="section-fluid footer-fluid">
+      <footer class="footer container dark">
+        <div class="row">
                 <!-- row -->
-                <div class="col-md-12 mt-5">
-                    <div class="pull-left">
-                        <a href="https://www.un.org/en/"><img src="../assets/UNFooter.png" width="50%"/></a>
-                    </div>
-                    <div class="pull-right flip donate">
-                        <a href="https://www.un.org/en/about-us/how-to-donate-to-the-un-system" class="btn btn-default btn-reverse dark" role="button">DONATE</a>
-                    </div>
-                    <div class="pull-right text-center flip social-media" role="navigation">
-                        <ul class="mt-1">
-                            <li class="list-inline-item">
-                                <a href="https://www.facebook.com/unitednations">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
-                                        <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
-                                      </svg>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="https://twitter.com/un">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
-                                        <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
-                                      </svg>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="https://www.youtube.com/unitednations">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube" viewBox="0 0 16 16">
-                                        <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z"/>
-                                      </svg>
-                                    </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="https://www.flickr.com/photos/un_photo/"></a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="http://instagram.com/unitednations">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
-                                    </svg>
-                                </a>
-                            </li>
-                        ::after
-                        </ul>
-                    </div>
-                </div>
-                ::after
+            <div class="col-md-12">
+              <div class="pull-left flip footer-brand en">
+                        <!-- footer brand -->
+              <a href="https://www.un.org/en/" title="Home">
+              <span class="site-name">United Nations</span></a>
+              </div><!-- /footer brand -->
+            <div class="pull-right flip donate">
+            <a href="/en/about-us/how-to-donate-to-the-un-system" class="btn btn-default btn-reverse dark" role="button" id="donate_button">Donate</a>
             </div>
-            <div class="row footer-links">
-                ::Before
-                <!-- row  -->
-                <div class="divider"></div>
+              <div class="pull-right flip social-media" role="navigation">
+                        <!-- social media links -->
+              <ul class="nav list-inline">
+              </ul> 
+              </div>
+                      <!-- /social media links -->
+          </div>
+        </div><!-- /row -->
+        <div class="row footer-links">
+                <!-- row -->
+          <div class="divider"></div>
                 <!-- top border -->
-                <div class="col-md-12">
-                    <div class="pull-right flip">
-                        <div id="block-menu-menu-footer-links" class="block block-menu" role="navigation">
-                            <ul class="nav list-inline">
-                                ::before
-                                <li class="list-inline-item">
-                                    <a href="https://www.un.org/en/site-index">A-Z SITE INDEX</a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="https://www.un.org/en/contact-us-0">CONTACT</a> 
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="https://www.un.org/en/about-us/copyright">COPYRIGHT</a> 
-                                </li>
-                                <a href="https://www.un.org/en/about-us/frequently-asked-questions">FAQ</a> 
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="https://www.un.org/en/about-us/fraud-alert">FRAUD ALERT</a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="https://www.un.org/en/about-us/privacy-notice">PRIVACY NOTICE</a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="https://www.un.org/en/about-us/terms-of-use">TERMS OF USE</a> 
-                                </li>
-                                ::after
-                            </ul>
-                        </div> 
-
-                    </div>
-                </div>
-            </div>
+          <div class="col-md-12">
+          <div class="pull-right flip"> 
+            <div id="block-menu-menu-footer-links" class="block block-menu" role="navigation">
+              <ul class="nav row list-inline">
+              <li class="list-inline-item "><a href="https://www.un.org/en/site-index">A-Z Site Index</a>
+                        </li>
+                        <li class="list-inline-item ">
+                            <a href="https://www.un.org/en/contact-us-0">Contact</a>
+                        </li>
+                        <li class="list-inline-item ">
+                            <a href="https://www.un.org/en/about-us/copyright">Copyright</a>
+                        </li>
+                        <li class="list-inline-item ">
+                            <a href="https://www.un.org/en/about-us/frequently-asked-questions">FAQ</a>
+                        </li>
+                        <li class="list-inline-item ">
+                            <a href="https://www.un.org/en/about-us/fraud-alert">Fraud Alert</a>
+                        </li>
+                        <li class="list-inline-item ">
+                            <a href="https://www.un.org/en/about-us/privacy-notice">Privacy Notice</a>
+                        </li>
+                        <li class="list-inline-item last">
+                            <a href="https://www.un.org/en/about-us/terms-of-use">Terms of Use</a>
+                        </li>
+              </ul> 
+            </div> 
+          </div>
         </div>
-    </footer>
-
-
-  </body>
-  <!-- javascript -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        </div>
+            <!-- /row -->
+      </footer>
+    </div>
+    <!-- UN.ORG footer end -->
+  </div>
+  <!-- /non-semantic .wrapper for all pages and languages to apply CSS -->
+  <!-- end un-footer -->
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" ></script>
   <script src="../js/owl.carousel.min.js "></script>
   <script src="../js/app.js"></script>
