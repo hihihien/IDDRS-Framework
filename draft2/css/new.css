@@ -19,14 +19,15 @@
     --level-4: rgba(112, 103, 159, 1);
     --level-5: rgba(192, 40, 30, 1);
     --level-6: rgba(195, 127, 175, 1);
+    /* font family */ 
+    --font-family-font_awesome_5_free-solid: "Font Awesome 5 Free-Solid";
 }
-.fontawesome5free-solid-normal-gray-30px {
-    color: var(--gray);
-    font-family: var(--font-family-font_awesome_5_free-solid) !important;
-    font-size: 30px;
-    font-weight: 400;
+@font-face {
+    font-family: "Font Awesome 5 Free-Solid";
     font-style: normal;
-}
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/FontAwesome5Free-Solid") format("opentype");
+  }
 .navbar-brand {
     margin-top:0px !important;
     padding-top: 0px !important ;
@@ -82,6 +83,7 @@
 #summary {
     margin-bottom: 30px;
     margin-top: 20px;
+    display: none;
 }
 /* arrow click  */
 .arrow {
@@ -112,6 +114,7 @@
     align-self: center;
     display: flex;
     margin-top: 26px;
+    margin-bottom: 20px;
 }
 
 #carousel {
@@ -136,7 +139,7 @@
     height: 0;
 }
 
-/* levels expand  */
+/* levels 3 expand  */
 .h1 {
     color: var(--level-3) !important;
 }
@@ -275,8 +278,25 @@
 .f6 {
     background-color: var(--level-6) ;
 }
-
-
+/* hover effect for level 3 */
+.f1:hover {
+    transform: scale(1.1);
+}
+.f2:hover {
+    transform: scale(1.1);
+}
+.f3:hover {
+    transform: scale(1.1);
+}
+.f4:hover {
+    transform: scale(1.1);
+}
+.f5:hover {
+    transform: scale(1.1);
+}
+.f6:hover {
+    transform: scale(1.1);
+}
 /* paragraph */
 #para-divide {
     padding-top: 10px;
