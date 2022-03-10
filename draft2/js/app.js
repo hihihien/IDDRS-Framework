@@ -8,7 +8,6 @@ $(document).ready(function(){
     items: 4,
     margin: 0,
   }
-
   );
 });
 
@@ -28,6 +27,20 @@ function showModule(id) {
     e.style.display = 'block';
 }
 
+// show selected module
+function ShowRadioButtonDiv (a, NumberOfLevels) {
+  for (x=1;x<=NumberOfLevels;x++) {
+      b = a + x;
+      c = a + x +'Div';
+  if (document.getElementById(b).checked) {
+      document.getElementById(c).style.display = "block";
+      }
+  else {
+      document.getElementById(c).style.display = "none";
+      }
+  }
+  return false;
+}
 
 
 // swipe arrow carousel

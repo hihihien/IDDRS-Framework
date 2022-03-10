@@ -128,7 +128,7 @@
     align-items: center;
     /* display: none;  */
 }
-#content1 {
+#GroupName3Div {
     display: grid;
     grid-gap: 0;
     grid-auto-flow: row;
@@ -213,6 +213,7 @@
 @media only screen and (min-width: 768px) {
     .frame-container {
         align-items: center;
+        margin-left: 50px;
     }
     .expand-title {
         padding: 0px;
