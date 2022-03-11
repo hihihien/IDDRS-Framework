@@ -161,8 +161,21 @@ button:focus, [type='button']:focus, [type='reset']:focus, [type='submit']:focus
     margin-left: 190px;
     margin-bottom: 40px;
 }
+#GroupName2Div {
+    display: none;
+}
+#GroupName3Div {
+    display: none;
+}
+#GroupName4Div {
+    display: none;
+}
+#GroupName5Div {
+    display: none;
+}
 #GroupName6Div {
     margin-bottom: 50px !important;
+    display: none;
 }
 #carousel::-webkit-scrollbar {
     height: 0;
