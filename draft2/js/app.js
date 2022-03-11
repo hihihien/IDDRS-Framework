@@ -19,7 +19,23 @@ function showSummary(id) {
   else
     e.style.display = 'block';
 }
-function showModule(id) {
+function showModule3(id) {
+  var e = document.getElementById(id);
+  if(e.style.display == 'block')
+    e.style.display = 'none';
+  else
+    e.style.display = 'block';
+}
+
+function showModule1(id) {
+  var e = document.getElementById(id);
+  if(e.style.display == 'block')
+    e.style.display = 'none';
+  else
+    e.style.display = 'block';
+}
+
+function showModule2(id) {
   var e = document.getElementById(id);
   if(e.style.display == 'block')
     e.style.display = 'none';
@@ -28,19 +44,21 @@ function showModule(id) {
 }
 
 // show selected module
-function ShowRadioButtonDiv (a, NumberOfLevels) {
-  for (x=1;x<=NumberOfLevels;x++) {
-      b = a + x;
-      c = a + x +'Div';
-  if (document.getElementById(b).checked) {
-      document.getElementById(c).style.display = "block";
-      }
-  else {
-      document.getElementById(c).style.display = "none";
-      }
-  }
-  return false;
-}
+// function ShowRadioButtonDiv (a, NumberOfLevels) {
+//   for (x=1;x<=NumberOfLevels;x++) {
+//       SelectLevel = a + x;
+//       ThisLevel = a + x +'Div';
+//   if (document.getElementById(SelectLevel).checked) {
+//       document.getElementById(ThisLevel).style.display = "block";
+//       }
+//   else {
+//       document.getElementById(ThisLevel).style.display = "none";
+//       }
+//   }
+//   return false;
+// }
+
+
 
 
 // swipe arrow carousel
