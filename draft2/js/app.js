@@ -42,6 +42,27 @@ function showModule2(id) {
   else
     e.style.display = 'block';
 }
+function showModule4(id) {
+  var e = document.getElementById(id);
+  if(e.style.display == 'block')
+    e.style.display = 'none';
+  else
+    e.style.display = 'block';
+}
+function showModule5(id) {
+  var e = document.getElementById(id);
+  if(e.style.display == 'block')
+    e.style.display = 'none';
+  else
+    e.style.display = 'block';
+}
+function showModule6(id) {
+  var e = document.getElementById(id);
+  if(e.style.display == 'block')
+    e.style.display = 'none';
+  else
+    e.style.display = 'block';
+}
 
 // show selected module
 // function ShowRadioButtonDiv (a, NumberOfLevels) {
