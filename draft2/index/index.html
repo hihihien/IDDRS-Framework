@@ -154,21 +154,21 @@
               <!-- 6 levels box  -->
               <div class="col-md-12">
                   <div class="frame-container d-flex flex-row flex-wrap">
-                    <div class="badge badge align-self-center frame-box flex-row f1" onclick="ShowRadioButtonDiv('GroupName', 1)"> 
+                    <div class="badge badge align-self-center frame-box flex-row f1" onclick="showModule1('GroupName1Div')"> 
                       <div class="flex-row frame-title">
                         <h2>Level&nbsp;</h2>
                         <a>1</a>
                       </div>
                         <h3>General IDDRS</h3>
                     </div>
-                    <div class="badge align-self-center frame-box flex-row f2" onclick="ShowRadioButtonDiv('GroupName', 2)"> 
+                    <div class="badge align-self-center frame-box flex-row f2" onclick="showModule3('GroupName2Div')"> 
                       <div class="flex-row frame-title ">
                         <h2>Level&nbsp;</h2>
                         <a>2</a>
                       </div>
                       <h3>Concepts, Policy <br> And Strategy <br> Of The IDDRS</h3>                                      
                     </div>
-                    <div class="badge align-self-center frame-box flex-row f3" onclick="showModule('carousel')"> 
+                    <div class="badge align-self-center frame-box flex-row f3" onclick="showModule3('GroupName3Div')"> 
                       <div class="flex-row frame-title">
                         <h2>Level&nbsp;</h2>
                         <a>3</a>
@@ -199,9 +199,44 @@
                   </div>
                   <!-- <div class="col-md-1"></div> -->
               </div>
-              <!-- expand levels box 3 -->
+              <!-- expand levels -->
               <div class="flex-row-3 col-md-12">
                 <div id="carousel">
+                  <!-- expand level 1  -->
+                  <div id="GroupName1Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap">
+                    <div class="badge badge align-self-center flex-row mf1 " onclick="showSummary('summary')">
+                      <div class="a11">M 1.10</div>
+                      <div class="a12">Introduction to <br> the IDDRS</div>
+                    </div>
+                    <div class="badge badge align-self-center flex-row mf1" onclick="showSummary('summary')" >
+                      <div class="a11">M 1.20</div>
+                      <div class="a12">Glossary: Terms <br> and Definitions</div>
+                    </div>
+                  </div>
+                  <!-- expand level 2  -->
+                  <div id="GroupName2Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap">
+                    <div class="badge badge align-self-center flex-row mf2" onclick="showSummary('summary')">
+                      <div class="a21">M 2.10</div>
+                      <div class="a22">The UN Approach <br> to DDR</div>
+                    </div>
+                    <div class="badge badge align-self-center flex-row mf2" onclick="showSummary('summary')" >
+                      <div class="a21">M 2.11</div>
+                      <div class="a22">The Legal <br> Framework for <br> UN DDR</div>
+                    </div>
+                    <div class="badge badge align-self-center flex-row mf2" onclick="showSummary('summary')">
+                      <div class="a21">M 2.20</div>
+                      <div class="a22">The Politics <br> of DDR</div>
+                    </div>
+                    <div class="badge badge align-self-center flex-row mf2" onclick="showSummary('summary')">
+                      <div class="a21">M 2.30</div>
+                      <div class="a22">Community <br> Violence <br> Reduction</div>
+                    </div>
+                    <div class="badge badge align-self-center flex-row mf2" onclick="showSummary('summary')">
+                      <div class="a21">M 2.40</div>
+                      <div class="a22">Reintegration as Part <br> of Sustaining Peace</div>
+                    </div>
+                  </div>
+                  <!-- expand level 3  -->
                   <div id="GroupName3Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap">
                         <div class="badge badge align-self-center flex-row mf3 " onclick="showSummary('summary')">
                           <div class="h1">M 3.10</div>
@@ -244,90 +279,9 @@
                           </div>
                         </div>
                   </div>
-                  <div id="GroupName2Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap" style="display:none;">
-                    <div class="badge badge align-self-center flex-row mf3 " onclick="showSummary('summary')">
-                      <div class="h1">M 3.10</div>
-                      <div class="h6">
-                      Integrated ​DDR <br> Planning: Processes <br> And Structures
-                      </div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')" >
-                      <div class="h1">M 3.11</div>
-                      <div class="h6">Integrated <br> Assessments</div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.20</div>
-                      <div class="h6">DDR Programme <br> Design</div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.21</div>
-                      <div class="h6">
-                        Participants,<br> Beneficiaries,<br> And Partners
-                    </div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.30</div>
-                      <div class="h6">
-                        National Institutions ​<br />for DDR
-                    </div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.41</div>
-                      <div class="h6">Mission and <br> Programme Support <br> for DDR</div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.42</div>
-                      <div class="h6">Personnel and <br> Staffing</div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.50</div>
-                      <div class="h6">
-                      Monitoring and <br> Evaluation
-                      </div>
-                    </div>
-                  </div>
-                  <div id="GroupName1Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap" style="display:none;">
-                    <div class="badge badge align-self-center flex-row mf3 " onclick="showSummary('summary')">
-                      <div class="h1">M 3.10</div>
-                      <div class="h6">
-                      Integrated ​DDR <br> Planning: Processes <br> And Structures
-                      </div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')" >
-                      <div class="h1">M 3.11</div>
-                      <div class="h6">Integrated <br> Assessments</div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.20</div>
-                      <div class="h6">DDR Programme <br> Design</div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.21</div>
-                      <div class="h6">
-                        Participants,<br> Beneficiaries,<br> And Partners
-                    </div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.30</div>
-                      <div class="h6">
-                        National Institutions ​<br />for DDR
-                    </div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.41</div>
-                      <div class="h6">Mission and <br> Programme Support <br> for DDR</div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.42</div>
-                      <div class="h6">Personnel and <br> Staffing</div>
-                    </div>
-                    <div class="badge badge align-self-center flex-row mf3" onclick="showSummary('summary')">
-                      <div class="h1">M 3.50</div>
-                      <div class="h6">
-                      Monitoring and <br> Evaluation
-                      </div>
-                    </div>
-                  </div>
+                  
+                  
+                 
                 </div>
               </div>
 
