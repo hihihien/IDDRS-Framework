@@ -20,9 +20,9 @@ $(function() {
 });
 // show and hide Summary
 $(function() {
-  $('.frame-box').click(function() {
-    $('.targetDiv').not('#GroupName' + $(this).attr('name')).hide();
-    $('#GroupName' + $(this).attr('name')).toggle();
+  $('.showSum').click(function() {
+    $('.expand-wrap').not('#sum' + $(this).attr('name')).hide();
+    $('#sum' + $(this).attr('name')).toggle();
   });
 });
 
