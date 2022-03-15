@@ -96,7 +96,42 @@
 .expand-text {
    margin-bottom: 50px;
 }
-#summary {
+#sum1 {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    display: none;
+}
+#sum2 {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    display: none;
+}
+#sum3 {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    display: none;
+}
+#sum4 {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    display: none;
+}
+#sum5 {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    display: none;
+}
+#sum6 {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    display: none;
+}
+#sum7 {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    display: none;
+}
+#sum8 {
     margin-bottom: 30px;
     margin-top: 20px;
     display: none;
