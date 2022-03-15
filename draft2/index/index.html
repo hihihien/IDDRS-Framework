@@ -154,42 +154,42 @@
               <!-- 6 levels box  -->
               <div class="col-md-12">
                   <div class="frame-container d-flex flex-row flex-wrap">
-                    <div class="badge badge align-self-center frame-box flex-row f1" onclick="showModule1('GroupName1Div')"> 
+                    <div class="badge badge align-self-center frame-box flex-row f1" name="1Div" > 
                       <div class="flex-row frame-title">
                         <h2>Level&nbsp;</h2>
                         <a>1</a>
                       </div>
                         <h3>General IDDRS</h3>
                     </div>
-                    <div class="badge align-self-center frame-box flex-row f2" onclick="showModule3('GroupName2Div')"> 
+                    <div class="badge align-self-center frame-box flex-row f2" name="2Div"> 
                       <div class="flex-row frame-title ">
                         <h2>Level&nbsp;</h2>
                         <a>2</a>
                       </div>
                       <h3>Concepts, Policy <br> And Strategy <br> Of The IDDRS</h3>                                      
                     </div>
-                    <div class="badge align-self-center frame-box flex-row f3" onclick="showModule3('GroupName3Div')"> 
+                    <div class="badge align-self-center frame-box flex-row f3" name="3Div" > 
                       <div class="flex-row frame-title">
                         <h2>Level&nbsp;</h2>
                         <a>3</a>
                       </div>
                       <h3>Structures And <br> Processes</h3>                                      
                     </div>
-                    <div class="badge align-self-center frame-box flex-row f4" onclick="showModule3('GroupName4Div')"> 
+                    <div class="badge align-self-center frame-box flex-row f4" name="4Div"> 
                       <div class="flex-row frame-title">
                         <h2>Level&nbsp;</h2>
                         <a>4</a>
                       </div>
                       <h3>Operations,<br> Programmes And <br> Support</h3>                                      
                     </div>
-                    <div class="badge align-self-center frame-box flex-row f5" onclick="showModule3('GroupName5Div')"> 
+                    <div class="badge align-self-center frame-box flex-row f5" name="5Div" > 
                       <div class="flex-row frame-title">
                         <h2>Level&nbsp;</h2>
                         <a>5</a>
                       </div>
                       <h3>Cross-cutting <br> Issues</h3>                                      
                     </div>
-                    <div class="badge align-self-center frame-box flex-row f6" onclick="showModule3('GroupName6Div')"> 
+                    <div class="badge align-self-center frame-box flex-row f6" name="6Div" > 
                       <div class="flex-row frame-title">
                         <h2>Level&nbsp;</h2>
                         <a>6</a>
@@ -203,7 +203,7 @@
               <div class="flex-row-3 col-md-12">
                 <div id="carousel">
                   <!-- expand level 1  -->
-                  <div id="GroupName1Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap">
+                  <div id="GroupName1Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap targetDiv">
                     <div class="badge badge align-self-center flex-row mf1 " onclick="showSummary('summary')">
                       <div class="a11">M 1.10</div>
                       <div class="a12">Introduction to <br> the IDDRS</div>
@@ -214,7 +214,7 @@
                     </div>
                   </div>
                   <!-- expand level 2  -->
-                  <div id="GroupName2Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap">
+                  <div id="GroupName2Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap targetDiv">
                     <div class="badge badge align-self-center flex-row mf2" onclick="showSummary('summary')">
                       <div class="a21">M 2.10</div>
                       <div class="a22">The UN Approach <br> to DDR</div>
@@ -237,7 +237,7 @@
                     </div>
                   </div>
                   <!-- expand level 3  -->
-                  <div id="GroupName3Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap">
+                  <div id="GroupName3Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap targetDiv">
                         <div class="badge badge align-self-center flex-row mf3 " onclick="showSummary('summary')">
                           <div class="h1">M 3.10</div>
                           <div class="h6">
@@ -280,7 +280,7 @@
                         </div>
                   </div>
                   <!-- expand level 4  -->
-                  <div id="GroupName4Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap">
+                  <div id="GroupName4Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap targetDiv">
                     <div class="badge badge align-self-center flex-row mf4" onclick="showSummary('summary')">
                       <div class="a41">M 4.10</div>
                       <div class="a42">Disarmament</div>
@@ -311,7 +311,7 @@
                     </div>
                   </div>
                   <!-- expand level 5 -->
-                  <div id="GroupName5Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap">
+                  <div id="GroupName5Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap targetDiv">
                     <div class="badge badge align-self-center flex-row mf5" onclick="showSummary('summary')">
                       <div class="a51">M 5.10</div>
                       <div class="a52">Women, Gender <br> and DDR</div>
@@ -346,7 +346,7 @@
                     </div>
                   </div>
                   <!-- expand level 6 -->
-                  <div id="GroupName6Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap">
+                  <div id="GroupName6Div" class="owl-carousel owl-theme d-flex flex-row flex-wrap align-content-around flex-wrap targetDiv">
                     <div class="badge badge align-self-center flex-row mf6" onclick="showSummary('summary')">
                       <div class="a61">M 6.10</div>
                       <div class="a62">DDR and SSR</div>
@@ -377,9 +377,7 @@
                       <div class="col-sm-2 col-md-4 col-lg-6 col-xl-7"></div>
                       <div id="view-module-button" class="ml-auto align-self-end " onclick="location.href='https://www.unddr.org/modules/IDDRS-3.20-DDR-Programme-Design.pdf'">
                           <div class="view-module">View Module</div>
-                    <!-- <a class="btn btn-primary" style="background-color: #55acee;" href="https://www.unddr.org/modules/IDDRS-3.20-DDR-Programme-Design.pdf" role="button">
-                      View Module
-                    </a> -->
+                
                       </div>
                     
                     <div id="module-sum">
@@ -484,10 +482,11 @@
     </div>
     <!-- UN.ORG footer end -->
   </div>
-  <!-- /non-semantic .wrapper for all pages and languages to apply CSS -->
+  
   <!-- end un-footer -->
 </body>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" ></script>
   <script src="../js/owl.carousel.min.js "></script>
   <script src="../js/app.js"></script>
