@@ -11,59 +11,80 @@ $(document).ready(function(){
   );
 });
 
+// show and hide module
+$(function() {
+  $('.frame-box').click(function() {
+    $('.targetDiv').not('#GroupName' + $(this).attr('name')).hide();
+    $('#GroupName' + $(this).attr('name')).toggle();
+  });
+});
 // show and hide Summary
-function showSummary(id) {
-  var e = document.getElementById(id);
-  if(e.style.display == 'block')
-    e.style.display = 'none';
-  else
-    e.style.display = 'block';
-}
+$(function() {
+  $('.frame-box').click(function() {
+    $('.targetDiv').not('#GroupName' + $(this).attr('name')).hide();
+    $('#GroupName' + $(this).attr('name')).toggle();
+  });
+});
+
+
+
+
+
+// show and hide Summary
+// function showSummary(id) {
+//   var e = document.getElementById(id);
+//   if(e.style.display == 'block')
+//     e.style.display = 'none';
+//   else
+//     e.style.display = 'block';
+// }
+
+
 // show and hide modules
-function showModule3(id) {
-  var e = document.getElementById(id);
-  if(e.style.display == 'block')
-    e.style.display = 'none';
-  else
-    e.style.display = 'block';
-}
+// function showModule3(id) {
+//   var e = document.getElementById(id);
+//   if(e.style.display == 'block')
+//     e.style.display = 'none';
+//   else
+//     e.style.display = 'block';
+// }
 
-function showModule1(id) {
-  var e = document.getElementById(id);
-  if(e.style.display == 'block')
-    e.style.display = 'none';
-  else
-    e.style.display = 'block';
-}
+// function showModule1(id) {
+//   var e = document.getElementById(id);
+//   if(e.style.display == 'block')
+//     e.style.display = 'none';
+//   else
+//     e.style.display = 'block';
+// }
 
-function showModule2(id) {
-  var e = document.getElementById(id);
-  if(e.style.display == 'block')
-    e.style.display = 'none';
-  else
-    e.style.display = 'block';
-}
-function showModule4(id) {
-  var e = document.getElementById(id);
-  if(e.style.display == 'block')
-    e.style.display = 'none';
-  else
-    e.style.display = 'block';
-}
-function showModule5(id) {
-  var e = document.getElementById(id);
-  if(e.style.display == 'block')
-    e.style.display = 'none';
-  else
-    e.style.display = 'block';
-}
-function showModule6(id) {
-  var e = document.getElementById(id);
-  if(e.style.display == 'block')
-    e.style.display = 'none';
-  else
-    e.style.display = 'block';
-}
+// function showModule2(id) {
+//   var e = document.getElementById(id);
+//   if(e.style.display == 'block')
+//     e.style.display = 'none';
+//   else
+//     e.style.display = 'block';
+// }
+// function showModule4(id) {
+//   var e = document.getElementById(id);
+//   if(e.style.display == 'block')
+//     e.style.display = 'none';
+//   else
+//     e.style.display = 'block';
+// }
+// function showModule5(id) {
+//   var e = document.getElementById(id);
+//   if(e.style.display == 'block')
+//     e.style.display = 'none';
+//   else
+//     e.style.display = 'block';
+// }
+// function showModule6(id) {
+//   var e = document.getElementById(id);
+//   if(e.style.display == 'block')
+//     e.style.display = 'none';
+//   else
+//     e.style.display = 'block';
+// }
 
 // show selected module
 // function ShowRadioButtonDiv (a, NumberOfLevels) {
