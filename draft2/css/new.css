@@ -211,6 +211,7 @@ button:focus, [type='button']:focus, [type='reset']:focus, [type='submit']:focus
 #GroupName6Div {
     margin-bottom: 50px !important;
     display: none;
+    min-width: 750px;
 }
 #carousel::-webkit-scrollbar {
     height: 0;
