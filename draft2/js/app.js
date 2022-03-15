@@ -11,7 +11,7 @@ $(document).ready(function(){
   );
 });
 
-// show and hide modules
+// show and hide Summary
 function showSummary(id) {
   var e = document.getElementById(id);
   if(e.style.display == 'block')
@@ -19,6 +19,7 @@ function showSummary(id) {
   else
     e.style.display = 'block';
 }
+// show and hide modules
 function showModule3(id) {
   var e = document.getElementById(id);
   if(e.style.display == 'block')
