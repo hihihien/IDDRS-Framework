@@ -7446,5 +7446,817 @@
             "Heading3": "",
             "Heading4": ""
         }
+    ],
+    "3.10 Integrated DDR Planning: Processes and Structures": [
+        {
+            "Paragraph": "Disarmament, demobilization and reintegration (DDR) are all complex and sensitively linked processes that demand considerable human and financial resources to plan, imple- ment and monitor. Given the many different actors involved in the various stages of DDR, and the fact that its phases are interdependent, integrated planning, effective coordination and coherent reporting arrangements are essential. Past experiences have highlighted the need for the various actors involved in planning and implementing DDR, and monitoring its impacts, to work together in a complementary way that avoids unnecessary duplication of effort or competition for funds and other resources.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 1,
+            "Heading1": "Summary",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This module provides guidelines for improving inter-agency cooperation in the planning of DDR programmes and operations. The module shows how successful implementation can be achieved through an inclusive process of assessment and analysis that provides the basis for the formulation of a comprehensive programme framework and operational plan. This mechanism is known as the ‘planning cycle’, and originates from both the inte- grated mission planning process (IMPP) and post-conflict United Nations (UN) country team planning mechanisms.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 1,
+            "Heading1": "Summary",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This module outlines a general planning process and framework for providing and struc- turing UN support for national DDR efforts in a peacekeeping environment. This planning process covers the actions carried out by DDR practitioners from the time a conflict or crisis is put on the agenda of the Security Council to the time a peacekeeping mission is formally established by a Security Council resolution, with such a resolution assigning the peace- keeping mission a role in DDR. This module also covers the broader institutional requirements for planning post-mission DDR support. (See IDDRS 3.20 on DDR Programme Design for more detailed coverage of the development of DDR programme and implementation frameworks.)",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 1,
+            "Heading1": "1. Module scope and objectives",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The planning process and requirements given in this module are intended to serve as a general guide. A number of factors will affect the various planning processes, including: \\n The pace and duration of a peace process: A drawn-out peace process gives the UN, and the international community generally, more time to consult, plan and develop pro- grammes for later implementation (the Sudanese peace process is a good example); \\n Contextual and local realities: The dynamics and consequences of conflict; the attitudes of the actors and other parties associated with it; and post-conflict social, economic and institutional capacities will affect planning for DDR, and have an impact on the strategic orientation of UN support; \\n National capacities for DDR: The extent of pre-existing national and institutional capacities in the conflict-affected country to plan and implement DDR will considerably affect the nature of UN support and, consequently, planning requirements. Planning for DDR in contexts with weak or non-existent national institutions will differ greatly from planning DDR in contexts with stable and effective national institutions; \\n The role of the UN: How the role of the UN is defined in general terms, and for DDR specifically, will depend on the extent of responsibility and direct involvement assumed by national actors, and the UN’s own capacity to complement and support these efforts. This role definition will directly influence the scope and nature of the UN’s engagement in DDR, and hence requirements for planning; \\n Interaction with other international and regional actors: The presence and need to collaborate with international or regional actors (e.g., the European Union, NATO, the African Union, the Economic Community of West African States) with a current or potential role in the management of the conflict will affect the general planning process.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 1,
+            "Heading1": "1. Module scope and objectives",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In addition, this module provides guidance on: \\n adapting the DDR planning process to the broader framework of mission and UN country team planning in post-conflict contexts; \\n linking the UN planning process to national DDR planning processes; \\n the chronological stages and sequencing (i.e., the ordering of activities over time) of DDR planning activities; \\n the different aspects and products of the planning process, including its political (peace process and Security Council mandate), programmatic/operational and organizational/ institutional dimensions; \\n the institutional capacities required at both Headquarters and country levels to ensure an efficient and integrated UN planning process.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 2,
+            "Heading1": "1. Module scope and objectives",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Annex A contains a list of the abbreviations used in this standard. A complete glossary of all the terms, definitions and abbreviations used in the series of integrated DDR standards(IDDRS) is given in IDDRS 1.20.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 2,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In the IDDRS series, the word ‘shall’, ‘should’ and ‘may’ are used to indicate the intended degree of compliance with the standards laid down. This use is consistent with the language used in the International Organization for Standardization standards and guidelines: \\n “a)‘shall’ is used to indicate requirements, methods or specifications that are to be applied in order to conform to the standard. \\n b)‘should’ is used to indicate the preferred requirements, methods or specifications. \\n c)‘may’ is used to indicate a possible method or course of action.”",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 2,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The ability of the UN to comprehensively and collectively plan its joint response to crisis has evolved considerably over the last decade. Nonetheless, the expansion of complex peacemaking, peacekeeping, humanitarian and peace-building tasks in complex internal conflicts, which often have regional repercussions, continues to demand an even earlier, closer and more structured process of planning among UN entities and partners.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 2,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Meeting this demand for more structured planning is essential to delivering better DDR programmes, because DDR is a multisectoral, multi-stakeholder and multi-phase process requiring coordination and adequate links among various post-conflict planning mechanisms. The implementation of DDR programmes often requires difficult compromises and trade-offs among various political, security and development considerations. It also relies very much on establishing an appropriate balance between international involvement and national ownership.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 3,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR programmes have a better chance of success when the DDR planning process starts early (preferably from the beginning of the peace process), builds on the accumulated experience and expertise of local actors, is based on a solid understanding of the conflict (causes, perpetrators, etc.), and deliberately encourages greater unity of effort among UN agencies and their community of partners.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 3,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The planning process for the DDR programmes is guided by the principles, key considerations and approaches defined in IDDRS 2.10 on the UN Approach to DDR. Of particular importance are: \\n Unity of effort: The achievement of unity of effort and integration is only possible with an inclusive and sound mission planning process involving all relevant UN agencies, departments, funds and programmes at both the Headquarters and field levels. DDR planning takes place within this broader integrated mission planning process; \\n Integration: The integrated approach to planning tries to develop, to the extent possible: \\n\\n a common framework (i.e., one that everyone involved uses) for developing, man- aging, funding and implementing a UN DDR strategy within the context of a peace mission; \\n\\n an integrated DDR management structure (unit or section), with the participation of staff from participating UN agencies and primary reporting lines to the Deputy Special Representative of the Secretary-General (DSRSG) for humanitarian and development affairs. Such an approach should include the co-location of staff, infrastructure and resources, as this allows for increased efficiency and reduced overhead costs, and brings about more responsive planning, implementation and coordination; \\n\\n joint programmes that harness UN country team and mission resources into a single process and results-based approach to putting the DDR strategy into operation and achieving shared objectives; \\n\\n a single framework for managing multiple sources of funding, as well as for co- ordinating funding mechanisms, thus ensuring that resources are used to deal with common priorities and needs; Efficient and effective planning: At the planning stage, a common DDR strategy and work plan should be developed on the basis of joint assessments and evaluation. This should establish a set of operational objectives, activities and expected results that all UN entities involved in DDR will use as the basis for their programming and implemen- tation activities. A common resource mobilization strategy involving all participating UN entities should be established within the integrated DDR framework in order to prevent duplication, and ensure coordination with donors and national authorities, and coherent and efficient planning.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 3,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This section discusses integrated DDR planning in the context of planning for integrated UN peace operations, as well as broader peace-building efforts. These processes are currently under review by the UN system. While references are made to the existing integrated mission planning process (IMPP), the various steps that make up the process of integrated DDR planning (from the start of the crisis to the Security Council mandate) apply to whatever planning process the UN system eventually decides upon to guide its mission planning and peace-building support process. Where possible (and before the establishment of the Peace-building Support Office and the review of the IMPP), specific DDR planning issues are linked to the main phases or stages of mission and UN country team planning, to lay the foundations for integrated DDR planning in the UN system.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 4,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "At the moment, the planning cycle for integrated peace support missions is centred on the interdepartmental mission task force (IMTF) that is established for each mission. This forum includes representatives from all UN departments, agencies, funds and programmes. The IMTF provides an important link between the activities taking place on the ground and the planning cycle at Headquarters.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 4,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Because planning time-frames will differ from mission to mission, it is not possible to say how long each phase will take. What is important is the sequence of planning stages, as well as how they correspond to the main stages of transitions from conflict to peace and sustainable development. The diagram below illustrates this:",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 4,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "During the pre-planning phase of the UN’s involvement in a post-conflict peacekeeping or peace-building context, the identification of an appropriate role for the UN in supporting DDR efforts should be based on timely assessments and analyses of the situation and its requirements. The early identification of potential entry points and strategic options for UN support is essential to ensuring the UN’s capacity to respond efficiently and effectively. Integrated preparatory activities and pre-mission planning are vital to the delivery of that capacity. While there is no section/unit at UN Headquarters with the specific role of coordinating integrated DDR planning at present, many of the following DDR pre-planning tasks can and should be coordinated by the lead planning depart- ment and key operational agencies of the UN country team. Activities that should be included in a preparatory assistance or pre- planning framework include:",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 5,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.1. Phase I: Pre-planning and preparatory assistance",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "During the pre-planning phase of the UN’s involvement in a post-conflict peacekeeping or peace-building context, the identification of an appropriate role for the UN in supporting DDR efforts should be based on timely assessments and analyses of the situation and its requirements. The early identification of potential entry points and strategic options for UN support is essential to ensuring the UN’s capacity to respond efficiently and effectively. Integrated preparatory activities and pre-mission planning are vital to the delivery of that capacity. While there is no section/unit at UN Headquarters with the specific role of coordinating integrated DDR planning at present, many of the following DDR pre-planning tasks can and should be coordinated by the lead planning department and key operational agencies of the UN country team. Activities that should be included in a preparatory assistance or pre- planning framework include: \\n the development of an initial set of strategic options for or assessments of DDR, and the potential role of the UN in supporting DDR; \\n the provision of DDR technical advice to special envoys, Special Representatives of the Secretary-General or country-level UN staff within the context of peace negotiations or UN mediation; \\n the secondment of DDR specialists or hiring of private DDR consultants (sometimes funded by interested Member States) to assist during the peace process and provide strategic and policy advice to the UN and relevant national parties at country level for planning purposes; \\n the assignment of a UN country team to carry out exploratory DDR assessments and surveys as early as possible. These surveys and assessments include: conflict assess- ment; combatant needs assessments; the identification of reintegration opportunities; and labour and goods markets assessments; \\n assessing the in-country DDR planning and delivery capacity to support any DDR programme that might be set up (both UN and national institutional capacities); \\n contacting key donors and other international stakeholders on DDR issues with the aim of defining priorities and methods for information sharing and collaboration; \\n the early identification of potential key DDR personnel for the integrated DDR unit.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 5,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.2. Phase II: Initial technical assessment and concept of operations",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Once the UN Security Council has requested the UN Secretary-General to present options for possible further UN involvement in supporting peacekeeping and peace-building in a particular country, planning enters a second stage, focusing on an initial technical assess- ment of the UN role and the preparation of a concept of operations for submission to the Security Council.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 6,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.2. Phase II: Initial technical assessment and concept of operations",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In most cases, this process will be initiated through a multidimensional technical assess- ment mission fielded by the Secretary-General to develop the UN strategy in a conflict area. In this context, DDR is only one of several components such as political affairs, elections, public information, humanitarian assistance, military, security, civilian police, human rights, rule of law, gender equality, child protection, food security, HIV/AIDS and other health matters, cross-border issues, reconstruction, governance, finance and logistic support.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 6,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.2. Phase II: Initial technical assessment and concept of operations",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "These multidisciplinary technical assessment missions shall integrate inputs from all relevant UN entities (in particular the UN country team), resulting in a joint UN concept of operations. Initial assessments by country-level agencies, together with pre-existing efforts or initiatives, should be used to provide information on which to base the technical assessment for DDR, which itself should be closely linked with other inter-agency processes established to assess immediate post-conflict needs.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 6,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.2. Phase II: Initial technical assessment and concept of operations",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "A well-prepared and well-conducted technical assessment should focus on: \\n the conditions and requirements for DDR; its relation to a peace agreement; \\n an assessment of national capacities; \\n the identification of options for UN support, including strategic objectives and the UN’s operational role; \\n the role of DDR within the broader UN peace-building and mission strategy; \\n the role of UN support in relation to that of other national and international stakeholders.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 6,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.2. Phase II: Initial technical assessment and concept of operations",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This initial technical assessment should be used as a basis for a more in-depth assessment required for programme design (also see IDDRS 3.20 on DDR Programme Design). The results of this assessment should provide inputs to the Secretary-General’s report and any Security Council resolutions and mission mandates that follow (see Annex B for a reference guide on conducting a DDR assessment mission).",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 6,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.2. Phase II: Initial technical assessment and concept of operations",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The key output of the planning process at this stage should be a recommendation as to whether DDR is the appropriate response for the conflict at hand and whether the UN is well suited to provide support for the DDR programme in the country concerned. This is contained in a report by the Secretary-General to the Security Council, which includes the findings of the technical assessment mission.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 6,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.2. Phase II: Initial technical assessment and concept of operations",
+            "Heading3": "5.2.1. Report of the Secretary-General to the Security Council",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The report of the Secretary-General to the Security Council sometimes contains proposals for the mandate for peace operation. The following points should be considered when pro- viding inputs to the DDR mandate: \\n It shall be consistent with the UN approach to DDR; \\n While it is important to stress the national aspect of the DDR programme, it is also necessary to recognize the immediate need to provide capacity-building support to increase or bring about national ownership, and to recognize the political difficulties that may complicate national ownership in a transitional situation.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 6,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.2. Phase II: Initial technical assessment and concept of operations",
+            "Heading3": "5.2.2. Mission mandate on DDR",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Time-lines for planning and implementation should be realistic. The Security Council, when it establishes a multidimensional UN mission, may assign DDR responsibilities to the UN. This mandate can be either to directly support the national DDR authorities or to implement aspects of the DDR programme, especially when national capacities are lim- ited. What is important to note is that the nature of a DDR mandate, if one is given, may differ from the recommended concept of operations, for political and other reasons.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 6,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.2. Phase II: Initial technical assessment and concept of operations",
+            "Heading3": "5.2.2. Mission mandate on DDR",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The inclusion of DDR as a component of the overall UN integrated mission and peace-building support strategy will require the development of initial strategic objectives for the DDR programme to guide further planning and programme development. DDR practitioners shall be required to identify four key elements to create this framework: \\n the overall strategic objectives of UN engagement in DDR in relation to national pri- orities (see Annex C for an example of how DDR aims may be developed); \\n the key DDR tasks of the UN (see Annex C for related DDR tasks that originate from the strategic objectives); \\n an initial organizational and institutional framework (see IDDRS 3.42 on Personnel and Staffing for the establishment of the integrated DDR unit and IDDRS 3.30 on National Institutions for DDR); \\n the identification of other national and international stakeholders on DDR and the areas of engagement of each.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 7,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.3. Phase III: Development of a strategic and policy framework (strategic planning)",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The policy and strategy framework for UN support for DDR should ideally be developed after the establishment of the mission, and at the same time as its actual deployment. Several key issues should be kept in mind in developing such a framework: \\n To ensure that this framework adequately reflects country realities and needs with respect to DDR, its development should be a joint effort of mission planners (whether Headquarters- or country-based), DDR staff already deployed and the UN country team; \\n Development of the framework should also involve consultations with relevant national counterparts, to ensure that UN engagement is consistent with national planning and frameworks; \\n The framework should be harmonized — and integrated — with other UN and national planning frameworks, notably Department of Peacekeeping Operations (DPKO) results-based budgeting frameworks, UN work plans and transitional appeals, and post-conflict needs assessment processes.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 7,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.3. Phase III: Development of a strategic and policy framework (strategic planning)",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "After establishing a strategic objectives and policy framework for UN support for DDR, the UN should start developing a detailed programmatic and operational framework. Refer to IDDRS 3.20 on DDR Programme Design for the programme design process and tools to assist in the development of a DDR operational plan.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 7,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.4. Phase IV: Development of a programme and operational framework",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The objective of developing a DDR programme and implementation plan is to provide further details on the activities and operational requirements necessary to achieve DDR goals and the strategy identified in the initial planning for DDR. In the context of integrated DDR approaches, DDR programmes also provide a common framework for the implemen- tation and management of joint activities among actors in the UN system.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 7,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.4. Phase IV: Development of a programme and operational framework",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In general, the programme design cycle should consist of three main phases: \\n Detailed field assessments: A detailed field assessment builds on the initial technical assess- ment described earlier, and is intended to provide a basis for developing the full DDR programme, as well as the implementation and operational plan. The main issues that should be dealt with in a detailed assessment include: \\n\\n the political, social and economic context and background of the armed conflict; \\n\\n the causes, dynamics and consequences of the armed conflict; \\n\\n the identification of participants, potential partners and others involved; \\n\\n the distribution, availability and proliferation of weapons (primarily small arms and light weapons); \\n\\n the institutional capacities of national stakeholders in areas related to DDR; \\n\\n a survey of socio-economic conditions and the capacity of local communities to absorb ex-combatants and their dependants; \\n\\n preconditions and other factors influencing prospects for DDR; \\n\\n baseline data and performance indicators for programme design, implementation, monitoring and evaluation; \\n Detailed programme development and costing of requirements: A DDR ‘programme’ is a framework that provides an agreed-upon blueprint (i.e., detailed plan) for how DDR will be put into operation in a given context. It also provides the basis for developing operational or implementation plans that provide time-bound information on how individual DDR tasks and activities will be carried out and who will be responsible for doing this. Designing a comprehensive DDR programme is a time- and labour-intensive process that usually takes place after a peacekeeping mission has been authorized and deployment in the field has started. In most cases, the design of a comprehensive UN programme on DDR should be integrated with the design of the national DDR programme and architecture, and linked to the design of programmes in other related sectors as part of the overall transition and recovery plan; \\n Development of an implementation plan: Once a programme has been developed, planning instruments should be developed that will aid practitioners (UN, non-UN and national government) to implement the activities and strategies that have been planned. Depen- ding on the scale and scope of a DDR programme, an implementation or operations plan usually consists of four main elements: implementation methods; time-frame; a detailed work plan; and management arrangements.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 8,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.4. Phase IV: Development of a programme and operational framework",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "A DDR strategy and plan should remain flexible so as to be able to deal with changing circumstances and demands at the country level, and should possess a capacity to adapt in order to deal with shortcomings and new opportunities. Continuation planning involves a process of periodic reviews, monitoring and real-time evaluations to measure performance and impact during implementation of the DDR programme, as well as revisions to programmatic and operational plans to make adjustments to the actual implementation process. A DDR programme does not end with the exit of the peacekeeping mission. While security may be restored, the broader task of linking the DDR programme to overall development, i.e., the sustainable reintegration of ex-com- batants and long-term stability, remains. It is therefore essential that the departure of the peacekeeping mission is planned with the UN country team as early as possible to ensure that capacities are sufficiently built up in the country team for it to assume the full financial, logistic and human resources responsibilities for the continuation of the longer-term aspects of the DDR programme. A second essential requirement is the building of national capacities to assume full responsibility for the DDR programme, which should begin from the start of the DDR programme.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 8,
+            "Heading1": "5. Situating DDR within UN and national planning in post-conflict contexts",
+            "Heading2": "5.5. Phase V: Continuation and transition planning",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The objective of an integrated UN approach to DDR in the context of peace operations is to combine the different experiences, competencies and resources of UN funds, programmes, departments and agencies within a common approach and framework for planning and developing DDR programming, and to ensure a consistent and decentralized approach to implementation.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 9,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Achieving the above objective requires sound mission planning involving all relevant UN agencies, departments, funds and programmes at both the Headquarters and field levels. The planning of integrated DDR programmes should be coordinated closely with the broader integrated mission planning and design process, and, ideally, should start before the mandate for the mission is adopted.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 9,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Within this framework, the following Headquarters- and country-level institutional requirements are needed to ensure an overall integrated approach to developing, implemen- ting and evaluating DDR programming in the country in which is has been implemented.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 9,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The establishment of an interdepartmental mission task force (IMTF) provides a framework within which various UN entities should contribute to the coordination and planning of peace operations, and ensures that institutional and field-level capacities and resources work closely and effectively together to achieve the objectives of a particular mission.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 9,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "6.1. Planning structures: Headquarters",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "An IMTF subgroup on DDR should be established within this framework to ensure an integrated approach to pre-deployment planning at the Headquarters level (i.e., before a field presence has been established). The key planning functions to be covered by the IMTF DDR subgroup should include the design and planning of integrated staffing struc- tures (as far as possible); agreement on common lines of authority for DDR planning, operations and implementation; institutional division of responsibilities; integrated task management organization; the drawing up of an overall budget; and the inclusion of best practices learned from earlier missions. In the pre-deployment phase, the IMTF subgroups should also act as the institutional focal points and links between Headquarters and field operations.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 9,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "6.1. Planning structures: Headquarters",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "To ensure effective and sustainable involvement of the UN country team in integrated DDR programming, a UN country team DDR task force (headed by the DSRSG) and technical working group should be established to manage and supervise the integrated approach, including providing the resources and staff that have been agreed upon, being involved in key strategic decisions, and ensuring adequate liaison with Headquarters-level bodies and processes. Individual members of the UN country team shall be responsible for ensuring that their respective agencies, funds or programmes fulfil the responsibilities and carry out the roles defined in the integrated DDR strategy.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 10,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "6.2. Field DDR planning structures and processes",
+            "Heading3": "6.2.1. UN country team DDR task force",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Given the involvement of the different components of the mission in DDR or DDR-related activities, a DDR steering group should also be established within the peacekeeping mission to ensure the exchange of information, joint planning and joint operations. The DSRSG should chair such a steering group. The steering group should include, at the very least, the DSRSG (political/rule of law), force commander, police commissioner, chief of civil affairs, chief of political affairs, chief of public information, chief of administration and chief of the DDR unit.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 10,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "6.2. Field DDR planning structures and processes",
+            "Heading3": "6.2.2. Mission DDR steering group",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Given the central role played by the UN country team and Resident Coordinator in coordinating UN activities in the field both before and after peace operations, as well as its continued role after peace operations have come to an end, the UN country team should retain strategic oversight of and responsibility, together with the mission, for putting the integrated DDR approach into operation at the field level.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 10,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "6.2. Field DDR planning structures and processes",
+            "Heading3": "6.2.2. Mission DDR steering group",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "An integrated DDR unit should be established within the peacekeeping mission in order to ensure that planning and implementation of the DDR strategy and programmes is com- prehensive and coordinated, and includes all the necessary elements, within the missionand among partners in the field (see Annex C and IDDRS 3.42 on Personnel and Staffing).",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 10,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "6.2. Field DDR planning structures and processes",
+            "Heading3": "6.2.3. Integrated UN DDR unit",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Given the important differences among the administrative and financial procedures of different UN Agencies, Departments, Funds and Programmes, as well as their various implementation methods, it is not possible to achieve complete operational/administrative integration. Instead, the goal should be complete integration at the planning level and in the methods of the various entities involved in the mission to ensure efficient and timely coordination of operations within this framework.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 10,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "6.2. Field DDR planning structures and processes",
+            "Heading3": "6.2.3. Integrated UN DDR unit",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "An integrated and centralized mechanism for reporting on DDR programme results should be established to compile, consolidate and distribute information and monitor results from the activities of all the UN entities involved.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 10,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "6.2. Field DDR planning structures and processes",
+            "Heading3": "6.2.3. Integrated UN DDR unit",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "To ensure an integrated approach to DDR programme development and management, all UN entities should participate in and contribute to the various processes involved, in parti- cular, conducting comprehensive technical assessments, the design of a programme strategy, the identification of key outputs and results and the development of integrated management arrangements. Participation in these processes is essential to the identification of how each UN entity can best contribute, according to its particular expertise, to both the integrated DDR strategy and the precise methods for ensuring the best possible coordination and a joint overall approach.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 10,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "6.2. Field DDR planning structures and processes",
+            "Heading3": "6.2.4. Integrated planning, programming and management",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "A joint — as opposed to fully integrated — approach to DDR operations and implementa- tion should be adopted among all participating UN entities, involving close coordination using a common operational work plan. To maximize coordination, overall authority for coordination and supervision of implementation should be delegated to those UN staff integrated into the DDR programme management structure, while the programme should be implemented by the appropriate agency staff.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 11,
+            "Heading1": "6. Institutional requirements and methods for planning",
+            "Heading2": "6.2. Field DDR planning structures and processes",
+            "Heading3": "6.2.5. Joint operations and implementation",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 12,
+            "Heading1": "Annex A: Abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This annex provides a guide to the preparation and carrying out of a DDR assessment mission.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 13,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In order to ensure that the maximum amount of information is gathered from meetings in the mission area, a great deal of preparatory work should be done before starting the assess- ment mission.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 13,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Preparation",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This will include developing a good understanding of the following: \\n the UN approach to DDR issues; \\n an overview of the regional conflict map; neighbouring States’ political, commercial and security interests, etc.; \\n the country situation, including the number and availability of small arms and light weapons;1 \\n existing work being performed by the UN country team and other partners, such as the World Bank and non-governmental organizations (NGOs); \\n existing provisions for DDR within current security arrangements or peace agreements signed between parties to the conflict; \\n the experience of previous DDR operations (if any) and the role of regional organiza- tions and interested Member States.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 13,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Preparation",
+            "Heading3": "Background information",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Staff members on a DDR assessment visit should plan to meet with representatives from: \\n the parties to the conflict at the political and military levels; \\n members of the government; \\n civil society (such as political parties, church groups, women’s organizations, local NGOs, etc.); \\n regional mediators or regional organizations, including monitoring bodies; \n interested Member States supporting the peace process; \\n members of the UN country team and international organizations; \\n major international NGOs.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 13,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Preparation",
+            "Heading3": "Meetings",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The aim of the assessment mission is to develop an in-depth understanding of the key DDR-related areas, in order to ensure efficient, effective and timely planning and resource mobilization for the DDR programme. The DDR staff member(s) of a DDR assessment mission should develop a good understanding of the following areas: \\n the legal framework for the DDR programme, i.e., the peace agreement; \\n specifically designated groups that will participate in the DDR programme; \\n the DDR planning and implementation context; \\n international, regional and national implementing partners; \\n methods for implementing the different phases of the DDR programme; \\n a public information strategy for distributing information about the DDR programme; \\n military/police- and security-related DDR tasks; \\n administrative and logistic support requirements.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 13,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Conduct of the DDR assessment mission",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In most post-conflict situations, a peace agreement provides the legal framework for the implementation of a DDR programme. Many of the terms and conditions of the DDR pro- gramme should be specified in the peace agreement: who is to be disarmed; by whom; the time schedule for disarmament; the nature of the programme (disengagement, cantonment, type of reintegration assistance); and institutional arrangements (national and international) to guide and implement the programme.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 14,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Legal framework",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The assessment mission should decide whether the agreed terms and conditions con- tained in the legal framework are sufficient or realistic enough to allow successful imple- mentation of the DDR programme. If an assessment mission is carried out before any legal framework has been established, efforts should be made to ensure that there is clarity and agreement on the key DDR issues. Much of the required information may not be contained within the peace agreement. Therefore, the joint assessment mission is an important tool to gather more information in order to structure a UN approach to support the mission DDR programme.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 14,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Legal framework",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "A key aspect of the assessment mission is to understand the opportunities and problems posed by the unique political/diplomatic, military and socio-economic context in the post- conflict society, and assess their implications for the planning and implementation of the DDR programme.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 14,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "A genuine commitment of the parties to the process is vital to the success of DDR. Commit- ment on the part of the former warring parties, as well as the government and the community at large, is essential to ensure that there is national ownership of the DDR programme. Often, the fact that parties have signed a peace agreement indicating their willingness to be dis- armed may not always represent actual intent (at all levels of the armed forces and groups) to do so. A thorough understanding of the (potentially different) levels of commitment to the DDR process will be important in determining the methods by which the international community may apply pressure or offer incentives to encourage cooperation. Different incentive (and disincentive) structures are required for senior-, middle- and lower-level members of an armed force or group. It is also important that political and military com- manders (senior- and middle-level) have sufficient command and control over their rank and file to ensure compliance with DDR provisions agreed to and included in the peace agreement.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 14,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Political and diplomatic factors",
+            "Heading4": "Political will"
+        },
+        {
+            "Paragraph": "An inclusive national framework to provide the political and policy guidance for the national DDR programme is central to two guiding principles of a successful programme: national ownership and inclusiveness. Past DDR programmes have been less successful when carried out entirely by the regional or international actors without the same level of local involve- ment to move the process forward. However, even when there is national involvement in the DDR programme, it is important to ensure that the framework for DDR brings together a broad spectrum of society to include the former warring parties, government, civil society (including children’s and women’s advocacy groups) and the private sector, as well as regional and international guarantors of the peace process.An inclusive national framework to provide the political and policy guidance for the national DDR programme is central to two guiding principles of a successful programme: national ownership and inclusiveness. Past DDR programmes have been less successful when carried out entirely by the regional or international actors without the same level of local involve- ment to move the process forward. However, even when there is national involvement in the DDR programme, it is important to ensure that the framework for DDR brings together a broad spectrum of society to include the former warring parties, government, civil society (including children’s and women’s advocacy groups) and the private sector, as well as regional and international guarantors of the peace process.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 15,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Political and diplomatic factors",
+            "Heading4": "Inclusive national framework"
+        },
+        {
+            "Paragraph": "Post-conflict political transition processes generally experience many difficulties. Problems in any one area of the transition process can have serious implications on the DDR programme.2 A good understanding of these links and potential problems should allow planners to take the required preventive action to keep the DDR process on track, as well as provide a realistic assessment of the future progress of the DDR programme. This assessment may mean that the start of any DDR activities may have to be delayed until issues that may prevent the full commitment of all the parties involved in the DDR programme have been sorted out. For this reason, mechanisms must be established in the peace agreement to mediate the inevitable differences that will arise among the parties, in order to prevent them from under- mining or holding up the planning and implementation of the DDR programme.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 15,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Political and diplomatic factors",
+            "Heading4": "Transition problems and mediation mechanisms"
+        },
+        {
+            "Paragraph": "Third-party political, diplomatic and financial support is often one such mediation mechanism that can reduce some of the tensions of post-conflict political transitions. Third-party actors, either influential Member States, or regional or international organizations can also focus their attention on the broader aspects of the DDR programme, such as the regional dimen- sion of the conflict, cross-border trafficking of small arms, foreign combatants and displaced civilians, as well as questions of arms embargoes and moratoriums on the transfer of arms, or other sanctions.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 15,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Political and diplomatic factors",
+            "Heading4": "Third-party support"
+        },
+        {
+            "Paragraph": "A good understanding of the overall security situation in the country where DDR will take place is essential. Conditions and commitment often vary greatly between the capital and the regions, as well as among regions. This will influence the approach to DDR. The exist- ing security situation is one indicator of how soon and where DDR can start, and should be assessed for all stages of the DDR programme. A situation where combatants can be disarmed and demobilized, but their safety when they return to their areas of reintegration cannot be guaranteed will also be problematic.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 15,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Security factors",
+            "Heading4": "The security situation"
+        },
+        {
+            "Paragraph": "The capacity of local authorities to provide security for commanders and disarmed com- batants to carry out voluntary or coercive disarmament must be carefully assessed. A lack of national capacity in these two areas will seriously affect the resources needed by the peacekeeping force. UN military, civilian police and support capacities may be required to perform this function in the early phase of the peacekeeping mission, while simultaneously developing national capacities to eventually take over from the peacekeeping mission. If this security function is provided by a non-UN multinational force (e.g., an African Union or NATO force), the structure and processes for joint planning and operations must be assessed to ensure that such a force and the peacekeeping mission cooperate and coordinate effec- tively to implement (or support the implementation of) a coherent DDR programme.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 15,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Security factors",
+            "Heading4": "The security situation"
+        },
+        {
+            "Paragraph": "Ceasefires, disengagement and voluntary disarmament of forces are important confidence- building measures, which, when carried out by the parties, can have a positive effect on the DDR and wider recovery programme. The international community should, wherever possible, support these initiatives. Also, mechanisms should be put in place to investigate violations of ceasefires, etc., in a transparent manner.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 16,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Security factors",
+            "Heading4": "Building confidence"
+        },
+        {
+            "Paragraph": "The post-conflict socio-economic condition of the country is a major factor in determining the kind of DDR programme that should be implemented. The level of unemployment, the state of the (formal and informal) economy and the agricultural sector (i.e., access to land, rights and the ability of the country to feed itself), the condition of the country’s infra- structure, and the capacity of state institutions to deliver basic services, combined with the length of the conflict, are all factors that should be taken into account when considering the specifics of any demobilization (length and types of programme) and socio-economic (reconciliation, justice issues and types of economic assistance) reintegration programme.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 16,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Overall socio-economic conditions"
+        },
+        {
+            "Paragraph": "The role of the receiving communities is central to the successful reintegration of ex-com- batants. Therefore, close consultation must take place with all levels of the local community about the possible implications of the DDR programme for these communities, and the type of support (economic, reconciliation, etc.) required to reintegrate ex-combatants. This issue of returning ex-combatants to the communities must be assessed together with the overall impact of all the groups of people who will return, including internally displaced persons and refugees.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 16,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Local participation"
+        },
+        {
+            "Paragraph": "DDR programmes can succeed only if there is a strong link with a national recovery pro- gramme, which provides not only for political and economic development, but also for a restructuring and reform of the State’s security sector and the fostering of national reconcili- ation. An assessment should ascertain if these factors are being considered and who will be supporting this aspect of post-conflict peace-building.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 16,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "A development approach"
+        },
+        {
+            "Paragraph": "The weapons control framework is another key element that affects a DDR programme. Constitutional and legislative guarantees for weapons ownership, the import/export of small arms, and the regulation of the national gun industry and private security firms must be considered in terms of how they support or limit the effective implementation of a DDR programme. Equally important are the national administrative infrastructure and enforcement capacity to implement the weapons control framework.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 16,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Weapons control framework"
+        },
+        {
+            "Paragraph": "The assessment mission should examine the illicit supply of small arms and light weapons coming into the post-conflict zone. This is often caused by porous borders and weak border- policing capacities. Arms embargoes should be considered as one tool available to deal with illicit trafficking of small arms and light weapons, thus supporting both DDR and the wider national recovery programme.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 17,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Arms embargoes"
+        },
+        {
+            "Paragraph": "The character, size, composition and location of the groups specifically identified for DDR are among the required details that are often not included the legal framework, but which are essential to the development and implementation of a DDR programme. In consultation with the parties and other implementing partners on the ground, the assessment mission should develop a detailed picture of: \\n WHO will be disarmed, demobilized and reintegrated; \\n WHAT weapons are to be collected, destroyed and disposed of; \\n WHERE in the country the identified groups are situated, and where those being dis- armed and demobilized will be resettled or repatriated to; \\n WHEN DDR will (or can) take place, and in what sequence for which identified groups, including the priority of action for the different identified groups.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 17,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Defining specific groups for DDR"
+        },
+        {
+            "Paragraph": "It is often difficult to get this information from the former warring parties. Therefore, the UN should find other, independent sources, such as Member States or local or regional agencies, in order to acquire information. Community-based organizations are a particularly useful source of information on armed groups.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 17,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Defining specific groups for DDR"
+        },
+        {
+            "Paragraph": "Potential targets for disarmament include government armed forces, opposition armed groups, civil defence forces, irregular armed groups and armed individuals. These generally include: \\n male and female combatants, and those associated with the fighting groups, such as those performing support roles (voluntarily or because they have been forced to) or who have been abducted; \\n child (boys and girls) soldiers, and those associated with the armed forces and groups; \\n foreign combatants; \\n dependants of combatants.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 17,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Defining specific groups for DDR"
+        },
+        {
+            "Paragraph": "The end product of this part of the assessment of the armed forces and groups should be a detailed listing of the key features of the armed forces/groups.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 17,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Defining specific groups for DDR"
+        },
+        {
+            "Paragraph": "The assessment mission should document the relative capacities of the various potential DDR partners (UN family; other international, regional and national actors) in the mission area that can play a role in implementing (or supporting the implementation of) the DDR programme.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 17,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "DRR planning and implementation partners"
+        },
+        {
+            "Paragraph": "UN funds, agencies and programmes \\n UN agencies can perform certain functions needed for DDR. The resources available to the UN agencies in the country in question should be assessed and reflected in discussions at Headquarters level amongst the agencies concerned. The United Nations Development Programme may already be running a DDR programme in the mission area. This, along with support from other members of the DDR inter-agency forum, will provide the basis for the integrated DDR unit and the expansion of the DDR operation into the peacekeeping mission, if required.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 17,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "DRR planning and implementation partners"
+        },
+        {
+            "Paragraph": "International and regional organizations \\n Other international organizations, such as the World Bank, and other regional actors may be involved in DDR before the arrival of the peacekeeping mission. Their role should also be taken into account in the overall planning and implementation of the DDR programme.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 18,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "DRR planning and implementation partners"
+        },
+        {
+            "Paragraph": "Non-governmental organizations \\n NGOs are usually the major implementing partners of specific DDR activities as part of the overall programme. The various NGOs contain a wide range of expertise, from child protection and gender issues to small arms, they tend to have a more intimate awareness of local culture and are an integral partner in a DDR programme of a peacekeeping mission. The assessment mission should identify the major NGOs that can work with the UN and the government, and should involve them in the planning process at the earliest opportunity.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 18,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "DRR planning and implementation partners"
+        },
+        {
+            "Paragraph": "Following a review of the extent and nature of the problem and an assessment of the relative capacities of other partners, the assessment mission should determine the DDR support (finance, staffing and logistics) requirements, both in the pre-mandate and establishment phases of the peacekeeping mission.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 18,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Support requirements"
+        },
+        {
+            "Paragraph": "Finance \\n The amount of money required for the overall DDR programme should be estimated, including what portions are required from the assessed budget and what is to come from voluntary contributions. In the pre-mandate period, the potential of quick-impact projects that can be used to stabilize ex-combatant groups or communities before the formal start of the DDR should be examined. Finance and budgeting processes are detailed in IDDRS 3.41 on Finance and Budgeting.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 18,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Support requirements"
+        },
+        {
+            "Paragraph": "Staffing \\n The civilian staff, civilian police and military staff requirements for the planning and imple- mentation of the DDR programme should be estimated, and a deployment sequence for these staff should be drawn up. The integrated DDR unit should contain personnel represent- ing mission components directly related to DDR operations: military; police; logistic support; public information; etc. (integrated DDR personnel and staffing matters are discussed in IDDRS 3.42 on Personnel and Staffing). \\n The material requirements for DDR should also be estimated, in particular weapons storage facilities, destruction machines and disposal equipment, as well as requirements for the demobilization phase of the operation, including transportation (air and land). Mission and programme support logistics matters are discussed in IDDRS 3.40 on Mission and Pro- gramme Support for DDR.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 18,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "Support requirements"
+        },
+        {
+            "Paragraph": "The assessment mission report should be submitted in the following format (Section II on the approach of the UN forms the input into the Secretary-General’s report to the Security Council): \\n\\n Preface \\n Maps \\n Introduction \\n Background \\n Summary of the report \\n\\n Section I: Situation \\n Armed forces and groups \\n Political context \\n Socio-economic context \\n Security context \\n Legal context \\n Lessons learned from previous DDR operations in the region, the country and elsewhere (as relevant) \\n Implications and scenarios for DDR programme \\n Key guiding principles for DDR operations \\n Existing DDR programme in country \\n\\n Section II: The UN approach \\n DDR strategy and priorities \\n Support for national processes and institutions \\n Approach to disarmament \\n Approach to demobilization \\n Approach to socio-economic reintegration \\n Approach to children, women and disabled people in the DDR programme \\n Approach to public information \\n Approach to weapons control regimes (internal and external) \\n Approach to funding of the DDR programme \\n Role of the international community \\n\\n Section III: Support requirements \\n Budget \\n Staffing \\n Logistics \\n\\n Suggested annexes \\n Relevant Security Council resolution authorizing the assessment mission \\n Terms of reference of the multidisciplinary assessment mission \\n List of meetings conducted \\n Summary of armed forces and groups \\n Additional information on weapons flows in the region \\n Information on existing disarmament and reintegration activities \\n Lessons learned and evaluations of past disarmament and demobilization programmes \\n Proposed budget, staffing structure and logistic requirements",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 18,
+            "Heading1": "Annex B: Guide to conducting a DDR technical assessment mission",
+            "Heading2": "Assessing the planning and implementation context",
+            "Heading3": "Socio-economic factors",
+            "Heading4": "The structure and content of the joint assessment repor"
+        },
+        {
+            "Paragraph": "The UN DDR strategic framework consists of three interrelated strategic policy objectives, and supports the overall UN aim of a stable and peaceful country x, and the accompanying DDR tasks.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 20,
+            "Heading1": "Annex C: Developing the DDR strategic objectives and policy frameworks",
+            "Heading2": "An example of DDR strategic objectives",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "A detailed, realistic and achievable DDR implementation annex in the comprehensive peace agreement. \\n Key tasks \\n\\n The UN should assist in achieving this aim by providing technical support to the parties at the peace talks to support the development of: \\n 1. Clear and sound DDR approaches for the different identified groups, with a focus on social and economic reintegration; \\n 2. An equal emphasis on vulnerable identified groups (children, women and disabled people) in or associated with the armed forces and \\n groups; \\n 3. A detailed description of the disposition and deployment of armed forces and groups (local and foreign) to be included in the DDR programme; \\n 4. A realistic time-line for the commencement and duration of the DDR programme; \\n 5. Unified national political, policy and operational mechanisms to support the implementation of the DDR programme; \\n 6. A clear division of labour among parties (government and party x) and other implementing partners (DPKO [civilian, military]; UN agencies, funds and programmes; international financial organizations [World Bank]; and local and international NGOs).",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 20,
+            "Heading1": "Annex C: Developing the DDR strategic objectives and policy frameworks",
+            "Heading2": "An example of DDR strategic objectives",
+            "Heading3": "DDR strategic objective #1",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "A well-resourced, joint strategic and operational plan for the implementation of DDR in country x. \\n Key tasks \\n\\n The UN should assist in achieving this aim by providing planning capacities and physical resources to: \\n 1. Establish all-inclusive joint planning mechanisms; \\n 2. Develop a time-phased concept of the DDR operations; \\n 3. Establish division of labour for key DDR tasks; \\n 4. Estimate the broad resource requirements; \\n 5. Start securing voluntary contributions; \\n 6. Start the procurement of DDR items with long lead times; \\n 7. Start the phased recruitment of personnel required from DPKO and other UN agencies; \\n 8. Raise a military component from the armed forces of Member States for DDR activities; \\n 9. Establish an effective public information campaign; \\n 10. Establish programmatic links between the DDR operation and other areas of the mission’s work: security sector reform; recovery and reconstruction; etc.; \\n 11. Support the implementation of the established DDR strategy/plan.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 20,
+            "Heading1": "Annex C: Developing the DDR strategic objectives and policy frameworks",
+            "Heading2": "An example of DDR strategic objectives",
+            "Heading3": "DDR strategic objective #2",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "A national weapons management programme and a regional strategy to stop the flow of small arms and light weapons into country x. \\n Key tasks \\n\\n To ensure a comprehensive approach to disarmament, the UN should also focus on the supply side of the weapons issue. In this regard, the UN can provide technical, political (good offices) and diplomatic support to: \\n assist the parties to establish and implement necessary weapons management legislation; \\n support country x’s capacity to implement the UN \\n Programme of Action to Prevent, Com­ bat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All Its Aspects in 2001 (A/Conf.192/15); \\n support regional initiatives to control the flow of illicit small arms and light weapons in the region.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 21,
+            "Heading1": "Annex C: Developing the DDR strategic objectives and policy frameworks",
+            "Heading2": "An example of DDR strategic objectives",
+            "Heading3": "DDR strategic objective #3",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "\\n 1 A good source for this information is the relevant Small Arms Survey report; see http://www.small- armssurvey.org. \\n 2 In Liberia, the dispute over the allocation of ministerial positions resulted in the walkout of junior members of the three factions in the first meeting of the National Commission on Disarmament, Demobilization, Rehabilitation and Reintegration in 2003, while uncertainty and disagreement over elections delayed the start of the DDR programme in Côte d’Ivoire.",
+            "Level": 3,
+            "Title": "Integrated DDR Planning: Processes and Structures",
+            "PageNum": 22,
+            "Heading1": "Endnotes",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        }
     ]
 }
