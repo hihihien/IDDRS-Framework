@@ -6687,7 +6687,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "The objectives of this module are to: \\n Explain the implications of the UN’s sustaining peace approach for reintegration support. \\n Provide policy guidance on how to address reintegration challenges and realize reintegration opportunities across the peace continuum. \\n Consider the general issues concerning reintegration support in contexts where the preconditions for DDR programmes are not in place. Finally, as reintegration support may involve a broad array of practitioners (including but not limited to ‘DDR practitioners’), when appropriate, this module refers to DDR practitioners and others involved in the planning, implementation and management of reintegration support.",
+            "Paragraph": "DDR practitioners involved in outlining and negotiating the content of reintegration support with Governments and other stakeholders are invited to consult IDDRS 4.30 on Reintegration for specific programmatic guidance on the various ways to support reintegration. Options and considerations for reintegration support to specific needs groups can be found in IDDRS 5.10 on Women, Gender and DDR; IDDRS 5.20 on Children and DDR; and IDDRS 5.30 on Youth and DDR. Finally, as reintegration support may involve a broad array of practitioners (including but not limited to ‘DDR practitioners’), when appropriate, this module refers to DDR practitioners and others involved in the planning, implementation and management of reintegration support.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 4,
@@ -6730,7 +6730,7 @@
             "Paragraph": "Sustaining peace approach: UN General Assembly resolution 70/262 and UN Security Council resolution 2282 on sustaining peace outline a new approach for peacebuilding. These twin resolutions demonstrate the commitment of Member States to strengthening the United Nations’ ability to prevent the “outbreak, escalation, continuation and recurrence of [violent] conflict”, and “address the root causes and assist parties to conflict to end hostilities”. Sustaining peace should be understood as encompassing not only efforts to prevent relapse into conflict, but also to prevent lapse into conflict in the first place.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
-            "PageNum": 6,
+            "PageNum": 5,
             "Heading1": "2. Terms, definitions and abbreviations",
             "Heading2": "",
             "Heading3": "",
@@ -6761,7 +6761,7 @@
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 6,
-            "Heading1": "3. Guiding principles",
+            "Heading1": "2. Terms, definitions and abbreviations",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
@@ -6772,12 +6772,22 @@
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 6,
             "Heading1": "3. Guiding principles",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Participation in a reintegration programme as part of a DDR process shall be voluntary.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 6,
+            "Heading1": "3. Guiding principles",
             "Heading2": "3.1 Voluntary",
             "Heading3": "",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "When there is a DDR programme, eligibility shall be defined within a national DDR programme document. Different groups of those eligible will participate in each component of the DDR programme: combatants and persons associated with armed groups carrying weapons and ammunition shall participate in disarmament. In addition to these groups, all other unarmed individuals considered members of an armed force or group shall participate in demobilization. Reintegration support should be provided not only to ex-combatants, but also to persons formerly associated with armed forces and groups, including women and children among these categories, and, where appropriate, dependants and host community members. When the preconditions for a DDR programme are not present, or when combatants are ineligible to participate in DDR programmes, eligibility for reintegration support shall be decided by relevant national and local authorities, with support, where appropriate, from relevant UN mission entities as well as UN agencies, programmes and funds. Eligibility for reintegration support in such cases should also take into account ex-combatants and persons formerly associated with armed forces and groups, including women, and, where appropriate, dependants and host community members. Children associated or formerly associated with armed groups should always be encouraged to participate in DDR processes with no eligibility limitations.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 6,
@@ -6787,7 +6797,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Children who were recruited by armed groups may have experienced significant harm and have specific needs. Furthermore, children who joined or supported armed forces or groups may have done so under duress, coercion or manipulation. For many children and youth who have been associated with armed forces or groups, the focus should be on reintegration and highlighting their self-worth and their ability to contribute to society, as well as offering alternatives to participation in armed groups in the form of training and education. At the same time, opportunities should be provided to other children and youth in the area, so as not to create tension or stigma. The following principles regarding reintegration support to children and youth apply: \\n Children shall be treated as children and, if they have been associated with armed forces or groups, as survivors of violations of their rights. They shall always be referred to as children. \\n In any decision that affects children, the best interests of the child shall be a primary consideration. International legal standards pertaining to children shall be applied. \\n States shall engage children’s families to support rehabilitation and reintegration.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 7,
@@ -6797,7 +6807,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Efforts shall be made to ensure that serious violations of human rights and humanitarian law by ex- combatants and persons formerly associated with armed forces and groups are dealt with through appropriate national and international legal and/or transitional justice mechanisms (see IDDRS 2.11 on The Legal Framework for UN DDR and IDDRS 6.20 on Transitional Justice and DDR). Mechanisms shall also be designed and included in reintegration programmes to prevent those who have committed violations of human rights from going unpunished. In addition, where appropriate, community-based reintegration programmes shall explore opportunities to contribute to reparations for victims.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 7,
@@ -6807,7 +6817,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Non-discrimination and fair and equitable treatment of participants and beneficiaries are core principles of the UN’s involvement in reintegration support. Differences exist among the people who benefit from reintegration support – which include, but are not limited to, sex, age, class, religion, gender identity, and physical, intellectual, psychosocial and social capacities – all of which require specific responses. Reintegration support shall therefore be based on the thorough profiling of ex- combatants and persons formerly associated with armed forces and groups, as well as assessments of the social, economic, political and cultural contexts into which they are reintegrated, in order to support specific needs. In general, individual reintegration support shall shift focus from uniform entitlements provided to individuals with the status of ex-combatants or persons formerly associated with armed forces and groups. Instead, reintegration support shall aim to fulfil specific needs and harness individual capacities.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 7,
@@ -6817,7 +6827,17 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Gender refers to the socially constructed attributes and opportunities associated with being male or female and the relationships between and among women, men, girls and boys, in a certain sociocultural context (see IDDRS 5.10 on Women, Gender and DDR). Gender-responsive reintegration programmes shall be planned, implemented, monitored and evaluated in a manner that meets the different needs of female and male ex-combatants, supporters and dependents. Understanding and addressing gender always requires careful analysis, looking into the responsibilities, activities, interests and priorities of women and men, and how their experiences of problems may differ. Planning for reintegration support shall therefore be based on sex- disaggregated data so that reintegration programmes can identify the specific needs and potential of women, men, boys and girls. These needs may include, among others, access to land, childcare facilities, property and livelihoods, resources and rehabilitation following sexual violence, and support to overcome socialization to violence and substance abuse.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 7,
+            "Heading1": "3. Guiding principles",
+            "Heading2": "3.3 Gender-responsive and inclusive",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In some cases, women may have ‘self-demobilized’ or been excluded from DDR programmes by military commanders (see IDDRS 4.20 on Demobilization). When this happens, and if women so choose, efforts should be made to provide them with access to the reintegration programme. Female- specific reintegration programmes may also be created to address these women.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 8,
@@ -6827,7 +6847,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "In order to implement gender-responsive reintegration programmes, UN and Government programme staff, implementing partners and other stakeholders should receive training in gender- sensitive approaches and good practices, as well as other capacity-building support.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 8,
@@ -6837,7 +6857,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Gender-sensitivity requires that the monitoring and evaluation framework for reintegration support shall include gender-related indicators and specific assessments on gender. Reintegration programmes shall ensure specific funding for such initiatives and shall work to monitor and evaluate their gender appropriateness.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 8,
@@ -6847,27 +6867,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
-            "Level": 2,
-            "Title": "Reintegration as Part of Sustaining Peace",
-            "PageNum": 8,
-            "Heading1": "3. Guiding principles",
-            "Heading2": "3.3 Gender-responsive and inclusive",
-            "Heading3": "",
-            "Heading4": ""
-        },
-        {
-            "Paragraph": "",
-            "Level": 2,
-            "Title": "Reintegration as Part of Sustaining Peace",
-            "PageNum": 8,
-            "Heading1": "3. Guiding principles",
-            "Heading2": "3.3 Gender-responsive and inclusive",
-            "Heading3": "",
-            "Heading4": ""
-        },
-        {
-            "Paragraph": "",
+            "Paragraph": "A conflict-sensitive approach involves ensuring a sound understanding of the two-way interaction between activities and context, and acting to minimize the negative impacts and maximize the positive impacts of intervention on conflict, within an organization’s given mandate. The first principle that is usually applied in a conflict-sensitive approach is do no harm; however, conflict sensitivity goes beyond this. To do no harm and to support local capacities for peace requires: \\n An awareness of both the intended and unintended consequences of reintegration programming; \\n Analysis of the conflict context and the programme, examining how reintegration support interacts with the conflict; \\n A willingness to adapt, create options and, if needed, redesign programmes to improve quality; \\n Careful reflection on staff conduct and organizational policies, to ensure that the behaviour of individuals and organizations meets the highest standards of ethics and professionalism.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 8,
@@ -6877,7 +6877,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Conflict analysis and risk mitigation measures shall be applied as key components of a conflict sensitivity approach, as well as integrated into monitoring and evaluation processes.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 9,
@@ -6887,7 +6887,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Planning for the effective and sustainable reintegration of ex-combatants and persons formerly associated with armed forces and groups shall be based, among other aspects, on a comprehensive understanding of the local context. In settings where there is no ceasefire and/or peace agreement, the ex-combatant status of those who ‘self-demobilize’ may be unclear. Where feasible, DDR practitioners should work to clarify the status of ex-combatants through the establishment of a clear framework. However, where this is not feasible, the status of ex-combatants must still be analysed, at the programme level, in order to ensure that reintegration support is not provided to individuals who are active members of armed groups.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 9,
@@ -6897,7 +6897,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "To respond to contextual changes and remain relevant, reintegration support shall be designed in a way that allows for adaptability. While the design of a reintegration programme is based on initial assessments, it is also important to note that many contextual factors will change significantly during the course of the programme, such as the wishes and ambitions of ex-combatants and persons formerly associated with armed forces and groups, the labour market, the capacities of service providers, the capacities of different Government bodies, and the agendas of political parties and leaders in power. Furthermore, new or broader recovery plans may be designed during the time frame of the reintegration programme, to which the latter should be linked.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 9,
@@ -6907,7 +6907,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The need for flexibility will be particularly acute in ongoing conflict settings where the risks of doing harm, including inadvertently fuelling recruitment to active armed groups, must be carefully assessed. A flexible approach should allow for the early identification of these risks and the development of risk mitigation strategies.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 9,
@@ -6917,7 +6917,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "It is important to note that, despite the benefits of a flexible approach, providing ad hoc reintegration support can be problematic. One of the challenges is to provide clarity to ex-combatants, persons formerly associated with armed forces and groups, and broader communities early on about the reintegration support to be provided and the benefits and eligibility criteria involved, while on the other hand maintaining sufficient flexibility in the programme to be able to respond to changing needs and circumstances.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 9,
@@ -6927,7 +6927,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Reintegration support shall be based on the principles of accountability and transparency. Public information and communications strategies and policies shall therefore be drawn up and implemented as early as possible. Public information allows affected participants and beneficiary groups to receive accurate information on the principles and procedures of reintegration support. Efforts to provide public information and sensitization concerning reintegration efforts may also benefit from collaboration with women’s and men’s organizations to address gender-specific needs (see IDDRS 4.60 on Public Information and Strategic Communication in Support of DDR).",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 9,
@@ -6937,7 +6937,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Reintegration support measures and expected results shall be reflected in key indicators. Defining indicators in a participatory manner helps to clarify expectations and contributes to a broad consensus on realistic targets. Individuals or organizations responsible for monitoring shall also be agreed upon, as well as how frequently monitoring reports should be produced.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 10,
@@ -6947,7 +6947,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Relevant entities of the UN system shall remain transparent vis-à-vis the Government and its institutions in regard to activities and plans in support of reintegration, particularly if not fully agreed upon in advance.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 10,
@@ -6957,7 +6957,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Reintegration support provided by the UN system shall be based on a partnership with the national authorities and other stakeholders. The primary responsibility for the reintegration strategy and policy, as well as the successful outcome of the programme, rests with national authorities and their local institutions. UN support to reintegration programmes shall include efforts to develop the capacities of receiving communities and local and national authorities.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 10,
@@ -6967,7 +6967,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "UN-supported DDR processes may take place when a recently established Government is still finding a political balance between (remnants of) the previously combating parties, which could include members of the Government itself (see IDDRS 2.20 on The Politics of DDR). The national institutions in charge of reintegration support may operate in a fluid political environment, which may include regular changes in institutional set-up and personnel. In these settings, international actors shall not act as substitutes for national authorities in programme management and implementation, but rather, shall put forth all efforts to strengthen those national institutions that are managing reintegration support.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 10,
@@ -6977,7 +6977,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The success of reintegration programmes depends on the combined efforts of individuals, families and supporting communities to identify and work towards their own solutions. Reintegration should be led and implemented by community members themselves – with support from external actors where needed. The community-based approach begins with community sensitization during the earliest phases of the reintegration programme, to gain community inputs and consider the dynamics of the conflict. To the extent possible, all reintegration support should be linked to existing social services and protection networks, while bolstering the capacities of existing systems.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 10,
@@ -6987,7 +6987,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Therefore, reintegration programmes shall be designed through an inclusive participatory process involving ex-combatants, persons formerly associated with armed forces and groups, community representatives, local and national authorities, and non-governmental actors in planning and decision-making from the earliest stages. Buy-in from key members of armed forces and groups shall be a priority of the reintegration programme, and shall be achieved in collaboration with the national Government and other key stakeholders in accordance with UN principles and mandates.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 10,
@@ -6997,7 +6997,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "In some contexts there may be regional dimensions to reintegration support, such as cross-border flows of small arms and light weapons (SALW); trafficking in natural resources as a source of revenue; cross-border recruitment, including of children; and the repatriation and reintegration of foreign ex-combatants in their countries of origin. The design of a reintegration programme shall therefore consider the regional level in addition to the individual, community and national levels (see IDDRS 5.40 on Cross-Border Population Movements).",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 10,
@@ -7007,7 +7007,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Reintegration both influences and is affected by wider recovery, peacebuilding and state transformational processes. Therefore, reintegration programmes shall work collaboratively with other programmes and stakeholders in order to achieve policy coherence, sectoral programme integration, and UN inter-agency cooperation and coordination throughout design and implementation. In addition, the use of technical working groups, donor forums, and rapid response modalities shall be used to further integrate efforts in the area of reintegration support. Relevant line ministries shall also receive appropriate support from reintegration programmes to ensure that the reintegration of ex-combatants and persons formerly associated with armed forces and groups will be sustainable and in alignment with other national and local plans.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 11,
@@ -7017,7 +7017,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Planning should consider that the reintegration of ex-combatants and persons formerly associated with armed forces and groups is a long-term process, in some contexts taking several years to be successfully and sustainably completed with family support at the community level. A well-planned reintegration programme shall be based on a comprehensive understanding of the type of armed force and/or group(s) to which the individual belonged, the duration of his or her membership with the armed force and/or armed group(s), as well as the local context and community dynamics. Furthermore, a well-planned reintegration programme requires clear agreement among all stakeholders on the objectives and results of the programme, the establishment of realistic time frames, clear budgetary requirements and human resource needs, and a clearly defined exit strategy.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 11,
@@ -7027,7 +7027,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Planning shall be based on existing assessments that include conflict and development analyses, gender analyses, early recovery and/or post-conflict needs assessments, and reintegration-specific assessments. Those involved in the design and negotiation of reintegration support with Government and other relevant stakeholders shall ensure that a results-based monitoring and evaluation framework is developed during the planning phase and that sufficient resources and expertise are allocated for this task at the outset.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 11,
@@ -7037,7 +7037,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "A well-planned reintegration programme shall assess and respond to the needs of its participants and beneficiaries through gender-specific planning. Planning shall be done in close collaboration with related programmes and initiatives. Although long-term planning is required, it shall still allow for a degree of flexibility (see section 3.6). Those involved in planning for reintegration support shall work in an integrated manner with those planning disarmament and demobilization in order to ensure smooth transitions. DDR practitioners shall not make promises regarding reintegration support during disarmament and demobilization that cannot be delivered upon.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 11,
@@ -7047,7 +7047,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The reintegration of ex-combatants and persons formerly associated with armed forces and groups is a long-term process with social, economic, political and security dimensions. It may be influenced by factors such as the choices and capacities of individuals to shape a new life, the security situation and perceptions of security, family and support networks, and the psychological well-being of combatants and the wider community. Reintegration processes are part of the development of a country. Facilitating reintegration is therefore primarily the responsibility of national Governments and their institutions, with the international community playing a supporting role if requested.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 12,
@@ -7057,7 +7057,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Supporting ex-combatants and persons formerly associated with armed forces and groups to sustainably reintegrate into civilian life is seen as the most complex part of the DDR process in both mission and non- mission contexts. Ex-combatants and those formerly associated with armed forces and groups find themselves, willingly or not, separated from command structures and support networks. The conflict-affected communities to which these individuals return are often characterized by weakened governance, lack of social cohesion, damaged economies and insecurity. In some instances, individuals may re-enter societies and communities that are unfamiliar to them, and which have been significantly affected by extended periods of conflict. The acceptance of ex-combatants and persons formerly associated with armed forces and groups by receiving communities is essential and is linked to perceptions of fair treatment, including towards victims, ex-combatants and other conflict-affected groups.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 12,
@@ -7067,7 +7067,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Reintegration support can be provided to address different elements of the reintegration process, ranging from socioeconomic challenges to the psychosocial aspects of reintegration. Support can also be provided in order to mitigate destabilizing factors, such as social exclusion and stigmatization, the harmful use of alcohol and drugs and other physical and psychosocial trauma, political disenfranchisement and insecurity. A robust and evidence-based theory of change should underpin the contribution of reintegration support to the overall reduction of armed violence sought by Sustainable Development Goal 16. This will allow those working on reintegration support, across different institutions and with different programming approaches, to identify the collective outcomes that reintegration programmes are aiming to achieve. The various types of reintegration support and the different modalities of its provision are outlined in IDDRS 4.30 on Reintegration. It should be noted, however, that the support provided by a reintegration programme should not be expected to match the breadth, depth or duration of individual reintegration processes, nor the longer-term recovery and development process.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 12,
@@ -7077,7 +7077,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Reintegration support can play an important role in sustaining peace, even when a peace agreement has not yet been negotiated or signed. The twin UN resolutions on the 2015 peacebuilding architecture review, General Assembly resolution 70/262 and Security Council resolution 2282, recognize that efforts to sustain peace are necessary at all stages of conflict. Therefore, in order to support, and strengthen, the foundation for sustainable peace, the reintegration of ex-combatants and persons formerly associated with armed forces and groups should not only be supported after an armed conflict has ended. As individuals may leave armed forces and groups during all phases of armed conflict, the need to support them should be considered at all times, even in the absence of a DDR programme. This may mean providing support to those who return to peaceful areas of the conflict-affected country, and to those who return to peaceful countries of origin, in the case of foreign fighters.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 13,
@@ -7087,7 +7087,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "As part of the sustaining peace approach, support to reintegration should be designed and carried out to contribute to dynamics that aim to prevent future recruitment. In this regard, opportunities should be seized to prevent relapse into armed conflict, including by tackling root causes and understanding peace dynamics. Armed conflict may be the result of a combination of root causes including exclusion, inequality, discrimination and other violations of human rights, including women’s rights. While these challenges cannot be fully addressed through reintegration support, community-based reintegration support that is well integrated into local and national development efforts is likely to contribute to addressing the root causes of conflict and, as such, contribute to sustaining peace. It is also important to strengthen what still works, including the residual capacities for peace that people and communities draw on in times of conflict. Sustaining peace seeks to reclaim the concept of peace in its own right, by acknowledging that the existing capacities for peace, i.e., the structures, attitudes and institutions that sustain peace, should be strengthened not only in situations of conflict, but even in peaceful settings. This strengthening of peace capacities can be based on the identification of the reasons why some individuals do not join armed groups, and why some combatants leave armed groups and turn away from armed violence.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 13,
@@ -7097,7 +7097,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Inclusion is also an important part of reintegration support as part of the sustaining peace approach. Exclusion and marginalization, including gender inequalities, are key drivers of violent conflict. Community-owned and -led approaches to reintegration support that are inclusive and integrate a gender perspective, specifically addressing the needs of women, youth, disabled persons, ethnic minorities and indigenous groups have a positive impact on a country’s capacity to manage and avoid conflict, and ultimately on the sustainability of peace processes. Empowering the voices and capacities of women and youth in the planning and design of reintegration programmes contributes to addressing conflict drivers, socioeconomic and gender inequalities, and youth disenchantment. Additionally, given that national-level peace processes are not always possible, opportunities to leverage reintegration support, particularly around social cohesion through local peace processesbetween groups and communities, can be sought through local governance initiatives, such as participatory budgeting and planning.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 13,
@@ -7107,7 +7107,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The UN’s sustaining peace approach calls for the breaking of operational silos. The joint analysis, planning and management of ongoing programmes helps to ensure the sustainability of collectively defined reintegration outcomes. This process also serves as an entry point for innovative partnerships and the contextually anchored flexible approaches that are needed. For effective reintegration support as part of sustaining peace, it is essential to draw on capacities across and beyond the UN system in support of local and national authorities. DDR practitioners and others involved in developing and managing this support should recognize that community authorities may be the frontline responders who lay the foundation for peace and development. Innovative financing sources and partnerships should be sought, and funding partners should pay particular attention to increasing, restructuring and prioritizing the financing of reintegration support.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 14,
@@ -7117,7 +7117,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "In light of the above, reintegration support as part of sustaining peace should focus on: \\n The enhancement of capacities for peace. \\n The adoption of a clear definition of reintegration outcomes within the humanitarian- development-peace nexus, recognizing the strong interconnectedness between and among the three pillars. \\n Efforts to actively break out of institutional silos, eliminating fragmentation and contributing to a comprehensive, coordinated and coherent DDR process. \\n The application of a gender lens to all reintegration support. The rationale is that men and women, boys and girls, have differentiated needs, aspirations, capacities and contributions. \\n The importance of strengthening resilience during reintegration support. Individuals, communities, countries and regions lay the foundations for resilience to stresses and shocks associated with insecure environments through the development of local and national development plans, including national action plans on UN Security Council Resolution 1325. \\n The consistent implementation of monitoring and evaluation across all phases of the peace continuum with a focus on cross-sectoral approaches that emphasize collective programming outcomes. \\n The development of innovative partnerships to achieve reintegration as part of sustaining peace, based on whole-of-government and whole-of-society approaches, involving ex-combatants, persons formerly associated with armed forces and groups and their families, as well as receiving communities. \\n The engagement of the private sector in the creation of economic opportunities, fostering capacities of local small and medium-sized enterprises, as well as involving international private- sector investment in reintegration opportunities, where appropriate.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 14,
@@ -7127,7 +7127,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "For reintegration programmes to play their role in sustaining peace effectively, DDR practitioners and others involved in the planning and implementation of reintegration support should ensure that they: \\n Have a shared understanding of the drivers of a specific conflict, as well as the risks faced by individuals who are reintegrating and their receiving communities and countries; \\n Conduct joint analysis and monitoring and evaluation allowing for the development of strategic approaches that can strengthen peace and resilience; \\n Align with the women, peace and security agenda, ensuring that gender considerations are front and centre in reintegration support; \\n Have a shared understanding of the importance of youth in all efforts towards peace and security; \\\n Foster collective ownership by local authorities and other stakeholders that is anchored in local and national development plans – the international community shall play a supporting role and avoid creating parallel structures; \\n Create the long-term partnerships necessary for sustaining peace through the development of local institutional capacity, adaptive programming that is responsive to the context, and adequate human and financial resources.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 14,
@@ -7137,7 +7137,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Additionally, as part of the conflict prevention and peacebuilding agenda, reintegration processes should be linked more deliberately with development programming. For instance, the 2030 Agenda for Sustainable Development provides a universal, multi-stakeholder, multi-sector set of goals adopted by all UN Member States in 2015. The Agenda includes 17 sustainable development goals (SDGs) covering poverty, food security, education, health care, justice and peace for which strategies, policies and plans should be developed at the national level and against which progress should be measured. The human and economic cost of armed conflict globally requires all stakeholders to work collaboratively in supporting Member States to achieve the SDGs; with all those concerned with development providing support to prevention agendas through targeted and sustained engagement at the national and regional levels.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 15,
@@ -7147,7 +7147,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Efforts to support the transition of ex-combatants and persons formerly associated with armed forces and groups into civilian life have typically taken place as part of post-conflict DDR programmes. DDR programmes are often ‘collective’ in that they address groups of combatants and persons associated with armed forces and groups through a formal and controlled programme, often as part of the implementation of a CPA.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 15,
@@ -7157,7 +7157,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Increasingly, the UN is called upon to address security challenges that arise from situations where comprehensive political settlements are lacking and the preconditions for DDR programmes are not present. When conflict is ongoing, exit from armed groups is often individual and can take different forms. Those who are captured or who voluntarily leave armed groups will likely fall under the custody of authorities, such as the regular armed forces or law enforcement officials. In some contexts, however, those leaving armed groups may find their way back into communities without falling into the custody of authorities. This is often the case for female ex-combatants and women formerly associated with armed forces and groups who escape ‘invisibly’ and who may be difficult to identify and reach for support. Community-based reintegration programmes aiming to support these groupsshould be based on credible information, verified through an agreed-upon mechanism that includes key actors. Local peace and development committees may play an important role in prioritizing and identifying these women.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 15,
@@ -7167,7 +7167,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "In addition, in contexts where the preconditions for DDR programmes are not in place, DDR-related tools such as community violence reduction (CVR) and transitional weapons and ammunition management (WAM) have been used along with support to mediation and transitional security measures (see IDDRS 2.20 on The Politics of DDR, IDDRS 2.30 on Community Violence Reduction and IDDRS 4.11 on Transitional Weapons and Ammunition Management). Where appropriate, early elements of reintegration support can be part of CVR programming, such as different types of employment and livelihoods support, improvement of the capacities of vulnerable communities to absorb returning ex-combatants, and investments in public goods designed to strengthen the social cohesion of communities. Reintegration as part of the sustaining peace approach is not only an integral part of DDR programmes. It also follows security sector reform (SSR) where armed forces or the police are rightsized; complements DDR-related tools, such as CVR, through sustainable measures; or is provided to persons formerly associated with armed groups designated as terrorist organizations by the United Nations Security Council.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 16,
@@ -7177,7 +7177,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The increased complexity of the political and socioeconomic settings in which most reintegration support is provided does not necessarily imply that the support provided must also become more complicated. DDR practitioners and others involved in planning, managing and funding the support programme should be knowledgeable about the context and its dynamics, but also be able to prioritize the critical elements of the response. In addition to prioritization, effective support requires reliable and dedicated funding for these priority activities. It may also be important to lower (often inflated) expectations, and be realistic, about what reintegration support can deliver.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 16,
@@ -7187,7 +7187,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Support to reintegration as part of sustaining peace requires analysis of the intended and unintended outcomes precipitated by engagement in dynamic, conflict-affected environments. DDR practitioners and all those involved in the provision of reintegration support should understand how engagement in such contexts has implications for social relations/dynamics – positive and negative – so as to do no harm and, in fact, do good. In order to support the humanitarian-development-peace nexus, reintegration programme coordination should extend to broader programmes and actors. It should also be recognized that the risk of doing harm is greater in ongoing conflict contexts, which demand greater coordination among existing, and planned, programmes to avoid the possibility that they may negatively affect each other.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 16,
@@ -7197,7 +7197,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Depending on the context and conflict analysis developed, DDR practitioners and others involved in the planning and implementation of reintegration support may determine that a potential unintended consequence of working with ex-combatants and persons formerly associated with armed forces and groups is the perceived injustice in supporting those who perpetrated violence when others affected by the conflict may feel they are inadequately supported. This should be avoided. One option is community-based approaches. Stigmatization related to programmes that prevent recruitment should also be avoided. Participants in these programmes could be seen as having the potential to become violent perpetrators, a stigma that could be particularly harmful to youth.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 16,
@@ -7207,7 +7207,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "In addition to programmed support, there are numerous non-programmatic factors that can have a major impact on whether or not reintegration is successful. Some of the key non-programmatic factors are: \\n Acceptance in the community/society; \\n The general security situation/perception of the security situation; \\n The economic environment and associated opportunities; \\n The availability of relevant basic and social services; \\n The protection of land rights and other property rights.",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
             "PageNum": 17,
@@ -7216,13 +7216,232 @@
             "Heading3": "",
             "Heading4": ""
         },
-
+        {
+            "Paragraph": "In conflict settings these non-programmatic factors may be particularly fluid and difficult to both analyse and adapt to. The security situation may not allow for reintegration support to take place in all areas. The economy may also be severely affected by the ongoing conflict. Receiving communities may also be particularly reluctant to accept returning ex-combatants during ongoing conflict as they can, for example, constitute a security risk to the community. Influencing these non-programmatic factors requires a broad structural approach. Providing an enabling environment and facilitating access to opportunities outside the reintegration programme may be as important for reintegration processes as the reintegration support provided through the programme. In addition, in most instances it is important to establish practical linkages with existing employment creation programmes, business development services, psychosocial and mental health support referral systems, disability support networks and other relevant services. The implications of these non- programmatic factors could be different for men and women, especially in contexts where insecurity is high and the economy is depressed. Social networks and connections between different members and levels of society may provide these groups with the resilience and coping mechanisms necessary to navigate their reintegration process.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 17,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Strengthening resilience is one of the most important aspects of supporting reintegration during ongoing conflict. Resilience refers to the ability to adapt, rebound and strengthen functioning in the face of violence, extreme adversity and risk. For ex-combatants and persons formerly associated with armed forces and groups, it is related to the ability to withstand, resist and overcome the violence and potentially traumatic events experienced during armed conflict when coping with social and environmental pressures. Resilience also refers to the capacity to withstand the pressure to rejoin a former armed group or to join a new armed group or other type of criminal organization. Community resilience can also be enhanced by reintegration support, such as when this support enhances the capacity of communities to absorb ex-combatants and persons formerly associated with armed forces and groups.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 17,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.1 Resilience as a basis for reintegration",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The acquisition of social skills, emotional development, academic achievement, psychological well- being, self-esteem, coping mechanisms and attitudes when faced with stress and recovery from trauma, including sexual violence, are all factors of resilience. Reintegration support should therefore consider the impact of different resilience and vulnerability factors relevant for reintegration at the individual, family, community and institutional levels (see Figure 1).",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 17,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.1 Resilience as a basis for reintegration",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Reintegration support calls for a twin approach in fostering not only ‘negative peace’ – as in mitigation strategies – but also ‘positive peace’, by addressing the root causes of armed conflict as they manifest at the local level and strengthening peace capacities at various levels. Understood in this way, reintegration support can contribute to the prevention of armed conflict, helping to address some of the structural issues that create or fuel the risks of conflict escalation and recurrence.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 18,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "For instance, by accounting for aspects related to mental health and psychosocial support, reintegration programmes can assist in building the necessary pillars needed for a ‘positive peace’ to develop. If these issues are left unaddressed, individuals may turn to negative coping mechanisms. Conflict may also lead to negative social patterns that increase the likelihood of widespread criminality and the victimization of certain groups. These negative patterns may also serve to increase vulnerability to involvement in armed groups and other criminal behaviour. The specific needs of women and girls formerly associated with armed forces and groups also need to be addressed, including preventing and addressing sexual and gender-based violence.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 18,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Second, while some reintegration support measures focus on education, vocational skills training and income-generating opportunities, they may help to prevent conflict if aligned with and supportive of the absorption capacities of receiving communities. Situated within the humanitarian-development-peace nexus, approaches to reintegration support shall be sensitive to the fact that populations in fragile situations and subjected to protracted conflict experience diverse needs simultaneously – be they humanitarian, security-related or developmental. As a result, reintegration support may only play an effective role in conflict prevention when these needs are acknowledged and addressed comprehensively. Thus, reintegration programmes can help to prevent conflict only when they account for: \\n The motivations of individuals to engage in and leave armed groups; \\n The criminogenic, or crime-inducing, risks present in the context that may impede sustained reintegration and increase vulnerability to involvement in armed groups and other criminal behaviour; \\n Local needs and existing capacities; \\n The strengthened resilience of individuals, families, communities and institutions to cope with adversity and to withstand violence and conflict-related pressures.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 19,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Linking reintegration programmes to other elements of the DDR process strengthens their conflict prevention potential. Reintegration programmes should to the extent possible be combined and coordinated with mediation efforts, confidence-building measures and broader conflict resolution and peacebuilding.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 19,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "From a conflict sensitivity angle, it is important to note that reintegration support is sometimes provided later than expected, and that actual levels of support are sometimes lower than foreseen, for example, due to slow political processes, logistical constraints and/or the unavailability (or delay) of financing. It is therefore important to explicitly raise questions about the possible negative impact of waiting for reintegration support on the actual reintegration processes of ex-combatants and persons formerly associated with armed forces and groups. The following questions should be raised as soon as the negotiation and planning of reintegration support begins: \\n Is the reintegration support foreseen realistic? \\n Will the reintegration support be able to meet the various expectations? \\n How will the (expected) reintegration support affect the coping strategies of ex-combatants and persons formerly associated with armed forces and groups? \\n What are potential negative effects of reintegration support on social dynamics, power dynamics and social equity issues? \\n How can expectations and/or misinformation concerning reintegration support be managed by the relevant Government and UN agencies, for example, through appropriate communication and risk management?",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 19,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "As part of sustaining peace, reintegration programmes should plan to contribute to dynamics that aim to prevent re-recruitment. The risk of the re-recruitment of ex-combatants and persons formerly associated into armed groups or their engagement in criminal activity is higher where conflict is ongoing, protracted or financed through organized crime, including illicit natural resource exploitation such as mineral mining and poaching. In such war economies, licit and illicit markets may overlap, and criminal networks may constitute an attractive source of income for ex-combatants as well as provide a sense of belonging. Criminal groups could allow ex-combatants and persons formerly associated with armed forces and groups to regain or retain a social status after leaving their armed force or group, and may bridge feelings of social dislocation in receiving communities.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 19,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "5.2.1 Preventing re-recruitment",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The risk of re-recruitment or involvement in criminal activity increases in contexts where reintegration opportunities are limited and where national and local capacity is low. This is the case when ex-combatants and persons formerly associated with armed forces and groups return to areas of high insecurity, where formal and informal economies lack diversity and opportunities are limited to unskilled labour, including agriculture. The conditions in these geographical areas should therefore be considered in the design of reintegration support. Collaborating with actors that are able to influence the non-programmatic factors mentioned above can be a first step in supporting those who have decided to settle in these areas.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 20,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "5.2.1 Preventing re-recruitment",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Rejoining a former armed group or joining a new one may be a result of the real, or perceived, absence of viable alternatives to armed conflict as a means of subsistence and as an avenue for social integration and political change (see IDDRS 2.20 on The Politics of DDR). The reasons why individuals join armed groups are diverse and may include grievances linked to social status, self- defence, a lack of jobs and economic opportunities, exclusion, human rights abuses and other real or perceived injustices. Risk of re-recruitment may therefore be higher in contexts where the causes of the conflict remain unresolved and grievances persist, or where there are no viable alternative livelihoods.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 20,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "5.2.1 Preventing re-recruitment",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Community receptivity to returning ex-combatants and persons formerly associated with armed forces and groups also impacts the likelihood of return to an armed group. Receptivity is likely to be lower in contexts of ongoing conflict, as returning ex-combatants could constitute a risk to the community. Female ex-combatants, women formerly associated with armed forces and groups, and their children potentially face additional challenges related to community receptivity, including potential stigma that can profoundly impact their ability to reintegrate.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 20,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "5.2.1 Preventing re-recruitment",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The length of time an individual has spent in an armed group will also influence his or her ability to adjust to civilian life and the degree to which he or she is able to build social networks and reconnect. In general, the longer an individual spent with an armed group, the more challenging his or her reintegration process is likely to be. Given this reality, the design of reintegration programmes must be based on solid gender analysis and risk management, which could include mentorships, peer learning, institutional learning and relevant institutional and programmatic linkages.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 20,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "5.2.1 Preventing re-recruitment",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In settings of ongoing conflict, it is possible that armed groups may splinter and multiply. Some of these armed groups may sign peace agreements while others refuse. Reintegration support to individuals who have exited non-signatory armed groups in ongoing conflict needs to be carefully designed; risk mitigation and adherence to principles such as ‘do no harm’ shall be ensured. A full DDR programme may in such cases not be the most appropriate response (see IDDRS 2.10 on The UN Approach to DDR). Based on conflict analysis and armed group mapping, DDR practitioners should consider direct engagement with armed groups through political negotiations and other DDR- related activities (see IDDRS 2.20 on The Politics of DDR and IDDRS 2.30 on Community Violence Reduction). The risks of such engagement should, of course, be properly assessed in advance, and along the way.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 21,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "5.2.2. Entry points and risk mitigation",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR practitioners and others involved in designing or managing reintegration assistance should also be aware that as a result of the risks of supporting reintegration in settings of ongoing conflict, combined with a possible lack of national political will, legitimacy of governance and weak capacity, programme funding may be difficult to mobilize. Reintegration programmes should therefore be designed in a transparent and flexible manner, scaled appropriately to offer viable opportunities to ex-combatants and persons formerly associated with armed groups.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 21,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "5.2.2. Entry points and risk mitigation",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In line with the shift to peace rather than conflict as the starting point of analysis, programmes should seek to identify positive entry points for supporting reintegration. In ongoing conflict contexts, these entry points could include geographical areas where reintegration is most likely to succeed, such as pockets of peace not affected by military operations or other types of armed violence. These pilot areas could serve as models for other areas to follow. Reintegration support provided as part of a pilot effort would likely set the bar for future assistance and establish expectations for other groups that may need to be met to ensure equity and to avoid negative outcomes.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 21,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "5.2.2. Entry points and risk mitigation",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Additional entry points for reintegration support in ongoing conflict may be a particular armed group whose members have shown a willingness to leave or are assessed as more likely to reintegrate, or specific reintegration interventions involving local economies and partners that will function as pull factors. Reintegration programmes should consider local champions, known figures to support such efforts from local government, tribal, religious and community leadership, and private and business actors. These actors can be key in generating peace dividends and building the necessary trust and support for the programme.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 21,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "5.2.2. Entry points and risk mitigation",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "For more detail on entry points and risks regarding reintegration support during armed conflict, see section 9 of IDDRS 4.30 on Reintegration.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 21,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.2 Reintegration support for conflict prevention",
+            "Heading3": "5.2.2. Entry points and risk mitigation",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In the absence of a peace agreement, reintegration support during ongoing conflict may follow amnesty or other legal processes. An amnesty act or special justice law is usually adopted to encourage combatants to lay down weapons and report to authorities; if they do so they usually receive pardon for having joined armed groups or, in the case of common crimes, reduced sentences.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 21,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.4 Amnesty and other special justice measures during conflict",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "These provisions may also encourage dialogue with armed groups, promote return to communities and support reconciliation through transitional justice and reparations at the community level. Ex- combatants and persons formerly associated with armed forces and groups typically receive documentation attesting to the fact that they benefitted from amnesty under these provisions and are free to rejoin their families and communities (see IDDRS 4.20 on Demobilization). To ensure that amnesty processes are successful, they should include reintegration support to those reporting to the ‘Amnesty Commission’ and/or relevant authorities.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 22,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.4 Amnesty and other special justice measures during conflict",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Additional Protocol II to the Geneva Conventions encourages States to grant amnesties for mere participation in hostilities as a means of encouraging armed groups to comply with international humanitarian law. It recognizes that amnesties may also help to facilitate peace negotiations or enable a process of reconciliation. However, amnesties should not be granted for war crimes, genocide, crimes against humanity and gross violations of human rights (see IDDRS 2.11 on The Legal Framework for UN DDR and IDDRS 6.20 on DDR and Transitional Justice).",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 22,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.4 Amnesty and other special justice measures during conflict",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In summary, the following are key considerations that, in contexts of ongoing conflict, DDR practitioners and others involved in the planning, implementation and evaluation of reintegration programmes should take into account: \\n Conflict and context analysis and assessment will be more challenging to undertake than in post- conflict settings and will need to be frequently updated. \\n There will be increased security risks if ex-combatants and persons formerly associated with armed forces and groups: \\n\\n are perceived as traitors by active members of their former group, particularly if the group is still operating in the country, across a nearby border or in the community in which the individual would like to return; \\n\\n become involved in providing information to military or security agencies for the planning of counter-insurgency operations; \\n\\n return to communities still affected by armed conflict and/or where armed groups operate. \\n Alongside the need for constructive collaboration with military and security agencies, there will be a need to preserve the independence and impartiality of the reintegration programme in order to avoid the perception that the programme is part of the counter-insurgency strategy. \\n The national stakeholders leading reintegration support could have been – or may still be – in conflict with the armed groups to which ex-combatants previously belonged. \\n The use of case management is necessary and could include traditional chiefs or religious leaders (imams, bishops, ministers), and trained and supervised providers of mental health services as community supervision officers where appropriate. \\n It is important to work closely with and develop common reintegration strategies with other women, peace and security actors and prevent violence against women and girls. \\n It is important to work closely with and develop common reintegration strategies with programmes aiming to protect children and support the reintegration of children formerly associated with armed forces and groups. More specifically, there is a need to develop common strategies for the prevention of recruitment for youth at risk.",
+            "Level": 2,
+            "Title": "Reintegration as Part of Sustaining Peace",
+            "PageNum": 22,
+            "Heading1": "5. Reintegration support across the peace continuum",
+            "Heading2": "5.5 Common challenges in supporting reintegration during conflict",
+            "Heading3": "",
+            "Heading4": ""
+        },
         {
             "Paragraph": "",
             "Level": 2,
             "Title": "Reintegration as Part of Sustaining Peace",
-            "PageNum": 1,
-            "Heading1": "",
+            "PageNum": 23,
+            "Heading1": "Annex A: Abbreviations",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
