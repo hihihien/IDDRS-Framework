@@ -14022,5 +14022,657 @@
             "Heading3": "",
             "Heading4": ""
         }
+    ],
+    "4.11  Transitional Weapons and Ammunition Management": [
+        {
+            "Paragraph": "DDR practitioners increasingly operate in contexts with fragmented but well-equipped armed groups and acute levels of proliferation of illicit weapons, ammunition and ex- plosives. In settings where armed conflict is ongoing and peace agreements have been neither signed nor implemented, disarmament as part of a DDR programme may not be the most suitable approach to control the circulation of weapons, ammunition and explosives because armed groups may be reluctant to disarm without strong security guarantees (see IDDRS 4.10 on Disarmament). Instead, these contexts require the de- sign and implementation of innovative DDR-related tools, such as transitional weapons and ammunition management (WAM).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 1,
+            "Heading1": "Summary",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "When implemented as part of a DDR process (either with or without a DDR pro- gramme), transitional WAM has two primary aims: to reduce the capacity of individ- uals and groups to engage in armed conflict, and to reduce accidents and save lives by addressing the immediate risks related to the illicit possession of weapons, ammuni- tion and explosives. By supporting better arms control and preventing the diversion of weapons, ammunition and explosives to unauthorized end users, transitional WAM can be a strong component of the sustaining peace approach and contribute to pre- venting the outbreak, escalation, continuation and recurrence of conflict (see IDDRS 2.40 on Reintegration as Part of Sustaining Peace). In settings where a peace agreement has been signed and the necessary preconditions for a DDR programme are in place, transitional WAM can also be used before, during and after DDR programmes as a complementary measure (see IDDRS 2.10 on The UN Approach to DDR).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 1,
+            "Heading1": "Summary",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "As shown in Figure 1, DDR arms control activities include: (1) disarmament as part of a DDR programme and (2) transitional WAM as a DDR-related tool. This sub-module, which should be read as a complement to IDDRS 4.10 on Disarmament, aims to equip DDR practitioners with the basic legal, programmatic and technical knowledge to de- sign and implement safe and effective transitional WAM in both mission and non-mis- sion contexts.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 1,
+            "Heading1": "1. Module scope and objectives",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This sub-module also provides guidance on how transitional WAM implemented as part of a DDR process should align with and reinforce security sector reform (SSR), as well as national small arms and light weapons (SALW) control strategies.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 1,
+            "Heading1": "1. Module scope and objectives",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "When collecting, registering, storing, transporting, and disposing of weapons, ammunition and explosives during transitional WAM the core guidelines outlined in IDDRS 4.10 on Disarmament apply. As such, DDR-related transitional WAM should always adhere to United Nations standards and guidelines, namely the Modular small- arms-control Implementation Compendium (MOSAIC) and International Ammunition Technical Guidelines (IATG).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 1,
+            "Heading1": "1. Module scope and objectives",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Annex A contains a list of abbreviations used in these standards. A complete glossary of all the terms, definitions and abbreviations used in the IDDRS series is given in IDDRS 1.20.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 2,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In the IDDRS series, the words ‘shall’, ‘should’, ‘may’, ‘can’ and ‘must’ are used to indicate the intended degree of compliance with the standards laid down. This use is consistent with the language used in the International Organization for Standardization (ISO) standards and guidelines: \\n a. ‘shall’ is used to indicate requirements, methods or specifications that are to be applied in order to conform to the standard; \\n b. ‘should’ is used to indicate the preferred requirements, methods or specifications; \\n c. ‘may’ is used to indicate a possible method or course of action; \\n d. ‘can’ is used to indicate a possibility and capability; \\n e. ‘must’ is used to indicate an external constraint or obligation.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 2,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Weapons and ammunition management (WAM) is the oversight, accountability and management of arms and ammunition throughout their lifecycle, including the estab- lishment of frameworks, processes and practices for safe and secure materiel acquisi- tion, stockpiling, transfers, tracing and disposal.1 WAM does not only focus on small arms and light weapons, but on a broader range of conventional weapons including ammunition and artillery.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 2,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Transitional WAM is a series of interim arms control measures that can be imple- mented by DDR practitioners before, after and alongside DDR programmes. Transi- tional WAM can also be implemented when the preconditions for a DDR programme are absent. The transitional WAM component of a DDR process is primarily aimed at reducing the capacity of individuals and groups to engage in armed violence and conflict. Transitional WAM also aims to reduce accidents and save lives by addressing the immediate risks related to the possession of weapons, ammunition and explosives.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 2,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Light weapon: Any man-portable lethal weapon designed for use by two or three per- sons serving as a crew (although some may be carried and used by a single person) that expels or launches, is designed to expel or launch, or may be readily converted to expel or launch a shot, bullet or projectile by the action of an explosive. \\n Note 1: Includes, inter alia, heavy machine guns, hand-held under-barrel and mounted grenade launchers, portable anti-aircraft guns, portable anti-tank guns, re- coilless rifles, portable launchers of anti- tank missile and rocket systems, portable launchers of anti-aircraft missile systems, and mortars of a calibre of less than 100 millimetres, as well as their parts, components and ammunition. \\n Note 2: Excludes antique light weapons and their replicas.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 3,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Small arm: Any man-portable lethal weapon designed for individual use that expels or launches, is designed to expel or launch, or may be readily converted to expel or launch a shot, bullet or projectile by the action of an explosive. Note 1: Includes, inter alia, re- volvers and self-loading pistols, rifles and carbines, sub-machine guns, assault rifles and light machine guns, as well as their parts, components and ammunition. Note 2 Excludes antique small arms and their replicas.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 3,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR processes are increasingly launched in contexts where members of armed groups and communities are unwilling to disarm because of concerns for their security. In such situations, communities and individuals may take their own security measures, including through increased weapons ownership. Some armed groups may also be characterized as community self-defence forces or ‘vigilante groups’.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 3,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The ownership of weapons, ammunition and explosives by individuals and armed groups carries a number of risks. For example, if armed groups store incompatible types of ammunition together then it may lead to explosions and surrounding loss of life. Furthermore, inadequately secured weapons and ammunition can facilitate inter-personal armed violence, including sexual and gender-based violence, as well as theft and diversion to the illicit market.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 3,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In order to contribute to a more secure environment that is conducive to long-term stability, development and reconciliation, DDR practitioners may consider the use of transitional WAM. Transitional WAM may be used as an alternative to disarmament as part of a DDR programme or it can also be used before, during or after a DDR pro- gramme as a complementary measure. In both contexts, a multifaceted approach is required that addresses both the root causes of armed violence and the means through which that violence is perpetrated.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 3,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Transitional WAM may therefore also be used in combination with programmes of Community Violence Reduction, particularly when these programmes include for- mer combatants or individuals at-risk of recruitment by armed groups (see IDDRS 2.30 on Community Violence Reduction). Finally, transitional WAM may also be used in combination with activities that support the reintegration of former combatants and persons formerly associated with armed groups (see IDDRS 2.40 on Reintegration as Part of Sustaining Peace and IDDRS 4.30 on Reintegration).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 4,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "IDDRS 2.10 on The UN Approach to DDR sets out the main principles that guide all aspects of DDR processes. This section outlines how these principles apply to tran- sitional WAM as part of a DDR process.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 4,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Transitional WAM as part of a DDR process shall be implemented on a voluntary basis and, where appropriate, through engaging communities and armed forces and groups to identify issues and design solutions.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 4,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.1 Voluntary",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Transitional WAM shall not introduce distinctions based on age, sex, race, ethnicity, religion or other arbitrary criteria that may create or exacerbate vulnerabilities and power imbalances. DDR practitioners shall ensure that the gendered dimensions of WAM and its links to gender identities, as well as the differing impacts on men and women and their perceptions of weapons, ammunition and explosives, are adequately integrated into all stages of arms control initiatives. Such an approach requires gender expertise, gender analysis, the collection of sex- and age-disaggregated data as well as considerations related to children.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 4,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.2 Gender-responsive and inclusive",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR practitioners shall also adopt a gender-transformative approach, including through interventions and messages on the linkages between masculinities and weapons ownership, and by ensuring that both men and women are involved in the design and implementation of transitional WAM.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 4,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.2 Gender-responsive and inclusive",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Transitional WAM shall not increase the vulnerability of communities, groups (including ethnic and religious minorities), or individuals to internal or external threats by desta- bilizing the distribution of power. All precautions shall also be taken to avoid reinforcing or generating inequalities based on age and gender.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 4,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.3 Conflict sensitive",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "National Governments have the right and responsibility to apply their own national standards to all transitional WAM measures within their territories and shall act in compliance with relevant international and (sub)-regional arms control instruments and applicable legal frameworks (see section 5.2). The primary responsibility for transi- tional WAM lies with the Government of the concerned State. The support and special- ist knowledge of the UN is placed at the disposal of a national Government to ensure that the planning and implementation of transitional WAM are conducted in ac- cordance with international arms control instruments, standards and guidance, including those of the IDDRS, the IATG and MOSAIC. Transitional WAM shall be de- signed and implemented in coordination with, and in support of, national arms. control policies and management systems. Building national and local institutional and technical WAM capacity is essential to effective and sustainable arms control ef- forts and, where relevant could support SSR processes.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 5,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.4 Nationally and locally owned",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Transitional WAM shall be coordinated with all other aspects of an integrated DDR process as well as with other components of the broader peace process, including, ceasefires and arms control measures associated with transitional security arrange- ments, arms embargo measures where existent and applicable, SSR and SALW control.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 5,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.5 Integrated",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Handling weapons, ammunition and explosives comes with high levels of risk. The involvement of technically and appropriately qualified WAM personnel in the planning and implementation of transitional WAM is absolutely critical. Techni- cal advisers shall have formal training and operational field experience in ammu- nition and weapons storage, marking, transportation, deactivation and disposal including the destruction of weapons, ammunition and explosives.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 5,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.6 Safety and security",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Meticulous assessments, planning and monitoring are required in order to implement effective, evidence-based, tailored, gender- and age-responsive transitional WAM as part of a DDR process. Such an approach includes a contextual analysis, age and gen- der analysis, a risk and security assessment, the development of standard operating procedures (SOPs), the identification of technical and logistical resources, and a timeta- ble for operations and public awareness activities (see IDDRS 4.10 on Disarmament for guidance on these activities). The planning for transitional WAM should be articulated in the DDR national strategy, arms control strategy and/or broader national security strategy. If the context is a UN mission setting, the planning for transitional WAM should also be articulated in the mission concept, lower-level strategies and vision doc- uments of the UN mission. Importantly, DDR-related transitional WAM must not be designed in isolation from other arms control or related initiatives run by the national authorities and their international partners.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 5,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The design, modalities and objectives of transitional WAM as part of a DDR process vary according to the political and security context, the level of proliferation of weap- ons, ammunition and explosives, the weapons culture and societal perspectives, gen- dered experiences of WAM, and the timing and sequencing of other initiatives (which may include a DDR programme, DDR-related tools, and/or reintegration support) (see IDDRS 2.10 on The UN Approach to DDR).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 6,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.1 Assessments and weapons survey",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Integrated assessments should start as early as possible in the peace negotiation process and in the pre-planning phase (see IDDRS 3.11 on Integrated Assessments). An integrated assessment should contribute to determining whether any disarmament or transitional WAM measures are desirable or feasible in the current context, and the po- tential positive and negative impacts of any such measures (see section 5.1.1 of IDDRS 4.10 on Disarmament for guidance on integrated assessments).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 6,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.1 Assessments and weapons survey",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In addition, DDR practitioners can commission a weapons survey (the same weap- ons survey outlined in section 5.1.2 and Annex C of IDDRS 4.10 on Disarmament) and draw information from national injury surveillance systems (see section 5.5.2 of MO- SAIC 05.10). Weapons surveys and injury surveillance are essential in order to draw up effective and safe plans for both disarmament and transitional WAM. A weapons survey and injury surveillance system also allow DDR practitioners to scope the extent of the WAM task ahead and to gauge national and local expectations concerning the transitional WAM measures to be carried out. This knowledge helps to ensure tailored programming and results. Data disaggregated by sex and age is a prerequisite for un- derstanding age- and gender-specific attitudes towards weapons, ammunition and ex- plosives, and their age- and gender-specific impacts. This type of data is also necessary to design evidence-based, and age- and gender-sensitive responses.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 6,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.1 Assessments and weapons survey",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The early collection of data also provides a baseline for DDR monitoring and eval- uation activities. These baseline indicators should be adjusted in line with evolving conflict dynamics. Monitoring and evaluation are crucial to ensure accountability and the effective implementation and management of transitional WAM. For more detailed guidance on monitoring and evaluation, refer to Box 2 of IDDRS 4.10 on Disarmament, IDDRS 3.50 on Monitoring and Evaluation of DDR and section 5.5 of MOSAIC 05.10.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 6,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.1 Assessments and weapons survey",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Once reliable information has been gathered, collaborative transitional WAM plans can be drawn up by the national DDR commission and the UN DDR component in mission settings and by the national DDR commission and the UN lead agency(ies) in non-mission settings. These plans should outline the intended target populations and requirements for transitional WAM, the type of WAM measures and operations that are planned, a timetable, and logistics, budget and staffing needs.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 6,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.1 Assessments and weapons survey",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR-related transitional WAM shall be conducted in compliance with the national legislation of the concerned country and relevant international and regional legal frame- works, as well as complying with any reporting requirements under relevant sub-/ regional and international instruments. Compliance with provisions specifically designed to promote gender equality, in particular, the empowerment of women, and the prevention of serious acts of armed violence against women and girls is especially critical.2 So too is compliance with provisions designed to support youth engagement and participation.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 7,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.2 National, regional and international regulatory framework",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Many countries have national legislation regulating all or parts of the life cycle of weap- ons, ammunition and explosives, including manufacture, marking, import, export, re- cord-keeping and civilian possession. Often, if States have ratified/adopted global and regional treaties and instruments, then relevant provisions of these instruments will be reflected in their national legislation. There may, however, be some variation in the extent to which States have developed or updated this legislation.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 7,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.2 National, regional and international regulatory framework",
+            "Heading3": "5.2.1 National legislation",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In addition to legislation, national authorities may have developed national weap- ons and ammunition normative frameworks and/or operational guidance documents, including a SALW national action plan and SOPs in accordance with the IATG and MOSAIC. These standards, strategies, national action plans and/or strategic and oper- ational guidance documents should, at an early stage, be taken into consideration when planning and executing transitional WAM as part of a DDR process.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 7,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.2 National, regional and international regulatory framework",
+            "Heading3": "5.2.1 National legislation",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The regional and global instruments referred to below are legally binding. DDR prac- titioners should therefore identify which instruments are applicable to the country in which they operate.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 7,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.2 National, regional and international regulatory framework",
+            "Heading3": "5.2.2 Legally binding instruments",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Regional instruments \\n Several regional, legally binding instruments have been adopted to support the imple- mentation of the UN Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in SALW in All Its Aspects (see below).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 7,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.2 National, regional and international regulatory framework",
+            "Heading3": "5.2.2 Legally binding instruments",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "International instruments \\n The Protocol against the Illicit Manufacturing of and Trafficking in Firearms, Their Parts and Components and Ammunition, which supplements the UN Con- vention against Transnational Organized Crime, was adopted in the context of crime prevention and law enforcement. State parties to the legally binding treaty agreed to prevent, combat and eradicate the illicit manufacturing of and traffick- ing in firearms, their parts and components and ammunition. \\n The Arms Trade Treaty regulates the international legal trade in conventional arms and seeks to prevent and eradicate their diversion to the illicit market by es- tablishing international standards governing arms transfers. The Treaty addresses the relationship between conventional arms transfers and the commission of gen- der-based violence. It requires States parties to assess the risk of the transferred conventional arms being used to commit or facilitate serious acts of gender-based violence or serious acts of violence against women and children. \\n United Nations human rights conventions, such as the International Covenant on Civil and Political Rights, as interpreted by their universal oversight mechanisms, require States to curb the proliferation of small arms and regulate access to them as part of the duty to protect the right to life. \\n\\n Other binding instruments may be relevant, including the Anti-Personnel Mine Ban Convention, the Convention on Certain Conventional Weapons and the Conven- tion on Cluster Munitions. Security Council resolutions related to counter-terrorism as well as the Security Council’s 2015 Madrid Guiding Principles and its 2018 Addendum may also be relevant.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 7,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.2 National, regional and international regulatory framework",
+            "Heading3": "5.2.2 Legally binding instruments",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Politically binding instruments \\n The UN Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All Its Aspects (PoA) addresses the illicit trade in SALW with the objective of reducing human suffering. The PoA consists of commit- ments at the national, regional and global levels to combat the illicit trade in SALW. \\n The International Tracing Instrument, which was adopted within the framework of the PoA, promotes the development of marking, record-keeping and tracing meas- ures for SALW. \\n The Basic Principles on the Use of Force and Firearms by Law Enforcement Offi- cials is also relevant for planning and designing transitional WAM where inter-linkages between SSR and DDR exist.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 7,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.2 National, regional and international regulatory framework",
+            "Heading3": "5.2.2 Legally binding instruments",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Women, men, children, adolescents and youth play an instrumental role in the imple- mentation of transitional WAM as part of a DDR process, including through encourag- ing family, community members and members of armed forces and groups to partic- ipate. Gender- and age-responsive transitional WAM is proven to be more effective in addressing the impacts of the illicit circulation and misuse of weapons, ammunition and explosives than transitional WAM that is gender or age blind. Gender and age mainstreaming is essential to assuring the overall success of DDR processes.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 9,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.3 Gender-sensitive transitional WAM",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR practitioners should involve women, children, adolescents and youth from affected communities in the planning, design, implementation, and monitoring and eval- uation phases of transitional WAM. Women can, for example, contribute to raising aware- ness of the risks associated with weapons ownership and ensure that rules adopted by the community, in terms of weapons control, are effective and enforced. As the owners and users of weapons, ammunition and explosives are predominantly men, including youth, communication and outreach efforts should focus on dissociating arms ownership from notions of power, protection, status and masculinity. For this type of gender- and age-transformative transitional WAM to be effective, it should be linked to other DDR- related tools, such as CVR, pre-DDR, and DDR support to mediation (see section 6).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 9,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.3 Gender-sensitive transitional WAM",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "To ensure that transitional WAM is gender- and age-responsive, DDR practitioners should focus on the following areas of strategic importance: (a) the involvement of both men and women at all stages of transitional WAM, as well as children, adolescents and youth where appropriate; (b) the collection of sex- and age-disaggregated data and gender and age analysis as a baseline for understanding challenges and needs; (c) the measurement of progress through the development of age- and gender-sensitive in- dicators; (d) the enhancement of the gender competence and commitment to gender equality among programme staff and national partners, including the national DDR commission and other relevant bodies; (e) ensuring organizational structures, work- flows and knowledge management are responsive to different environments; (f) work- ing with partners to strengthen age- and gender-responsiveness, including women’s, men’s and youth networks and organizations; and (g) gender- and age-sensitive pro- gramme monitoring and evaluation exercises. Specific guidance can be found in ID- DRS 5.10 on Women, Gender and DDR, as well as in MOSAIC Module 06.10 on Women, Men and the Gendered Nature of SALW and MOSAIC Module 06.20 on Children, Ad- olescents, Youth and SALW. (See Annex B for other normative references.)",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 9,
+            "Heading1": "5. Planning and designing transitional WAM",
+            "Heading2": "5.3 Gender-sensitive transitional WAM",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "When part of a DDR process, transitional WAM should be considered when there is a need to respond to the presence of active and/or former members of armed groups. For example, transitional WAM may be appropriate when: \\n Armed groups refuse to disarm as the pre-conditions for a DDR programme are not in place. \\n Former combatants and/or persons formerly associated with armed groups return to their communities with weapons, ammunition and/or explosives, perhaps be- cause of ongoing insecurity or because weapons possession is a cultural practice or tied to notions of power and masculinity. \\n Weapons and ammunition are circulating in communities and pose a security threat, especially where: \\n\\n Civilians, including in certain contexts children, are at-risk of recruitment by armed groups; \\n\\n Civilians, including women, girls, men and boys, are at risk of serious interna- tional crimes, including conflict-related sexual violence. \\n\\n Former combatants and/or persons formerly associated with armed groups are about to return as part of DDR programmes.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 9,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "While transitional WAM should always aim to remove or facilitate the legal regis- tration of all weapons in circulation, the reality of weapons culture and the desire for self-protection and/or empowerment should be recognized, with transitional WAM options and objectives identified accordingly. A generic typology of DDR-related tran- sitional WAM measures is found in Table 1. When reference is made to the collec- tion, registration, storage, transportation and/or disposal, including the destruction, of weapons, ammunition and explosives during transitional WAM, the core guidelines outlined in IDDRS 4.10 on Disarmament apply.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 9,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In addition to the generic measures outlined above, in some instances DDR practi- tioners may consider supporting the WAM capacity of armed groups. DDR practition- ers should exercise extreme caution when supporting armed groups’ WAM capacity. While transitional WAM may help to build trust with national and international stake- holders and address some of the immediate risks with regard to the proliferation of weapons, ammunition and explosives, building the WAM capacity of armed groups carries certain risks, and may inadvertently reinforce the fighting capacity of armed groups, legitimize their status, and tarnish the UN’s reputation, all of which could threaten wider DDR objectives. As a result, any decision to support armed groups’ WAM capacity shall consider the following: \\n This approach must align with the broader DDR strategy agreed with and approved by national authorities as an integral part of a peace process or an alter- native conflict resolution strategy. \\n This approach must be in line with the overall UN mission mandate and objec- tives of the UN mission (if a UN mission has been established). \\n Engagement with armed groups shall follow UN policy on this matter, i.e. UN mission policy, including SOPs on engagement with armed groups where they have been adopted, the UN’s Aide Memoire on Engaging with Non-State Armed Groups (NSAGs) for Political Purposes (see Annex B) and the UN Human Rights Due Diligence Policy. \\n This approach shall be informed by risk analysis and be accompanied by risk mitigation measures.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 9,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "If all of the above conditions are fulfilled, DDR support to WAM capacity-building for armed groups may include storing ammunition stockpiles away from inhabited areas and in line with the IATG, destroying hazardous ammunition and explosives as identified by armed groups, and providing basic stockpile management advice, support and solutions.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 9,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 13,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.1 Community violence reduction and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Pre-DDR is an interim, time-limited stabilization mechanism aimed at creating the necessary political and security conditions to facilitate the negotiation and/or imple- mentation of peace agreements and pave the way towards a full DDR programme (see IDDRS 2.10 on The UN Approach to DDR and IDDRS 2.20 on The Politics of DDR).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 14,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.2 Pre-DDR and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Pre-DDR is designed for those who are eligible for a national DDR programme. The eligibility criteria for both will therefore be the same and could require individu- als, among other things, to prove that they have combatant status and are in possession of a serviceable manufactured weapon or a certain quantity of ammunition (see IDDRS 4.10 on Disarmament). The eligibility criteria shall be gender-responsive and not dis- criminate against women. Depending on the specific circumstances, individuals who do not meet the eligibility criteria could be enrolled in a CVR programme (see IDDRS 2.30 on Community Violence Reduction).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 14,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.2 Pre-DDR and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "While most materiel should be handed in during the disarmament phase of a DDR programme, pre-DDR offers DDR practitioners the opportunity to better understand the quantity and types of materiel that armed groups possess and to collect, register and manage such materiel.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 14,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.2 Pre-DDR and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Depending on the context, pre-DDR can include the handing over of weapons and ammunition by members of armed groups and armed forces. In order to avoid confu- sion, this phase could be named ‘Pre-disarmament’ rather than ‘Disarmament’, which will take place at a point in the future.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 14,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.2 Pre-DDR and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Pre-disarmament involves collecting, registering and storing materiel in a safe loca- tion. Depending on the context and agreements in place with armed forces and groups, pre-disarmament could focus on certain types of materiel, including larger crew- operated systems in contexts where warring parties are very well equipped. Hand- overs can be: \\n Temporary: Materiel is registered and stored properly but remains under the joint control of armed forces, armed groups and the United Nations through a dual-key system with well established roles and procedures; \\n Permanent: Materiel is handed over, registered and ultimately disposed of (see IDDRS 4.10 on Disarmament). \\n\\n In both cases, unsafe ammunition shall be destroyed, and all activities must be carried out in full transparency and with respect of safety and security procedures during the destruction process.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 15,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.2 Pre-DDR and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Pre-disarmament should: \\n Build and strengthen the confidence of armed forces, armed groups and the civilian population in any future disarmament process and the wider DDR programme; \\n Reduce the circulation and visibility of weapons and ammunition; \\n Contribute to improved perceptions of peace and security; \\n Raise awareness about the dangers of illicit weapons and ammunition; \\n Build knowledge of armed groups’ arsenals; \\n Allow DDR practitioners to identify and mitigate risks that may arise during the disarmament component of the future DDR programme, including through the planning and conduct of operational tests (see section 5.3 in IDDRS 4.10 on Disar- mament); \\n Encourage members of armed groups to voluntarily disarm and engage in a full DDR programme.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 14,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.2 Pre-DDR and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "During a period of political transition, warring parties may be required to act as security providers. This may happen prior to or alongside DDR programmes. This transition phase is vital for building confidence at a time when warring parties may be losing their military capacity and their ability to defend themselves.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 15,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.3 DDR support to transitional security arrangements and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Transitional security arrangements may include joint units, patrols or operations involving the parties to a conflict, often alongside a third-party presence (see IDDRS 2.20 on The Politics of DDR). The management of the weapons and ammunition used during these types of transitional security arrangements shall be governed by a clear legal framework and will require a robust plan agreed to by all actors. This plan shall also be underpinned by detailed SOPs for conducting activities and identifying precise responsibilities, by which all shall abide (see IDDRS 4.10 on Disarmament). These SOPs should include guidance on how to handle arms and ammunition captured, collected or found by the joint units.4 Depending on the context and the positions of stakeholders, members of armed forces and groups would be demobilized and disarmed, or would retain use of their own small arms and ammunition, which would be registered and stored when not in use.5 In some cases, such measures could facilitate the large-scale integration of ex-combatants into the security sector as part of a peace agreement (see IDDRS 6.10 on DDR and SSR).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 15,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.3 DDR support to transitional security arrangements and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "There is a strong arms control component to the negotiation of peace, including through the setting of preliminary ceasefires and the design and adoption of comprehensive peace agreements. Transitional WAM in support of peace mediation efforts should con- tribute to weapons control, reduce armed violence, build confidence in the process, generate a better understanding of the weapons arsenals of armed forces and groups, and prepare the ground for the transfer of responsibility for weapons management later in the DDR process, either to the UN or to the national authorities.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 16,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.4 DDR support to peace mediation efforts and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Disarmament can be associated with defeat and a significant shift in the balance of power, as well as the removal of a key bargaining chip for well-equipped armed groups. Disarmament can also be perceived as the removal of symbols of masculinity, protection and power. Pushing for disarmament while guarantees around security, justice or integration into the security sector are lacking will have limited effectiveness and may undermine the overall DDR process.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 16,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.4 DDR support to peace mediation efforts and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The use of transitional WAM concepts, measures and terminology provides a solution to this issue and lays the ground for more realistic arms control provisions in peace agreements. Transitional WAM can also be a first step towards more comprehen- sive arms control, paving the way for full disarmament once the context has matured. Mediators and DDR practitioners supporting the mediation process should have strong DDR and WAM knowledge, or at least have access to expertise that can guide them in designing appropriate and evidence-based DDR-related transitional WAM provisions. Transitional WAM as part of CVR and pre-DDR can also enable relevant parties to engage more confidently in negotiations as they maintain ownership of and access to their materiel. Prolonged CVR and pre-DDR, however, can also become a support mechanism for armed groups rather than an incentive to finalize peace negotiations. Such processes should therefore be approached with caution (see IDDRS 2.20 on The Politics of DDR).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 16,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.1 Transitional WAM in support of DDR-related tools",
+            "Heading3": "6.1.4 DDR support to peace mediation efforts and transitional WAM",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Reintegration support can be provided to ex-combatants as part of a DDR programme and also when the preconditions for a DDR programme are not in place (see IDDRS 2.40 on Reintegration as Part of Sustaining Peace). When transitional WAM and rein- tegration support are linked as part of a DDR programme, ex-combatants will have already been disarmed and demobilized. In contexts where there is no DDR programme, combatants may leave armed groups during active conflict and return to their com- munities, taking their weapons and ammunition with them or hiding them in weap- ons caches. In both scenarios, ex-combatants may return to communities where levels of weapons and ammunition possession are high. It may therefore be necessary to coherently combine the transitional WAM measures listed in Table 1 with reintegration support as part of a single programme.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 16,
+            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Heading2": "6.2 Transitional WAM and reintegration support",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Although DDR and SALW control are separate areas of engagement, technically they are very closely linked, particularly in DDR settings where transitional WAM overlaps with SALW control objectives, activities and target audiences. SALW remain particu- larly prevalent in many regions where DDR is implemented. Furthermore, the uncon- trolled circulation of SALW can impede the implementation of DDR processes and enable conflict (see the report of the Secretary General on SALW (S/2019/1011)). DDR practitioners should work in close collaboration with both national DDR commissions and SALW control bodies, if they exist, and both areas of work should be closely co- ordinated and strategically sequenced. For instance, the implementation of a weapons survey and the use of mortality and morbidity data from an ongoing injury surveil- lance national system could serve as the basis for the development of both DDR-related transitional WAM activities and SALW control strategy.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 17,
+            "Heading1": "7. DDR arms control activities and SALW control",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The term ‘SALW control’ refers to those activities that together aim to reduce the security, social, economic and environmental impact of uncontrolled SALW proliferation, possession and circulation. These activities largely consist of, but are not limited to: \\n Cross-border control measures; \\n Information management and exchange; \\n Legislative and regulatory measures; \\n SALW awareness and outreach strategies; \\n SALW surveys and assessments; \\n SALW collection and registration, including utilization of relevant regional and international databases for cross-checking \\n SALW destruction; \\n Stockpile management; \\n Marking, recordkeeping and tracing.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 17,
+            "Heading1": "7. DDR arms control activities and SALW control",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The international community, recognizing the need to deal with the challenges posed by the illicit trade in SALW, adopted the United Nations Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All Its Aspects (A/Conf.192/15) in 2001 (PoA) (see section 5.2). In this framework, states commit themselves to, among other things, strengthen agreed norms and measures to help prevent and combat the illicit trade in SALW, and mobilize political will and resources in order to prevent the illicit transfer, manufacture, export and import of SALW. Regional agreements, declarations and conventions have built upon and deepened the commitments contained within the PoA. As a result, a number of countries around the world have set up SALW control programmes as well as institutional processes to implement them. SALW control programmes and activities should be designed and implemented in line with MOSAIC (see Annex B), which provides clear, practical and comprehensive guidance to practitioners and policymakers.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 17,
+            "Heading1": "7. DDR arms control activities and SALW control",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "During DDR, SALW control should be implemented to focus on wider arms con- trol at the national and community levels. It is essential that all weapons are considered during a DDR process, even though the focus may initially be on those weapons held by armed forces and groups. For these reasons, the transitional WAM mechanisms established during DDR processes should be designed to be applicable and sustainable in broader arms control initiatives even after the DDR process has been completed. It is also critical that DDR-related transitional WAM and SALW control activities are strategically sequenced, and that a robust public awareness strategy based on clear messaging accompanies these efforts (see IDDRS 4.10 on Disarmament, MOSAIC 04.30 on Awareness Raising and IMAS 12.10 on Explosive Ordnance Risk Education).",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 17,
+            "Heading1": "7. DDR arms control activities and SALW control",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR-related transitional WAM may be implemented at the same time as the UN is providing support to SSR. The UN may support national authorities in the rightsizing of their armed forces (see IDDRS 6.10 on DDR and SSR). Such reforms include the need to adapt national arsenals to the size, needs and objectives of the security sector of the country in question. This requires an effective needs assessment, strategic planning, and the technical capacity and support to identify surplus or obsolete materiel and destroy it.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 18,
+            "Heading1": "8. SSR and transitional WAM",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "When SSR is ongoing, DDR-related transitional WAM may be used as an entry point to align national WAM capacity with international WAM guidance and inter- national and regional legal frameworks. For instance, storage facilities built or refur- bished to store DDR materiel could then be used to house stockpiles for security insti- tutions, and as a proof of concept for upgrading of facilities. All WAM activities shall be designed and implemented in line with international technical guidance, including MOSAIC Module 02.20 Small Arms and Light Weapons Control in the Context of SSR and the IATG.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 18,
+            "Heading1": "8. SSR and transitional WAM",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 18,
+            "Heading1": "Annex A: Abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The following normative documents (i.e., documents containing applicable norms, standards and guidelines) contain provisions that apply to the processes dealt with in this module. \\n International Ammunition Technical Guidelines, https://www.un.org/disarmament/ un-saferguard/guide-lines. \\n International Standards Organization, ISO Guide 51: ‘Safety Aspects: Guidelines for Their Inclusion in Standards’. \\n Modular Small-arms-control Implementation Compendium, https://www.un.org/ disarmament/convarms/mosaic. \\n Small Arms Survey and South Eastern and Eastern Europe Clearinghouse for the Control of Small Arms (SEESAC), SALW Survey Protocols, http://www.seesac.org/ Survey-Protocols. \\n Weapons and Ammunition Management Policy, United Nations Department of Operational Support, Department of Peace Operations, Department of Political and Peacebuilding Affairs, Department of Safety and Security, 2019. http://dag.un.org/ bitstream/handle/11176/400906/Weapons%20and%20Ammunition%20Policy.pdf. \\n UN Department of Political Affairs and UN Department of Peacekeeping Operations, Aide Memoire – Engaging with Non-State Armed Groups (NSAGs) for Political Purposes: Considerations for UN Mediators and Missions, 2017. \\n UN Development Programme, Blame It on the War? The Gender Dimensions of Violence in DDR, 2012. \\n UN Department of Peacekeeping Operations and UN Office for Disarmament Af- fairs. Effective Weapons and Ammunition Management in a Changing Disarma- ment, Demobilization and Reintegration Context. Handbook for United Nations DDR practitioners. 2018. Referred as ‘DDR WAM Handbook’ in this standard. \\n UN Institute for Disarmament Research, Utilizing the International Ammunition Tech- nical Guidelines in Conflict-Affected and Low-Capacity Environments, 2019, http:// www.unidir.org/files/publications/pdfs/utilizing-the-international-ammunition-tech- nical-guidelines-in-conflict-affected-and-low-capacity-environments-en-749.pdf. \\n UN Institute for Disarmament Research, The Role of Weapon and Ammunition Management in Preventing Conflict and Supporting Security Transition, 2019, https://www.unidir.org/publication/role-weapon-and-ammunition-manage- ment-preventing-conflict-and-supporting-security.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 19,
+            "Heading1": "Annex B: Normative documents",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "\\n 1 See https://unidir.org/publication/role-weapon-and-ammunition-management-preventing-con- flict-and-supporting-security \\n 2 See, for instance, Article 7.4 of the Arms Trade Treaty and section II.B.2 in the Report of the Third United Nations Conference to Review Progress Made in the Implementation of the Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All Its Aspects (A/CONF.192/2018/RC/3). \\n 3 A world map including all relevant regional instruments can be consulted in the DDR WAM Hand- book, p. xx, and the texts of the various conventions and protocols can be found via www.un.org/ disarmament. \\n 4 Also see DDR WAM Handbook Unit 5. \\n 5 Ibid., Units 14 and 16. \\n 6 Ibid., Unit 13.",
+            "Level": 4,
+            "Title": "Disarmament",
+            "PageNum": 20,
+            "Heading1": "Endnotes",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        }
     ]
 }
