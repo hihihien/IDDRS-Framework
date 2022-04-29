@@ -1,10 +1,10 @@
 
 {
-    "4.20 Demobilization": [
+    "4.30 Reintegration": [
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 1,
             "Heading1": "Summary",
             "Heading2": "",
@@ -14,8 +14,8 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
-            "PageNum": 2,
+            "Title": "Reintegration",
+            "PageNum": 1,
             "Heading1": "1. Module scope and objectives",
             "Heading2": "",
             "Heading3": "",
@@ -24,7 +24,7 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 2,
             "Heading1": "2. Terms, definitions and abbreviations",
             "Heading2": "",
@@ -34,8 +34,8 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
-            "PageNum": 3,
+            "Title": "Reintegration",
+            "PageNum": 2,
             "Heading1": "3. Introduction",
             "Heading2": "",
             "Heading3": "",
@@ -44,7 +44,7 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 4,
             "Heading1": "4. Guiding principles",
             "Heading2": "",
@@ -54,9 +54,9 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
-            "PageNum": 10,
-            "Heading1": "5. Planning and designing transitional WAM",
+            "Title": "Reintegration",
+            "PageNum": 7,
+            "Heading1": "5. Transitioning from reinsertion to reintegration",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
@@ -64,9 +64,9 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
-            "PageNum": 23,
-            "Heading1": "6. Transitional WAM as a DDR-related tool",
+            "Title": "Reintegration",
+            "PageNum": 8,
+            "Heading1": "6. Appr0aches t0 the reintegration 0f ex-combatants",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
@@ -74,9 +74,29 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
+            "PageNum": 11,
+            "Heading1": "7. Analysis and assessments relevant fOr reintegration planning and programme design",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "",
+            "Level": 4,
+            "Title": "Reintegration",
+            "PageNum": 22,
+            "Heading1": "8. Programme planning and design",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "",
+            "Level": 4,
+            "Title": "Reintegration",
             "PageNum": 30,
-            "Heading1": "7. DDR arms control activities and SALW control",
+            "Heading1": "9. Economic reintegration",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
@@ -84,9 +104,9 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
-            "PageNum": 35,
-            "Heading1": "Annex A: Abbreviations",
+            "Title": "Reintegration",
+            "PageNum": 40,
+            "Heading1": "10. Social/Psychosocial reintegration",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
@@ -94,29 +114,9 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
-            "PageNum": 36,
-            "Heading1": "Annex B: Normative documents",
-            "Heading2": "",
-            "Heading3": "",
-            "Heading4": ""
-        },
-        {
-            "Paragraph": "",
-            "Level": 4,
-            "Title": "Demobilization",
-            "PageNum": 37,
-            "Heading1": "Annex C: Sample terms and conditions form",
-            "Heading2": "",
-            "Heading3": "",
-            "Heading4": ""
-        },
-        {
-            "Paragraph": "",
-            "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 38,
-            "Heading1": "Annex D: Disarmament site",
+            "Heading1": "11. Political Reintegration",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
@@ -124,38 +124,18 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 3,
             "Heading1": "Endnotes",
-            "Heading2": "",
+            "Heading2": "12. Linking reintegration to wider recovery and development",
             "Heading3": "",
             "Heading4": ""
         },
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
-            "PageNum": 38,
-            "Heading1": "Annex E: Destruction methods",
-            "Heading2": "",
-            "Heading3": "",
-            "Heading4": ""
-        },
-        {
-            "Paragraph": "",
-            "Level": 4,
-            "Title": "Demobilization",
-            "PageNum": 40,
-            "Heading1": "Endnotes",
-            "Heading2": "",
-            "Heading3": "",
-            "Heading4": ""
-        },
-        {
-            "Paragraph": "",
-            "Level": 4,
-            "Title": "Demobilization",
-            "PageNum": 6,
+            "Title": "Reintegration",
+            "PageNum": 59,
             "Heading1": "Annex A: Terms, definitions and abbreviations",
             "Heading2": "",
             "Heading3": "",
@@ -164,9 +144,9 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 6,
-            "Heading1": "Annex B: Sample budget frameworks",
+            "Heading1": "Annex B: UN policies, guidelines and frameworks relevant for reintegration",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
@@ -174,7 +154,7 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 6,
             "Heading1": "Annex C: Excerpt from General Assembly resolution A/RES/59/296",
             "Heading2": "",
@@ -184,7 +164,7 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 6,
             "Heading1": "Annex D.1: Developing an RBB framework",
             "Heading2": "",
@@ -194,7 +174,7 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 6,
             "Heading1": "Annex D.2: RBB for DDR in Sudan",
             "Heading2": "",
@@ -204,7 +184,7 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 6,
             "Heading1": "Annex E: Phased funding requirements for DDR",
             "Heading2": "",
@@ -214,7 +194,7 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 6,
             "Heading1": "Annex F: Overview of institutional and management arrangements for funding",
             "Heading2": "",
@@ -224,7 +204,7 @@
         {
             "Paragraph": "",
             "Level": 4,
-            "Title": "Demobilization",
+            "Title": "Reintegration",
             "PageNum": 18,
             "Heading1": "Endnotes",
             "Heading2": "",
