@@ -2,7 +2,7 @@
 {
     "5.20 Children and DDR": [
         {
-            "Paragraph": "",
+            "Paragraph": "The recruitment of children – girls and boys under the age of 18 – and their use in hostilities or for other purposes by armed forces and groups is illegal. It is also one of the worst forms of child labour and exploitation. Efforts to prevent the recruitment of children into armed forces and groups should be a primary consideration during all DDR processes. Prevention efforts should start early—when possible, they should commence prior to armed conflict—and they should take place continuously throughout the conflict, with careful consideration given to the structural, social and individual factors associated with the risk of recruitment and re-recruitment.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 1,
@@ -12,7 +12,47 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Irrespective of how children were recruited, the unconditional and immediate release of children associated with armed forces and groups (CAAFAG) shall be required. Any person under 18 years old must be supported to demobilize and reintegrate into families and communities at all times, irrespective of the status of peace negotiations and/or the development of DDR processes. Nonetheless, where relevant, peace processes, including peace agreements and DDR policy documents, offer an opportunity to highlight the needs of children affected by armed conflict and to ensure that actions and funding streams to support child-specific processes are included. The commitment to stop the recruitment and use of children and to release children from armed forces and groups shall be explicit within peace agreements.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 1,
+            "Heading1": "Summary",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DRR processes shall be specific to the needs of children and apply child-sensitive and gender- transformative approaches to planning, implementation, and monitoring. As such, children shall be separated from armed forces and groups, handed over to child protection actors and supported to demobilize and reintegrate into families and communities. DDR practitioners and relevant child protection actors shall work together to design and implement services and interventions that aim to prevent children’s recruitment and re-recruitment, that help children to recover and reintegrate into their communities, and that take into account differences in age and gender needs. DDR practitioners should promote agency of children, enabling their right to participate in decision- making and shape DDR processes in line with their concerns/needs.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 1,
+            "Heading1": "Summary",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The specific needs of children formerly associated with armed forces and groups during reintegration are multisectoral, as boys and girls often require support in (re)accessing education, an alternative livelihood, medical and mental health services, including reproductive health services and sexual violence recovery services, as well as other services that promote life skills and help them establish a meaningful role in society. Child-sensitive approaches to reintegration support should be focused on long-term and sustainable opportunities for children formerly associated with armed forces and groups that are gender- and age-sensitive. For sustainability, and to avoid tension, stigmatization or envy when a child is returned, DDR practitioners should ensure that broader community development processes are also considered",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 1,
+            "Heading1": "Summary",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR practitioners should also be aware that no child below the minimum age of criminal responsibility (MACR) should be investigated, prosecuted, or deprived of their liberty for any offence, including security and terrorism-related offences, in line with the provisions of the Convention on the Rights of the Child. The Committee on the Rights of the Child encourages States to increase the MACR where possible, and not to lower it below 14 years of age, commending States that set a higher MACR such as 15 or 16 years of age. Children, above the age of criminal responsibility, who are suspected of committing a serious crime, shall be handed over to civilian actors, and justice should be provided within juvenile justice frameworks. During all processes they shall be treated primarily as victims and as survivors of grave violations of their rights. Any investigation or determination of culpability shall be handled by trained civilian actors, including, where relevant, trained juvenile justice actors and made based on processes consistent with applicable international child rights standards, including the Convention on the Rights of the Child, and internationally recognized juvenile justice standards and principles, due process and fair trial standards, prioritizing the child’s recovery, reintegration, and best interests in all decisions.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 1,
+            "Heading1": "Summary",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This module aims to provide DDR practitioners and child protection actors with guidance on the planning, design and implementation of DDR processes for CAAFAG in both mission and non- mission settings. The main objectives of this guidance are: \\n To set out the main principles that guide all aspects of DDR processes for children. \\n To outline the normative legal framework that applies to children and must be integrated across DDR processes for children through planning, design, implementation and monitoring and evaluation. \\n To provide guidance and key considerations to drive continuous efforts to prevent the recruitment and re-recruitment of children into armed forces and groups. \\n To provide guidance on child- and gender-sensitive approaches to DDR highlighting the importance of both individualized and community-based approaches. \\n To highlight international norms and standards around criminal responsibility and accountability in relation to CAAFAG.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 2,
@@ -22,7 +62,17 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "This module is applicable to all CAAFAG but should be used in conjunction with IDDRS 5.30 on Youth and DDR. IDDRS 5.30 provides guidance on children who are closer to 18 years of age. These children, who are likely to enter into employment and who have socio-political reintegration demands, especially young adults with their own children, require special assistance. The challenge of demobilizing and reintegrating former combatants who were mobilized as children and demobilized as adults is also covered in IDDRS 5.30. In addition, this module should also be read in conjunction with IDDRS 5.10 on Women, Gender and DDR.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 2,
+            "Heading1": "1. Module scope and objectives",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Annex A contains a list of abbreviations used in this standard. A complete glossary of all terms, definitions and abbreviations used in the IDDRS series is given in IDDRS 1.20.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 2,
@@ -32,17 +82,97 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "In the IDDRS series, the words ‘shall’, ‘should’, ‘may’, ‘can’ and ‘must’ are used to indicate the intended degree of compliance with the standards laid down. This use is consistent with the language used in the International Organization for Standardization (ISO) standards and guidelines: \\n a) ‘shall’ is used to indicate requirements, methods or specifications that are to be applied in order to conform to the standard; \\n b) ‘should’ is used to indicate the preferred requirements, methods or specifications; \\n c) ‘may’ is used to indicate a possible method or course of action; \\n d) ‘can’ is used to indicate a possibility and capability; and, \\n e) ‘must’ is used to indicate an external constraint or obligation.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 2,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Children associated with armed forces or armed groups refers to persons below 18 years of age who are or who have been recruited or used by an armed force or group in any capacity, including but not limited to children, boys or girls, used as fighters, cooks, porters, messengers, spies or for sexual purposes. This term is used in the Paris Principles and is used here instead of the term ‘child soldiers’ because it more inclusively recognizes children who perform not only combat roles but also support or other functions in an armed force or group.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 3,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Child recruitment refers to compulsory, forced and any other conscription or enlistment of children into any kind of armed force or armed group. This can include recruitment by communities, coerced recruitment, or abductions into armed forces and groups. The definition is purposefully broad and encompasses the possibility that any child recruitment may be coerced, forced, or manipulated based on the child’s circumstances and may appear voluntary.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 3,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Unlawful recruitment or use is recruitment or use of children under the age stipulated in the international treaties applicable to the armed force or group in question or under applicable national law. The Optional Protocol on the Involvement of Children in Armed Conflict (OPAC) bans recruitment of children under 15 and requires States to take all possible measures to prevent recruitment of children under 18 including the adoption of legal measures necessary to prohibit and criminalize such practices.1 It also bans all recruitment and use of children by armed groups. The Convention on the Rights of the Child (CRC), the Geneva Conventions and the Rome Statute ban recruitment of children under age 15.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 3,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Release includes the process of formal and controlled disarmament and demobilization of children from an armed force or group, as well as the informal ways in which children leave by escaping, being captured or any other means. It implies a disassociation from the armed force or group and the beginning of the transition from military to civilian life. Release can take place during a situation of armed conflict; it is not dependent on the temporary or permanent cessation of hostilities. Release is not dependent on children having weapons to forfeit.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 3,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Reintegration of children is the process through which children transition into society and enter meaningful roles and identities as civilians who are accepted by their families and communities in a context of local and national reconciliation. Sustainable reintegration is achieved when the political, legal, economic and social conditions needed for children to maintain life, livelihood and dignity have been secured. The reintegration process aims to ensure that children can access their rights, including formal and non-formal education, family unity, dignified livelihoods and safety from harm.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 3,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "All child recruitment or use by armed groups is illegal under international law (OPAC Article 4), as is all use of children in hostilities (OPAC Article 1), conscription by state armed forces (OPAC Article 2, International Convention on the Worst Forms of Child Labour (ILO Convention (No. 182)), or enlistment of children without appropriate safeguards (OPAC Article 3). All child recruitment and use into armed forces is also illegal for those State parties to the Operational Protocol to the Convention Against Torture. The recruitment and use of children under 15 by armed forces and groups may amount to a war crime. There is significant international consensus that the recruitment of children under 18 years old is inconsistent with international standards on child protection. DDR processes, including release and reintegration support for children, shall therefore prioritize prevention, separation of children from armed forces or groups, and redress of this human rights violation.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 4,
             "Heading1": "3. Introduction",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "DDR processes shall be specific to the needs of children and apply child- and gender-sensitive approaches. This module provides critical guidance for DDR practitioners and child protection actors on how to work together to plan, design and implement services and interventions that aim to prevent children’s recruitment and re-recruitment, as well as help children to recover and reintegrate children into their families and communities. The guidance recognizes that the needs of children formerly associated with armed forces and groups during reintegration are multisectoral and different than those of adults. Child-sensitive approaches require DDR practitioners and child protection actors to tailor interventions to meet the specific needs of individual boys and girls, but also to target other conflict-affected or at-risk children within the broader community in which children are reintegrating.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 4,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Finally, the module recognizes that children, as victims of recruitment and use, should not be prosecuted, punished or threatened with prosecution or punishment solely for their membership in armed forces or groups, and notes that children who have reached the MACR and who may have committed criminal acts shall be afforded the protections to which they are entitled, including their rights to child-specific due process and minimum standards based on their age, needs and specific vulnerabilities.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 4,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "IDDRS 2.10 on The UN Approach to DDR sets out the main principles that guide all aspects of DDR processes. This section outlines how these principles apply to children and DDR.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 4,
@@ -52,7 +182,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Children are entitled to release from armed forces and groups at all times, without pre- condition. Processes for planning and implementing DDR processes shall not delay demobilization or other forms of release of children. Given their age, vulnerability and child- specific needs, during DDR processes, children shall be separated from armed forces and groups and handed over to child protection actors and supported to demobilize and reintegrate into families and communities in processes that are separate from those for adults, according to their best interests. While it is critical that children be supported, they shall not be pressured to wait for or to participate in release processes. They shall also not be removed from their families or communities to participate in DDR processes unless it has been determined to be in their best interest. Their decision to participate shall voluntary and based on informed consent.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 4,
@@ -72,7 +202,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Any person below 18 years of age who is associated with an armed force or group shall be eligible for participation in a DDR process designed specifically for children. Children can be associated with armed forces and groups in a variety of ways, not only as combatants, so some may not have access to weapons or ammunition. This is especially true for girls who are often used for sexual purposes, as wives or cooks, but may also be used as spies, logisticians, fighters, etc. DDR practitioners shall recognize that all children must be released by the armed forces and groups that recruited them and receive reintegration support. Eligibility for DDR processes for CAAFAG shall not be conditioned on the child’s possession and handover of a weapon or ammunition, participation in hostilities or weapons training; there shall be no conditions, of any kind, for their participation. If there is doubt as to whether an individual is under 18 years old, an age assessment shall be conducted (see Annex B). In cases where there is no proof of age, or inconclusive evidence, the child shall have the right to the rule of the benefit of the doubt.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 5,
@@ -82,7 +212,17 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "A dependent child of an ex-combatant shall not automatically be considered to be associated with an armed force or group. However, armed forces or groups may identify some children, particularly girls, as dependents, including as wives, when the child is an extended family member/relative, or when the child has been abducted, or otherwise recruited or used, including through forced marriage. A safe, child- and gender-sensitive individualized determination shall be undertaken to determine the child’s status and eligibility for participation in a DDR process. DDR practitioners and child protection actors shall be aware that, although not all dependent children may be eligible for DDR, they may be at heightened vulnerability and may have been exposed to conflict-related violence, especially if they were in close proximity to combatants or if their parents are ex-combatants. These children shall therefore be referred for support as part of wider child protection and humanitarian services in their communities.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 5,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.2 People centred",
+            "Heading3": "4.2.1 Criteria for participation/eligibility",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR processes for children shall not be contingent on political negotiations or adult DDR processes. Efforts shall always be made to prevent recruitment and to secure the release of children associated with armed forces or armed groups, irrespective of the stage of the conflict or status of peace negotiations. Doing so may require negotiations with armed forces or groups. Special provisions and efforts may be needed to reach girls, who often face unique obstacles to identification and release. These obstacles may include specific sociocultural factors, such as the perception that girl ‘wives’ are dependents rather than associated children, gendered barriers to information and sensitization, or fear by armed forces and groups of admitting to the presence of girls.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 6,
@@ -92,7 +232,27 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The mechanisms and structures for the release and reintegration of children shall be set up as soon as possible and continue during ongoing armed conflict, before a peace agreement is signed, a peacekeeping mission is deployed, or a DDR process or security sector reform (SSR) process is established.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 6,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.2 People centred",
+            "Heading3": "4.2.2 Unconditional release and protection of children",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Armed forces and groups rarely acknowledge the presence of children in their ranks, so children are often not identified and are therefore excluded from support linked to DDR. DDR practitioners and child protection actors involved in providing services during DDR processes, as well as UN personnel more broadly, shall actively call for the unconditional release of all CAAFAG at all times, and for children’s needs to be considered. Advocacy of this kind aims to highlight the issues faced by CAAFAG and ensures that the roles played by girls and boys in conflict situations are identified and acknowledged. Advocacy shall take place at all levels, through both formal and informal discussions. UN agencies, diplomatic missions, mediators, donors and representatives of parties to conflict should all be involved. If possible, advocacy should also be linked to existing civil society actions and national systems.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 6,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.2 People centred",
+            "Heading3": "4.2.2 Unconditional release and protection of children",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR processes shall respect the principles of international humanitarian law and promote the human rights of DDR participants, including children, and the communities into which they reintegrate. Core principles for delivery of humanitarian assistances include humanity, impartiality, neutrality and independence. When supporting children and families therefore, care shall be taken to assess the possible impact of measures on vulnerable populations which may, by their very nature, have disproportionate or discriminatory impacts on different groups, even if unintended. Responses shall enhance the safety, dignity, and rights of people, and avoid exposing them to harm, provide access to assistance according to need and without discrimination, assist people to recover from the physical and psychological effects of threatened or actual violence, coercion or deliberate deprivation, and support people to fulfil their rights.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 6,
@@ -102,7 +262,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Conflict harms all children, whether they have been recruited or not. An inclusive approach that provides support to all conflict-affected children, including girls, particularly those with vulnerabilities that place them at risk of recruitment and use, shall be adopted to address children’s needs and to avoid the perception that CAAFAG are being rewarded for association with an armed force or group. Gender-responsive approaches recognize the unique and specific needs of boys and girls, including the need for both to have access to sexual violence recovery services, emotional skill development and mental health and psychosocial support. Non- discrimination and fair and equitable treatment are core principles of DDR processes. Children shall not be discriminated against due to age, sex, race, religion, nationality, ethnicity, disability or other personal characteristics or associations they or their families may hold. Based on their needs, CAAFAG shall have access to the same opportunities irrespective of the armed force or group with which they were associated. Non-discrimination also requires the establishment of mechanisms to enable those CAAFAG who informally leave armed forces or groups to access child-sensitive DDR processes (see section 4.1).",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 6,
@@ -112,17 +272,28 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "A conflict sensitive approach ensures that children associated with different groups and forces shall have equal access to and benefit from programmes. Additionally, opportunities to promote peacebuilding and social cohesion through child protection support services and activities shall be leveraged to fortify and build stronger connections between children, irrespective of the armed group or force with which they were previously traveling or associated.",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 6,
+            "PageNum": 7,
             "Heading1": "4. Guiding principles",
             "Heading2": "4.4 Conflict sensitive",
             "Heading3": "",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            
+            "Paragraph": "DDR practitioners shall ensure that no harm is done to children or their families. Rather, they shall seek to maximize any benefits to children, while minimizing any harm. This shall be done through: \\n Assessing and monitoring both positive and negative impacts for children, disaggregating data by age, gender and vulnerabilities of the child, while keeping such data protected; and \\n Listening to and considering the voices and views of children in the planning, design, implementation and review of DDR processes.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 7,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.4 Conflict sensitive",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR practitioners shall recognize that each conflict context is different, with its own social, political, cultural, economic, gender and other dynamics, and that girls and boys have different needs and capacities. These specificities also require DDR practitioners to recognize that the mechanisms for consultation and engagement may differ by context, hence requiring tailored strategies. There is no simple formula that can be applied in all circumstances.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 7,
@@ -142,7 +313,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Sufficient long-term funding is required to implement effective child-sensitive DDR processes. Funding should be made available through a funding mechanism that is independent of, and managed separately from, DDR processes for adults. This funding should be planned for at the outset. DDR practitioners and specialized child protection actors shall be called upon for the necessary political, technical and operational leadership within the Government and within the framework of the UN mission or the UN Country Team.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 7,
@@ -152,7 +323,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "DDR practitioners and child protection actors shall reaffirm the importance of and respect the best interests of the child and require project staff to be accountable to children and their caregivers.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 7,
@@ -162,17 +333,37 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "DDR processes for children shall link to national and local structures for child protection with efforts to strengthen institutions working on child rights and advocacy. DDR processes for children require a long implementation period and the long-term success of DDR processes depends on and correlates to the capacities of local actors and communities. These capacities shall be strengthened to support community acceptance and local advocacy potential.",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 7,
+            "PageNum": 8,
             "Heading1": "4. Guiding principles",
             "Heading2": "4.7 Nationally and locally owned",
             "Heading3": "",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Participatory and decentralized consultation should be encouraged so that common strategies, responsive to local realities, can be designed. National frameworks, including guiding principles, norms and procedures specific to the local and regional context, shall be established. Clear roles and responsibilities, including engagement and exit strategies, shall be agreed upon by all actors. All such consultation must ensure that the voices of children, both boys and girls, are heard and their views are incorporated into the design of DDR processes. As social norms may influence the ability of children to speak openly and safely, DDR practitioners shall consult with experts on child participation.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 8,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.7 Nationally and locally owned",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "To ensure long-term sustainability, Government should be a key partner/owner in DDR processes for children. The level of responsibility and national ownership will depend on the context and/or the terms of the peace accord (if one exists). Appropriate ministries, such as those of education, social affairs, families, women, labour, etc., as well as any national DDR commission that is set up, shall be involved in the planning and design of DDR processes for children. Where possible, support should be provided to build Government capacity on child protection and other critical social services.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 8,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.7 Nationally and locally owned",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Where appropriate, DDR practitioners shall consider regional initiatives prohibiting and responding to the recruitment and use of CAAFAG. Furthermore, regional organizations and arrangements to undertake efforts to obtain the release of children from armed forces and groups and their family reunification shall be supported.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 8,
@@ -182,7 +373,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Effective coordination with other related sectors (including education, health, youth, and employment) and relevant agencies/ministries is critical to the success of DDR processes for children. Systems for coordination, information-sharing and reporting shall be established and continuously implemented, so that all concerned parties can work together and support each other, particularly in the case of contingency and security planning. Coordination shall be seen as a vital element of the ongoing monitoring of children’s well-being and shall be utilized to further advanced preparedness, prevent (re-)recruitment and ensure conflict sensitivity. Effective coordination between DDR practitioners working with children and adults should be promoted to support the transition from child to adult for older children (ages 15–18). Data on CAAFAG shall be safely secured and only made available to those who have a specific need to access it for a specific purpose that is in a child’s best interests, for example, to deliver a service or make a referral. Confidentiality shall be respected at all times.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 8,
@@ -195,24 +386,54 @@
             "Paragraph": "",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 8,
+            "PageNum": 9,
             "Heading1": "4. Guiding principles",
             "Heading2": "4.10 Well planned",
             "Heading3": "",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Prevention and release require considerations related to safety of children, families, communities, DDR practitioners and other staff delivering services for children. DDR processes for children may be implemented in locations where conflict is ongoing or escalating, or in fragile environments. Such contexts present many potential risks and DDR practitioners shall therefore conduct risk assessments and put in place measures to mitigate identified risks before initiating DDR processes. ",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 8,
+            "PageNum": 9,
             "Heading1": "4. Guiding principles",
             "Heading2": "4.10 Well planned",
             "Heading3": "4.10.1 Safety and security",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Particular consideration shall be given to the needs of girls and protection of all children from sexual exploitation and abuse. All staff of UN organizations delivering child protection services and organizing DDR processes shall adhere to the requirements of the Secretary-General’s Bulletin on the Special Measures for Protection from Sexual Exploitation and Sexual Abuse (for UN entities) and the Interagency Standing Committee’s Six Core Principles Relating to Sexual Exploitation and Abuse.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 9,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.10 Well planned",
+            "Heading3": "4.10.1 Safety and security",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR processes shall establish an organizational child protection policy and/or safeguarding policy and an individual code of conduct that have clear, strong, and positive commitments to safeguard children and that outline appropriate standards of conduct, preventive measures, reporting, monitoring, investigation and corrective measures the Organization will take to protect participants and beneficiaries from sexual exploitation and abuse.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 9,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.10 Well planned",
+            "Heading3": "4.10.1 Safety and security",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The best interests of the child shall be a primary consideration in all assumptions and decisions made during planning. Emphasis is often placed on the need to estimate the numbers of children in armed forces and groups in order to plan actions. While this is important, policymakers and planners should also recognize that it is difficult to obtain accurate figures. Uncertain estimates during planning, however, should not prevent DDR processes for children from being implemented, or from assuring that every child will have sustained reintegration support.",
+            "Level": 9,
+            "Title": "Children and DDR",
+            "PageNum": 9,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.10 Well planned",
+            "Heading3": "4.10.2 Planning, assessment, design, monitoring and evaluation",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Children shall not be included in the count of members of any armed force or group at the time of a DDR process, SSR, or power-sharing negotiations. Legitimacy shall not be given to child recruitment through the inclusion of children within DDR processes to inflate numbers, for example. However, as children will require services, for the purposes of planning the budget and the DDR process itself, children shall be included in the count of persons qualifying for demobilization and reintegration support.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 9,
@@ -222,17 +443,47 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Many children who are formally or informally released or who have otherwise left armed forces or groups never have the opportunity to participate in child-sensitive DDR processes. This can happen when a child who flees an armed force or group is not aware of their rights or lives in an area where DDR processes are unavailable. Girls, in particular, may be at higher risk of this as they are often ‘unseen’ or viewed as dependents. DDR practitioners and child protection actors shall understand and plan for this type of “self-demobilization,” and the difficulties associated with accessing children who have taken this route. If levels of informal release or separation are believed to be high (through informal knowledge, data collection or situation analysis), during the planning and design phases, in collaboration with child protection actors, DDR practitioners shall establish mechanisms to inform these children of their rights and enable access to reintegration support.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 9,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.10 Well planned",
+            "Heading3": "4.10.2 Planning, assessment, design, monitoring and evaluation",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Families and communities shall be sensitized on the experiences their children may have had during their association with an armed force or group and the changes they may see, without stigmatizing them. CAAFAG, both girls and boys, often experience high levels of abuse (sexual, physical, and emotional), neglect and distressing and events (e.g., exposure to and perpetration of violence, psychological and physical injury, etc.). They will require significant support from their families and communities to overcome these challenges, and it is therefore important that appropriate sensitization initiatives are in place to ensure that this support is understood and forthcoming.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 10,
             "Heading1": "4. Guiding principles",
             "Heading2": "4.10 Well planned",
             "Heading3": "4.10.3 Public information and community sensitization",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "To increase children’s awareness of their rights and the services available, DDR practitioners should use targeted gender- and age-sensitive public communication strategies such as public service announcement campaigns (radio, social media and print), child-friendly leaflet drops in strategic locations, peer messaging and coordination with grassroots service providers to reach children. It is critical for DDR practitioners to maintain regular communication with CAAFAG regarding release and reintegration processes and support, including services offered and eligibility criteria, any changes to the support provided (delays or alternative modes of service delivery), and the availability of other services and referrals. A lack of proper communication may lead to misunderstandings and frustration among children and community members and further conflict.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 10,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.10 Well planned",
+            "Heading3": "4.10.3 Public information and community sensitization",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Communications strategies should be highly flexible and responsive to changing situations and needs. Strategies should include providing opportunities for people to ask questions about DDR processes for children and involve credible and legitimate local actors (see IDDRS 4.60 on Public Information and Strategic Communication in Support of DDR). A well-designed communications strategy creates trust within the community and among the key actors involved in the response and facilitates maximum participation. In all communications, children’s confidentiality shall be maintained, and their privacy protected.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 10,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "4.10 Well planned",
+            "Heading3": "4.10.3 Public information and community sensitization",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR practitioners shall proactively seek to build the following key normative legal frameworks into DDR, from planning, design, and implementation to monitoring and evaluation.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 10,
@@ -252,30 +503,40 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The CRC and its OPAC constitute the framework for the principles, norms and standards that underpin DDR processes for children. The CRC defines a ‘child’ as any human being below the age of 18 years unless, under the law applicable to the child, majority is attained earlier. OPAC prohibits recruitment and use in hostilities of anybody under 18 years of age by armed groups. OPAC also obligates States Parties to set the minimum age of voluntary recruitment of persons into their national armed forces as 15 years of age, establishes safeguards for the voluntary recruitment of persons below the age of 18, and asserts that State Parties take all feasible measures to ensure that members of the national armed forces that are under the age of 18 do not take part in direct hostilities.",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 10,
+            "PageNum": 11,
             "Heading1": "5. Normative legal frameworks",
             "Heading2": "5.1 International Human Rights Law",
             "Heading3": "5.1.1 The convention on the rights of the child and its optional protocols",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The rights of the child, as espoused through the CRC and its OPAC, further support the reintegration of CAAFAG through requiring States to promote: \\n The child's right to life, survival and development: This right is not limited to ensuring a child’s physical wellbeing but includes the need to ensure full and harmonious development, including at the spiritual, moral and social levels, where education plays a key role. In respect to DDR processes for children, this shall include consideration of how a child’s experience in conflict impacts upon his/her own evolving capacities, as well as recognition of the resilience displayed in surviving and overcoming difficulties. \\n The child’s right to be free from arbitrary detention - No child shall be deprived of his or her liberty unlawfully or arbitrarily. The arrest, detention or imprisonment of a child shall be in conformity with the law and shall be used only as a measure of last resort and for the shortest appropriate period of time. \\n The child’s right to fair justice and fair treatment - States recognize the right of every child alleged as, accused of, or recognized as having infringed the penal law to be treated in a manner consistent with the promotion of the child's sense of dignity and worth, which reinforces the child's respect for the human rights and fundamental freedoms of others and which takes into account the child's age and the desirability of promoting the child's reintegration and the child's assuming a constructive role in society. States shall seek to promote the establishment of laws, procedures, authorities and institutions specifically applicable to children alleged as, accused of, or recognized as having infringed the penal law, and, in particular \\n The physical and psychological recovery and social reintegration of child victims: States shall take all appropriate measures to promote physical and psychological recovery and social reintegration of a child victim of: any form of neglect, exploitation, or abuse; torture or any other form of cruel, inhuman or degrading treatment or punishment; or armed conflicts. DDR practitioners shall work with States to ensure that recovery and reintegration takes place in an environment which fosters the health, self-respect and dignity of the child. Article 7 of the OPAC forms the legal basis for support to CAAFAG through the obligation of signatories to rehabilitate and socially reintegrate CAAFAG. \\n The child’s right to be free from discrimination: States shall ensure respect for the rights of all children within their jurisdiction – including non-national children – regardless of race, sex, age, religion, ethnicity, opinions, disability or any other status of the child or the child’s parents or legal guardians. DDR practitioners shall pay particular attention to ensuring the full involvement and inclusion of girls and their children, as well as addressing any stigmatization of CAAFAG. \\n The child’s right to participate: Children shall be allowed to express their opinions freely and participate in making decisions concerning family reunification and career and educational opportunities, and those opinions should be given due weight in accordance with the age and maturity of the child. Children shall be consulted at all stages of the release and reintegration process, and actions that affect them shall be in their best interests, considering their needs and concerns, placement and family. \\n The child’s best interests as a primary consideration: Actions that affect the child should be based on an assessment of whether those actions are in the child’s best interests. As part of DDR processes for children, this shall mean that all measures to assure release, protection, reintegration and prevention of re-recruitment shall be determined by their best interests. A child shall participate in determining what is in his/her best interests.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 11,
+            "Heading1": "5. Normative legal frameworks",
+            "Heading2": "5.1 International Human Rights Law",
+            "Heading3": "5.1.1 The convention on the rights of the child and its optional protocols",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Under Article 3 of the International Labour Organization Convention No. 182, States Parties shall take immediate and effective measures to secure the prohibition and elimination of the worst forms of child labour, which include the forced or compulsory recruitment of children for use in armed conflict (a child being defined as a person under the age of 18). Under Article 7(b) the convention also requires States to prevent the engagement of children in the worst forms of child labour, and to provide the necessary and appropriate direct assistance for the removal of children from the worst forms of child labour and for their rehabilitation and reintegration.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 12,
             "Heading1": "5. Normative legal frameworks",
             "Heading2": "5.1 International Human Rights Law",
             "Heading3": "5.1.2 The worst forms of child labour convention",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The African Charter on the Rights and Welfare of the Child (1990) requires that States take all necessary measures to ensure that no child shall take a direct part in hostilities and refrain, in particular, from recruiting any child (Article 22).",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 11,
+            "PageNum": 12,
             "Heading1": "5. Normative legal frameworks",
             "Heading2": "5.1 International Human Rights Law",
             "Heading3": "5.1.3 African charter on the rights and welfare of the child",
@@ -292,7 +553,17 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The Additional Protocols I (Article 77) and II (Article 4(3)) to the Geneva Conventions call for the special respect and protection of children in armed conflict (Rule 135), underscoring that children who have not attained the age of fifteen years, shall neither be recruited into armed forces or groups (Rule 136), nor be allowed to take part in hostilities (Rule 137).",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 12,
+            "Heading1": "5. Normative legal frameworks",
+            "Heading2": "5.2 International Humanitarian Law",
+            "Heading3": "5.2.1 Additional protocols I and II to the Geneva conventions",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The protocols provide for additional special protection for children affected by armed conflict to include protection against all forms of sexual violence (Rule 93), separation from adults while deprived of liberty, unless they are members of the same family (Rule 120), access to education food and health care (Rules 55, 118, and 131), evacuation from areas of combat for safety reasons (Rule 129), reunification of unaccompanied children with their families (Rules 105 and 131), and application of the death penalty.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 12,
@@ -305,17 +576,17 @@
             "Paragraph": "",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 12,
+            "PageNum": 13,
             "Heading1": "5. Normative legal frameworks",
             "Heading2": "5.3 International Criminal Law",
             "Heading3": "",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Article 8(2)(b)(xxvi) and 8(2)(e)(vii) of the Rome Statute of the International Criminal Court makes it a war crime, leading to individual criminal prosecution, to conscript or enlist children under the age of 15 years into armed forces or groups or to use them to participate actively in hostilities, in both international and non-international armed conflicts.",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 12,
+            "PageNum": 13,
             "Heading1": "5. Normative legal frameworks",
             "Heading2": "5.3 International Criminal Law",
             "Heading3": "5.3.1 The Rome statute of the international criminal court",
@@ -332,7 +603,7 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Security Council resolution 1539 (2004) calls for engaging armed forces and groups in dialogue leading to time-bound action plans to prevent and end grave violations against children, including the release of children. Those engaged in securing the release of children should make contact with armed forces and groups recruiting and using children, where it is safe to do so and in accordance with UN guidelines.3 Engagement with armed forces and groups will often occur as part of the Monitoring and Reporting Mechanism (MRM) led by the Country Task Force on Monitoring and Reporting. Those parties to the conflict that enter into dialogue with the UN can develop time- bound action plans, following their listing in the annexes of the Secretary General’s annual report for grave violations against children (including the recruitment and use of children). The unconditional release of children, prevention of grave violations and awareness-raising on the issue of child recruitment and use, as well as other activities, shall be included in such action plans.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 13,
@@ -342,7 +613,17 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Training and capacity building for armed forces or groups on their obligations under international law relating to the recruitment and use of children should be provided, including the identification and release of children, age assessment procedures to prevent child association, gender-based violence and other child protection concerns, and respect for humanitarian norms and principles.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 13,
+            "Heading1": "5. Normative legal frameworks",
+            "Heading2": "5.4 UN Security Council resolutions: engagement with armed forces and groups",
+            "Heading3": "5.4.1 Security Council Resolution 1539",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Security Council Resolution 2427 (2018) urges “concerned Member States to mainstream child protection and ensure that the specific needs of girls and boys are fully taken into account at all stages of disarmament, demobilization, and reintegration processes (DDR), including through the development of a gender-and age-sensitive DDR process”. The resolution also stresses the need to pay particular attention to the treatment of children associated or allegedly associated with all non-state armed groups, including those who commit acts of terrorism, in particular by establishing standard operating procedures for the rapid handover of these children to relevant civilian child protection actors.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 13,
@@ -362,17 +643,27 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The 2007 Paris Principles, building on the 1997 Cape Town Principles, detail eight general principles and eight operational principles to protect children. Specific consideration is given to girls and their particular needs and challenges. The Paris Principles aim to guide interventions with the following objectives: \\n To prevent the unlawful recruitment or use of children; and \\n To facilitate the release of CAAFAG; and \\n To facilitate the reintegration of all CAAFAG; and \\n To ensure the most protective environment for all children.",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 13,
+            "PageNum": 14,
             "Heading1": "5. Normative legal frameworks",
             "Heading2": "5.5 International Standards",
             "Heading3": "5.5.1 The Paris Principles and Paris commitments",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The Paris Commitments – commitments to protect children from unlawful recruitment or use by armed forces or groups – supplement the Paris Principles and have two main priorities: (1) to put an end to the unlawful recruitment and use of children by armed forces and groups globally, and (2) to make all necessary efforts to uphold and apply the Paris Principles through political, diplomatic, humanitarian, technical assistance and funding roles, consistent with international obligations.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 14,
+            "Heading1": "5. Normative legal frameworks",
+            "Heading2": "5.5 International Standards",
+            "Heading3": "5.5.1 The Paris Principles and Paris commitments",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Applicable in the context of CAAFAG, the UN Standard Minimum Rules for the Administration of Juvenile Justice adopted by General Assembly resolution 40/33 in 1985 provide guidance for the arrest or detention of children. Children retain all the rights already covered for adults if arrested. The rules require detention of children only as a last resort so that arrest, detention or imprisonment of children should be avoided whenever possible. When children are arrested and detained, their cases are to be given the highest priority and handled expeditiously to ensure the shortest possible period of detention prior to trial. States should ensure that accountability mechanisms are fully in line with international law related to juvenile justice.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 14,
@@ -382,27 +673,57 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "International child rights and juvenile justice standards require that alternatives to normal judicial proceedings in criminal courts should be applied, providing that human rights and legal safeguards are fully respected (CRC, Article 40[3b], Rule 11, ‘Beijing Rules’). For example, restorative justice – achieved through finding alternatives to criminal courts – involves the child offender understanding and taking responsibility for his/her actions with the goal of achieving reconciliation between the offender, the victim and the wider community through reparations. Such a procedure should ensure that the rights of the child are protected throughout. The child’s participation in a restorative justice process shall be voluntary and preceded by informed consent (given by both the child and his/her parent or guardian). Measures to prevent the child from becoming distressed must be in place.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 14,
+            "Heading1": "5. Normative legal frameworks",
+            "Heading2": "5.5 International Standards",
+            "Heading3": "5.5.2 “The Beijing Rules” for administration of Juvenile Justice",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR processes for children require joint planning and coordination between DDR practitioners and child protection actors involved in providing services. Joint planning and coordination should be informed by a detailed situation analysis and by a number of Minimum Preparedness Actions.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 15,
             "Heading1": "6. Planning and Designing DDR processes for children",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "A detailed situation analysis should assess broad conflict-related issues (location, political and social dynamics, causes, impacts, etc.) but also the specific impacts on children, including disaggregation by gender, age and location (urban-rural). The situation analysis is critical to identifying obstacles to, and opportunities for, reintegration support. A detailed situation analysis should examine: \\n§ The objectives, tactics and command structure/management/hierarchy of the armed force or group; \\n§ The circumstances, patterns, causes, conditions, means and extent of child recruitment by age and gender; \\n§ The emotional and psychological consequences of children’s living conditions and experiences and their gendered dimensions; \\n§ Attitudes, beliefs and norms regarding gender identities in armed forces and groups and in the community; \\n§ The attitudes of families and communities towards the conflict, and the extent of their resilience and capacities; \\n§ The absorption capacity of and support services necessary in communities of return, in particular families, which play a critical role in successful release and reintegration efforts; \\n§ The extent of children’s participation in armed forces and groups, including roles played and gender, age or other differences; \\n§ Children’s needs, expectations, and aspirations; \\n§ The evident obstacles to, and opportunities for, child and youth reintegration, with consideration of what risks and opportunities may arise in the future; and \\n§ The needs of, and challenges of working with, special groups (girls, girl mothers, disabled children, foreign children, young children, adolescents, male survivors of sexual violence, 16 severely distressed children, children displaying signs of post-traumatic stress disorder, and unaccompanied and separated children).",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 14,
+            "PageNum": 15,
             "Heading1": "6. Planning and Designing DDR processes for children",
             "Heading2": "6.1. Negotiating DDR: Ensuring women’s political participation",
             "Heading3": "",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "DDR practitioners should be aware that the act of asking about children’s and communities’ wishes through assessments can raise expectations, which can only be managed by being honest about which services or assistance may or may not ultimately be provided. Under no circumstances should interviewers or practitioners make promises or give assurances that they are not certain they can deliver. Neither should they make promises about actions others may take. Some suggested key questions for context analysis can be found in Box 1 (see also IDDRS 3.11 on Integrated Assessments).",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 16,
+            "Heading1": "6. Planning and Designing DDR processes for children",
+            "Heading2": "6.1. Negotiating DDR: Ensuring women’s political participation",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "BOX 1: KEY QUESTIONS FOR CONTEXT ANALYSIS \\n What is the context? What are the social, political, economic and cultural origins of the conflict? Is it perceived as a struggle for liberation? Is it limited to a particular part of the country? Does it involve particular groups or people, or is it more generalized? What is the demographic composition of the population? What are the direct impacts of the conflict on children? Are the impacts different according to the background of the girls or boys? How are children perceived or described by other stakeholders in the context? \\n What is the ideology of the armed force or group? Do its members have a political ideology? Do they have political, social or other goals? What means does the armed force/group use to pursue its ideology? What are the gender dimensions of their ideology? Who supports the armed force/group? What is the level of perceived legitimacy of the armed force/group? How does age- and gender-based norms and practices feature in the armed force/group’s ideology? \\n How is the armed force or group structured? Where is the locus of power? How many levels of hierarchy exist? Does the leadership have tight control over its forces? What roles are traditionally assigned to children within the force/group? Whom do children associated with armed forces and groups report to? Is reporting the same for boys and girls? How is authority/rank established? Who makes decisions regarding the movements of the armed force/group? Has the armed force/group had foreign sponsors (companies, organizations)? \\n Does the armed force/group focus on particular ethnic, religious, geographic or socioeconomic groups for recruitment? Are children directly targeted for recruitment? Are girls and boys targeted equally? Is there a particular reason why the armed force/group may target the recruitment of girls and boys? Where does the armed force/group do most of its recruiting? Is recruitment ‘voluntary’, forced or compulsory? Looking back over three, six and twelve months, has recruitment been increasing or decreasing, and does it differ over the course of the year? Are children promised anything when they join up (e.g., protection for their families, money, goods, weapons)? What is the proportion of children in the armed force/group? \\n What conditions did the children live in while in the armed force/group? How do the children feel about their conditions? Was there exploitation or abuse, and if so, for how long and of what kind? How are boys and girls affected differently by their recruitment and use by the armed force/group? What kind of work did children perform in the armed force/group? How has 17 children’s behaviour changed as a result of being recruited? Have their attitudes and values changed? What were the children's perceptions of the armed force/group before recruitment? \\n How do children recruited understand their role in the conflict? Are there any perceived benefits for children to join armed forces/groups (i.e., status recognition, addressing grievances)? What are their expectations and aspirations for the future? How can their experiences be harnessed for productive purposes? \\n What do the communities feel about the impact of the conflict on children? How do communities view the role of children in armed forces and groups? What impact is this likely to have on the children’s reintegration? How has the conflict affected perceptions of the roles of girls and women? What are the community’s perceptions of sexual violence against boys and girls? What is the people’s understanding of children’s responsibility in the conflict? What social, cultural and traditional practices exist to help children’s reintegration into their communities? Do institutions, policies and social groups have specific procedures or services to cater for children’s specific needs? How familiar are children with these practices?",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 16,
+            "Heading1": "6. Planning and Designing DDR processes for children",
+            "Heading2": "6.1. Negotiating DDR: Ensuring women’s political participation",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In addition to the context analysis, DDR practitioners and child protection actors should take the following Minimum Preparedness Actions into consideration when planning. These actions (outlined below) are informed by the Interagency Standing Committee’s Emergency Response Preparedness Guidelines (2015): \\n Risk monitoring is an activity that should be ongoing throughout implementation, based on initial risk assessments. Plans should be developed detailing how this action will be conducted. For CAAFAG, specific risks might include (re-)recruitment; lack of access to DDR processes; unidentified psychosocial trauma; family or community abuse; stigmatization; and sexual and gender-based violence. Risk monitoring should specifically consider the needs of girls of all ages. \\n Risk monitoring is especially critical when children self-demobilize and return to communities during ongoing conflict. Results should be disaggregated to ensure that girls and other particularly vulnerable groups are considered. \\n Clearly defined coordination and management arrangements are critical to ensuring a child-sensitive approach for DDR processes, particularly given the complexity of the process and the need for transparency and accountability to generate community support. DDR processes for children involve a number of agencies and stakeholders (national and international) and require comprehensive planning regarding how these bodies will coordinate and report. The opportunity for children to be able to report and provide feedback on DDR processes in a safe and confidential manner shall be ensured. Moreover, an exit strategy should feature within a coordinated approach. \\n Needs assessments, information management and response monitoring arrangements must be central to any planning process. The needs of boy and girl CAAFAG are multifaceted and may change over time. A robust needs assessment and ongoing monitoring of the reintegration process for children is essential to minimize risk, identify opportunities for extended support and ensure the effective 18 protection of all children – especially vulnerable children – involved in DDR. Effective information management should be a priority and should include disaggregated data (by age, sex, ethnicity, location, or any other valid variable) to enable DDR practitioners and child protection actors to proactively adapt their approaches as needs emerge. It is important to note that all organizations working with children should fully respect the rights and confidentiality of data subjects, and act in accordance with the “do no harm” principle and the best interests of children. \\n Case management systems should be community-based and, ideally, fit within existing community-based structures. Case management systems should be used to tailor the types of support that each child needs and should link to sexual and/or gender-based violence case management systems that provide specialized support for children who need it. Because reintegration of children is tailored to the individual needs of a child over time, a case management system is best to both address those needs and to build up case management systems in communities for the long term. \\n Reintegration opportunities and services, including market analysis are critical to inform an effective response that supports the sustainable economic reintegration of children. They should be used in conjunction with socioeconomic profiles to enable the development of solutions that meet market demand as well as the expectations of child participants and beneficiaries, taking into account gendered socio-cultural dynamics. See IDDRS 5.30 on Youth and DDR, sections 7 and 8, for more information. \\n Operational capacity and arrangements to deliver reintegration outcomes and ensure protection are essential to DDR processes for children. Plans should be put in place to enhance the institutional capacity of relevant stakeholders (including UN agencies, national and local Governments, civil society and sectors/clusters) where necessary. Negotiation capacity should also be considered in situations where children continue to be retained by armed forces and groups. The capacity of local service providers, businesses and communities, all of which will be directly involved on a daily basis in the reintegration process, should also be supported. \\n Contingency plans, linked to the risk analysis and monitoring system, should be developed to ensure that DDR processes for children retain enough flexibility to adapt to changing circumstances.",
             "Level": 5,
             "Title": "Children and DDR",
             "PageNum": 17,
@@ -412,60 +733,160 @@
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Data is critical to the design and implementation of DDR processes for children. Information on a child’s identity, family, the history of their recruitment and experience in their armed force or group, and their additional needs shall be collected by trained child protection personnel as early as possible and safely stored. All data shall be sex-disaggregated to ensure that DDR processes are able to effectively respond to gendered concerns.",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 16,
+            "PageNum": 18,
             "Heading1": "6. Planning and Designing DDR processes for children",
-            "Heading2": "6.3 Demobilization",
+            "Heading2": "6.3 Data",
             "Heading3": "",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "Information collected from CAAFAG shall be used only to deliver services to children and to design and implement child- and gender-sensitive DDR processes. Other actors often try to obtain 19 actionable military or intelligence information on armed opposition groups from demobilized children or may interrogate children as they view them as threats. Such actions could amount to a violation of child rights, as it places children in danger and may undermine the release process. The Paris Principles (Article 7.25) expressly state that “interviews should never be conducted to collect information for military purposes.” In addition, Security Council resolution 2427 (2018) states that CAAFAG are to be treated as victims of violations of international law. A commitment shall be obtained from Governments that children will be handed over to civilian child protection authorities as soon as possible and that military information will not be sought from them under any circumstances. Where interviews are necessary for legitimate purposes, as few individuals as possible should interview children to eliminate risks and harms that stem from repeated interviewing. Interviewers shall be trained child protection actors skilled in interviewing children.",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 16,
+            "PageNum": 18,
             "Heading1": "6. Planning and Designing DDR processes for children",
-            "Heading2": "6.3 Demobilization",
+            "Heading2": "6.3 Data",
             "Heading3": "6.3.1 Data collection",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The Security Council has expressed “grave concern at the use of detained children for information gathering purposes.” (UNSCR 2427, OP 20) Therefore, interviews with CAAFAG shall be carried out with the utmost concern for the child’s privacy, dignity and confidentiality. Those providing information (children and caregivers) shall be fully informed about the purpose of the information gathering, how the information will be used and how it will be kept confidential. Voluntary and informed consent shall be required before proceeding with any interview and the child shall be informed that he or she may stop the interview at any time without any need to give a reason. Child protection agencies and/or safeguarding personnel shall provide support, guidance and direction for such interviews. If no parent or guardian is available, a trusted adult shall be provided during any interview and undertake the role of protecting the child’s interests.",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 17,
+            "PageNum": 19,
             "Heading1": "6. Planning and Designing DDR processes for children",
-            "Heading2": "6.3 Demobilization",
+            "Heading2": "6.3 Data",
+            "Heading3": "6.3.1 Data collection",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Interviews shall be conducted in the mother tongue of the child at the pace that he or she sets. Questions shall be posed in child-friendly and age-appropriate language and be rephrased if necessary, and information received clarified. Some information can be sensitive, and the children who provide it may be subject to threats. As children are usually aware of the threats they face, they may provide misleading information to try to protect themselves. These fears shall be identified and measures to deal with them shall be developed. Security should be a key concern and informed by a security risk assessment. During interviews, staff shall pay attention to, and have plans to safeguard children from, anyone who may intimidate or threaten them. Interviews with children shall be carried out in a safe place. If the child wishes to stop the interview, or begins to display signs of distress, the interview shall be stopped immediately. To safeguard the child and the interviewer, no adult shall conduct an interview alone with the child; mixed gender teams shall be provided. No child shall be subject to pressure, coercion, manipulation, including promises, or to any other physical, emotional or psychological tactics to obtain information.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 19,
+            "Heading1": "6. Planning and Designing DDR processes for children",
+            "Heading2": "6.3 Data",
+            "Heading3": "6.3.1 Data collection",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Effective and secure data management is an important aspect of DDR processes for children as, beyond ethical considerations, it helps to create trust in the DDR process. Data management shall follow a predetermined and standardized format, including information on roles and responsibilities, procedures and protocols for data collection, processing, storage, sharing, reporting and archiving. Rules on confidentiality and information security shall be established, and all relevant staff shall be trained in these rules, to protect the security of children and their families, and staff. Databases that contain sensitive information related to children shall be encrypted and access to information shall be based on principles of informed consent, ‘need to know’ basis, ‘do no harm’ and the best interests of the child so that only those who need to have access to the information shall be granted permissions and the ability to do so.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 19,
+            "Heading1": "6. Planning and Designing DDR processes for children",
+            "Heading2": "6.3 Data",
             "Heading3": "6.3.2 Data management",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The specific needs of girls and boys shall be fully considered in all stages of DDR processes. A gender-transformative approach should be pursued, aiming to shift social norms and address structural inequalities that lead girls and boys to engage in armed conflict and that negatively affect their reintegration. Within DDR processes, a gender-transformative approach shall focus on the following: \\n Agency: Interventions should strengthen the individual and collective capacities (knowledge and skills), attitudes, critical reflection, assets, actions and access to services that support the reintegration of girls. \\n Relations: Interventions should equip girls with the skills to navigate the expectations and cooperative or negotiation dynamics embedded within relationships between people in the home, market, community, and groups and organizations that will influence choice. \\n Structures: Interventions should address the informal and formal institutional rules and practices, social norms and statuses that limit options available to girls and work to create space for their empowerment.",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 17,
+            "PageNum": 20,
             "Heading1": "6. Planning and Designing DDR processes for children",
-            "Heading2": "6.3 Demobilization",
+            "Heading2": "6.3 Data",
             "Heading3": "6.3.3 Gender responsive and transformative",
             "Heading4": ""
         },
         {
-            "Paragraph": "",
+            "Paragraph": "The inclusion of girls in DDR processes is central to a gender-transformative approach. CAAFAG are often at great risk of gender-based violence, including sexual violence, and hence may require a range of gender-specific services and programmes to support their recovery. Children, especially girls, are often not identified during DDR processes as they are not always considered to be full members of an armed force or group or may be treated as dependents or wives. Furthermore, DDR practitioners are not always properly trained to identify girls associated with or formerly associated with armed forces and groups and cater to their needs. Often, girls who informally leave armed forces or groups do so to avoid stigmatization or reprisal, or because they are unaware that they have the right to benefit from any kind of support. For these reasons, specific mechanisms should be developed to identify girls formerly associated with armed forces and groups and inform them about the benefits they may be entitled to through child-sensitive DDR processes. In order not to put girls at risk, this must be done in a sensitive manner, for example, through organizations and groups with which girls are already involved, such as health care facilities (particularly those dealing with reproductive health), religious centres and organizations that assist survivors of sexual violence (see IDDRS 5.10 on Women, Gender and DDR).",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 18,
+            "PageNum": 20,
+            "Heading1": "6. Planning and Designing DDR processes for children",
+            "Heading2": "6.3 Data",
+            "Heading3": "6.3.3 Gender responsive and transformative",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "As a key element, a gender-transformative approach should also engage boys, young men, and the wider community so that girls may be viewed and treated more equally by the whole community. It should also recognize that boys and men may also become associated with armed forces and groups due to expectations about the gender roles they should perform, including roles as protector and bread winner even at young ages, particularly where a father has died or is missing, and about social norms that promote violence and/or taking up arms as acceptable or preferred measures to resolve problems. This community-based approach is necessary to help promote the empowerment of girls by educating traditional patriarchal communities on gender equality and thus work towards countering harmful gender norms that enable violence to flourish. Other gender transformative approaches critical for boys include: \\n Non-violent forms of masculinities: Often through socialization into violence or through witnessing the use of violence while with armed forces and groups, boys may develop an association of violence through social norms surrounding masculinity and social recognition. Such associations may in turn lead to the development of anti-social behaviour towards themselves, to girls or vulnerable groups, or to community. Supporting boys in deconstructing violent or militarized norms about masculinity is an essential part of breaking the cycle of violence and supporting successful reintegration. This may also involve supporting emotional skill development, including understanding and working with anger in a healthy way. \\n Gender-Equitable Relations and Structures: The ideology, structure and treatment of women or girls in armed forces and groups may have led to the development of non-equitable views regarding gender norms, which may affect notions of what ‘consent’ is. Supporting equitable norms, views, and approaches to being in relationship with girls, and cultivating respect for agency and choice of girls and women, is critical to supporting boys formulate healthy norms and relationships in adulthood.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 20,
+            "Heading1": "6. Planning and Designing DDR processes for children",
+            "Heading2": "6.3 Data",
+            "Heading3": "6.3.3 Gender responsive and transformative",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "A gender-transformative approach should also ensure that gender is a key feature of all DDR assessments and is incorporated into all elements of release and reintegration (see IDDRS 3.10 on Integrated Assessments).",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 21,
+            "Heading1": "6. Planning and Designing DDR processes for children",
+            "Heading2": "6.3 Data",
+            "Heading3": "6.3.3 Gender responsive and transformative",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The factors that lead to children associating with armed forces and groups are complex, and usually involve a number of push and pull factors specific to each child and their wider environment. Understanding the recruitment pathways of children into armed forces and groups is important for development of effective (re-)recruitment prevention strategies and can influence reintegration programming. For example, in some instances of forcible recruitment, new members are required to engage in violence against their family and community to reduce the incentive to escape. This can make their reintegration and community acceptance particularly difficult.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 17,
+            "Heading1": "6. Planning and Designing DDR processes for children",
+            "Heading2": "6.3 Data",
+            "Heading3": "6.3.3 Gender responsive and transformative",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Prevention efforts should start early and take place before and continuously throughout armed conflict. Furthermore, these efforts should recognize that children are embedded in families and communities, and programmes must target each part of their ecosystem. Prevention efforts should be based on an analysis of the dynamics of recruitment and its underlying causes and include advocacy strategies that are directed at all levels of governance, both formal and informal. Government ministries, child focused non-governmental organizations, DDR practitioners and child protection actors should monitor and analyse information on the recruitment of children to understand recruitment patterns.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 21,
             "Heading1": "7. Prevention of recruitment and re-recruitment of children",
             "Heading2": "",
             "Heading3": "",
             "Heading4": ""
         },
         {
+            "Paragraph": "To prevent the (re-)recruitment of children as part of DDR processes, various risk factors should be analysed at the structural, social and individual levels (see Table 1 below). Special focus shall be given to children at the most risk of recruitment.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 22,
+            "Heading1": "7. Prevention of recruitment and re-recruitment of children",
+            "Heading2": "7.1  Identification and documentation of risks of (re-)recruitment",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Some children are particularly vulnerable to (re-)recruitment because of inadequate protection, such as children living in conflict zones, child refugees or those who have been internally displaced, unaccompanied children, orphans or those separated from their families, children in child- or female-headed households, and children with very young parents. Girls and boys are at greater risk of being recruited in certain locations, such as zones of intense conflict; areas frequently crossed by troops; and public places with concentrations of children such as markets, schools, refugee camps or camps for internally displaced persons, and places where children go to fetch wood or water.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 22,
+            "Heading1": "7. Prevention of recruitment and re-recruitment of children",
+            "Heading2": "7.1  Identification and documentation of risks of (re-)recruitment",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
             "Paragraph": "",
             "Level": 5,
             "Title": "Children and DDR",
-            "PageNum": 19,
+            "PageNum": 23,
+            "Heading1": "7. Prevention of recruitment and re-recruitment of children",
+            "Heading2": "7.1  Identification and documentation of risks of (re-)recruitment",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Child recruitment is not always a sudden occurrence, but can take place gradually, progressing from initial contact to formal association. Children may start with occasional visits to the camps of armed forces or groups to look for food, polish shoes or carry out other tasks. Increasingly, they are given more responsibilities, then they may seek shelter at these camps, and eventually they start to take part fully in military life. Preventing this kind of ‘voluntary’ recruitment is a particular challenge and engagement is needed to sensitize communities on the risks of children having contact and forming associations with an armed force or group, even if it appears harmless.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 23,
+            "Heading1": "7. Prevention of recruitment and re-recruitment of children",
+            "Heading2": "7.1  Identification and documentation of risks of (re-)recruitment",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "It is also important that the identification and documentation of (re-)recruitment risk considers aspects of child agency that may make children more vulnerable to recruitment. While forcible recruitment remains an issue, most children are recruited through the manipulation of their economic, social, political and/or psychological vulnerability.",
+            "Level": 5,
+            "Title": "Children and DDR",
+            "PageNum": 23,
             "Heading1": "7. Prevention of recruitment and re-recruitment of children",
             "Heading2": "7.1  Identification and documentation of risks of (re-)recruitment",
             "Heading3": "",
