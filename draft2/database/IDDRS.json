@@ -29914,5 +29914,610 @@
             "Heading3": "",
             "Heading4": ""
         }
+    ],
+    "5.70 Health and DDR": [
+        {
+            "Paragraph": "This module is intended to assist operators and managers from other sectors who are involved in disarmament, demobilization and reintegration (DDR), as well as health practitioners, to understand how health partners, like the World Health Organization (WHO), United Nations (UN) Population Fund (UNFPA), Joint UN Programme on AIDS (UNAIDS), Inter- national Committee of the Red Cross (ICRC) and so on, can make their best contribution to the short- and long-term goals of DDR. It provides a framework to support cooperative decision-making for health action rather than technical advice on health care needs. Its intended audiences are generalists who need to be aware of each component of a DDR pro- cess, including health actions; and health practitioners who, when called upon to support the DDR process, might need some basic guidance and reference on the subject to help contextualize their technical expertise. Because of its close interconnections with these areas, the module should be read in conjunction with IDDRS 5.60 on HIV/AIDS and DDR and IDDRS 5.50 on Food Aid Programmes in DDR.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 1,
+            "Heading1": "Summary",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This module is intended to assist operators and managers from other sectors who are involved in DDR, as well as health practitioners, to understand how health partners can make their best contribution to the short- and long-term goals of DDR. It provides a framework to support decision-making for health actions. The module highlights key areas that deserve attention and details the specific challenges that are likely to emerge when operating within a DDR framework. It cannot provide a response to all technical problems, but it provides technical references when these are relevant and appropriate, and it assumes that managers, generalists and experienced health staff will consult with each other and coordinate their efforts when planning and implementing health programmes.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 1,
+            "Heading1": "1. Module scope and objectives",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "As the objective of this module is to provide a platform for dialogue in support of the design and implementation of health programmes within a DDR framework, there are two intended audiences: generalists who need to be aware of each component of a DDR process, including health actions; and health practitioners who, when called upon to support the DDR process, might need some basic guidance and reference on the subject to help contex- tualize their technical expertise.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 1,
+            "Heading1": "1. Module scope and objectives",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Annex A contains a list of terms, definitions and abbreviations used in this standard. A com­ plete glossary of all the terms, definitions and abbreviations used in the series of integrated DDR standards (IDDRS) is given in IDDRS 1.20. In the IDDRS series, the words ‘shall’, ‘should’, ‘may’, ‘can’ and ‘must’ are used to indicate the intended degree of compliance with the standards laid down. This use is consistent with the language used in the International Organization for Standardization (ISO) standards and guidelines: \\n a) ‘shall’ is used to indicate requirements, methods or specifications that are to be applied in order to conform to the standard; \\n b) ‘should’ is used to indicate the preferred requirements, methods or specifications; \\n c) ‘may’ is used to indicate a possible method or course of action; \\n d) ‘can’ is used to indicate a possibility and capability; and, \\n e) ‘must’ is used to indicate an external constraint or obligation.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 2,
+            "Heading1": "2. Terms, definitions and abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This module consolidates the lessons learned by WHO and its partners, including UNFPA, UNAIDS, ICRC, etc., in supporting DDR processes in a number of countries. UN technical agencies play a supportive role within a DDR framework, and WHO has a specific respon- sibility as far as health is concerned. The exact nature of this role may change in different situations, ranging from standards-setting to direct operational responsibilities such as con- tracting with and supervising non-governmental organizations (NGOs) delivering health care and health-related activities in assembly areas and demobilization sites, negotiating with conflicting parties to implement health programmes, and supporting the provision of health equipment and services in transit/cantonment areas.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 2,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The priority of public health partners in DDR is: \\n to assess health situations and monitor levels of risk; \\n to co-ordinate the work of health actors and others whose activities contribute to health (e.g., food programmes); \\n to provide — or to ensure that others provide — key health services that may be lacking in particular contexts where DDR programmes are operating; \\n to build capacity within national authorities and civil society.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 2,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Experience shows that, even with the technical support offered by UN and partner agencies, meeting these priorities can be difficult. Both in the initial demobilization phase and afterwards in the reintegration period, combatants, child soldiers, women associated with armed forces and groups, and their dependants may present a range of specific needs to which the national health sector is not always capable of responding. While the basic mech- anisms governing the interaction between individuals and the various threats to their health are very much the same anywhere, what alters is the environment where these interactions take place, e.g., in terms of epidemiological profile, security and political context. In each country where a DDR process is being implemented, even without considering the different features of each process itself, a unique set of health needs will have to be met. Nonetheless, some general lessons can be drawn from the past: \\n In DDR processes, the short-term planning that is part of humanitarian interventions also needs to be built into a medium- to long-term framework. This applies to health as well as to other sectors;1 \\n A clear understanding of the various phases laid out in the peace process in general and specified for DDR in particular is vital for the appropriate timing, delivery and targeting of health activities;2 \\n The capacity to identify and engage key stakeholders and build long-term capacity is essential for coordination, implementation and sustainability.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 2,
+            "Heading1": "3. Introduction",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Health action should always prioritize basic preventive and curative care to manage the entire range of health threats in the geographical area, and deal with the specific risks that threaten the target population. Health action within a DDR process should apply four key principles: \\n Principle 1: Health programmes/actions that are part of DDR should be devised in coordi- nation with plans to rehabilitate the entire health system of the country, and to build local and national capacity; and they should be planned and implemented in cooperation and consultation with the national authorities and other key stakeholders so that resources are equitably shared and the long-term health needs of former combatants, women associated with armed groups and forces, their family members and communities of reintegration are sustainably met; \\n Principle 2: Health programmes/actions that are part of DDR should promote and respect ethical and internationally accepted human rights standards; \\n Principle 3: Health programmes/actions that are part of DDR should be devised after careful analysis of different needs and in consultation with a variety of representatives (male and female, adults, youth and children) of the various fighting factions; and services offered during demobilization should specifically deal with the variety of health needs presented by adult and young combatants and women associated with armed groups and forces; \\n Principle 4: In the reintegration part of DDR, as an essential component of community- based DDR in resource-poor environments, health programmes/actions should be open to all those in need, not only those formerly associated with armed groups and forces.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 3,
+            "Heading1": "4. Guiding principles",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "DDR programmes result from political settlements negotiated to create the political and legal system necessary to bring about a transition from violent conflict to stability and peace. To contribute to these political goals, DDR processes use military, economic and humani- tarian — including health care delivery — tools.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 3,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.1. Tensions between humanitarian and political objectives",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Thus, humanitarian work carried out within a DDR process is implemented as part of a political framework whose objectives are not specifically humanitarian. In such a situation, tensions can arise between humanitarian principles and the establishment of the overall political–strategic crisis management framework of integrated peace-building missions, which is the goal of the UN system. Offering health services as part of the DDR process can cause a conflict between the ‘partiality’ involved in supporting a political transition and the ‘im- partiality’ needed to protect the humanitarian aspects of the process and humanitarian space.3",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 3,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.1. Tensions between humanitarian and political objectives",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "It is not within the scope of this module to explore all the possible features of such tensions. However, it is useful for personnel involved in the delivery of health care as part of DDR processes to be aware that political priorities can affect operations, and can result in tensions with humanitarian principles. For example, this can occur when humanitarian programmes aimed at combatants are used to create an incentive for them to ‘buy in’ to the peace process.4",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 3,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.1. Tensions between humanitarian and political objectives",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "A good understanding of the various phases of the peace process in general, and of how DDR in particular will take place over time, is vital for the appropriate timing and targeting of health activities. Similarly, it must be clearly understood which national or international institutions will lead each aspect or phase of health care delivery within DDR, and the coordination mechanism needed to streamline delivery. Operationally, deciding on the tim- ing and targeting of health interventions requires two things to be done.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 4,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.2. Linking health action to DDR and the peace process",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "First, an analysis of the political and legal terms and arrangements of the peace proto- col and the specific nature of the situation on the ground should be carried out as part of the general assessment that will guide and inform the planning and implementation of health activities. For appropriate planning to take place, information must be gathered on the expected numbers of combatants, associates and dependants involved in the process; their gender- and age-specific needs; the planned length of the demobilization phase and its location (demobilization sites, assembly areas, cantonment sites, or other); and local capa- cities for the provision of health care services.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 4,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.2. Linking health action to DDR and the peace process",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Key questions for the pre-planning assessment: \\n What are the key features of the peace protocols? \\n Which actors are involved? \\n How many armed groups and forces have participated in the peace negotiation? What is their make-up in terms of age and sex? \\n Are there any foreign troops (e.g., foreign mercenaries) among them? \\n Does the peace protocol require a change in the administrative system of the country? Will the health system be affected by it? \\n What role did the UN play in achieving the peace accord, and how will agencies be deployed to facilitate the implementation of its different aspects? \\n Who will coordinate the health-related aspects of integrated, inter-agency DDR efforts (ministry of health, WHO, medical services of peacekeeping mission, UNFPA, food agencies such as the \\n World Food Programme [WFP], implementing partners, etc.)? Who will set up the UN coordinating mechanism, division of responsibilities, etc., and when? \\n What national steering bodies/committees for DDR are planned (joint commission, transitional government, national commission on DDR, working groups, etc.)? \\n Who are the members and what is the mandate of such bodies? \\n Is the health sector represented in such bodies? Should it be? \\n Is assistance to combatants set out in the peace protocol, and if so, what plans have been made for DDR? \\n Which phases in the DDR process have been planned? \\n What is the time-frame for each phase? \\n What role, if any, can/should the health sector play in each phase?",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 4,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.2. Linking health action to DDR and the peace process",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Second, the health sector should be represented in all bodies established to oversee DDR from the earliest stages of the process possible. Early inclusion is essential if the guiding principles described above are to be applied in practice during operations. In particular: \\n It can ensure that public health concerns are taken into account when key planning decisions are made, e.g., on the selection of locations for pick-up points or other assembly/transit areas, on the level of services that will be established there, and on the best way of dealing with different health needs; \\n It can advocate in favour of vulnerable groups; \\n It will establish a political, legislative and administrative link with national authorities, which is necessary to create the space for health actions in the short and medium/long term. For example, appropriate support for the health needs of specific groups, such as girl mothers or the war-disabled, can be provided only if the appropriate legislative/ administrative frameworks have been set up and capacity-building begun; \\n It will reduce the risk of creating ad hoc health services for former combatants, women associated with armed groups and forces, dependants and the communities to which they return. Health programmes in support of a DDR process can be highly visible, but they are seldom more than a limited part of all the health-related activities taking place in a country during a transition period; \\n Careful cooperation with health and relevant non-health national authorities can result in the establishment of health programmes that start out in support of demobilization, but later, through coordination with the overall rehabilitation of the country strategy for the health sector, become a sustainable asset in the reintegration period and beyond; \\n It can bring about the adoption at national level of specific health guidelines/protocols that are equitable, affordable by and accessible to all, and gender- and age-responsive.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 4,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.2. Linking health action to DDR and the peace process",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "It should be seen as a priority to encourage the collaboration of international and national health staff in all areas of health-related work, as this increases local ownership of health activities and builds capacity.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 5,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.2. Linking health action to DDR and the peace process",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The different aspects of DDR processes — disarmament, demobilization and reintegration — may not necessarily follow a fixed chronological order, and are closely interrelated. The extent of the contribution of health activities in each phase increases steadily, from assess- ment and planning to the actual delivery of health services. Health services, in turn, will evolve: starting by focusing on immediate, life-threatening conditions, they will at a later stage be required to support ex-combatants and those associated with them when they return to civilian life and take up civilian jobs as a part of reintegration.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 5,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.3. Health and the sequencing of DDR processes",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Figure 1 provides a simplified image of the general direction in which the health sector has to move to best support a DDR process. Clearly, health actions set up to meet the specific needs of the demobilization phase, which will only last for a short period of time, must be planned as only the first steps of a longer-term, open-ended and comprehensive reintegra- tion process. In what follows, some of the factors that will help the achievement of this long-term goal are outlined.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 5,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.3. Health and the sequencing of DDR processes",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "The geography of the country/region in which the DDR operation takes place should be taken into account when planning the health-related parts of the operation, as this will help in the difficult task of identifying the stakeholders and the possible partners that will be involved, and to plan the network of fixed structures and outreach circuits designed to cater for first health contact and/or referral, health logistics, etc., all of which have to be organized at local, district, national or even international (i.e., possibly cross-border) levels.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 5,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.4. Health and the geographical dimensions of DDR",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Health activities in support of DDR processes must take into account the movements of populations within countries and across borders. From an epidemiological point of view, the mass movements of people displaced by conflict may bring some communicable diseases into areas where they are not yet endemic, and also speed up the spread of outbreaks of diseases that can easily turn into epidemics. Thus, health actors need to develop appropriate strategies to prevent or minimize the risk that these diseases will propagate and to allow for the early detection and containment of any possible epidemic resulting from the popula- tion movements. Those whom health actors will be dealing with include former combatants, associates and dependants, as well as the hosting communities in the transit areas and at the final destinations.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 6,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.4. Health and the geographical dimensions of DDR",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "In cases where foreign combatants will be repatriated, cross-border health strategies should be devised in collaboration with the local health authorities and partner organizations in both the sending and receiving countries (also see IDDRS 5.40 on Cross-border Popula- tion Movements).",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 6,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.4. Health and the geographical dimensions of DDR",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "Figure 2 shows the likely movements of combatants and associates (and often their dependants) during a DDR process. It should be noted that the assembly/cantonment/ transit area is the most important place (and probably the only place) where adult combat- ants come into contact with health programmes designed in support of the DDR process, because both before and after they assemble here, they are dispersed over a wide area. Chil- dren should receive health assistance at interim care centres (ICCs) after being released from armed groups and forces. Before and after the cantonment/transit period, combatants, associates and their dependants are mainly the responsibility of the national health system, which is likely to be degraded and in need of systematic, long-term support in order to do its work.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 6,
+            "Heading1": "5. Health and DDR",
+            "Heading2": "5.4. Health and the geographical dimensions of DDR",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "The overall goal of health action is to reduce avoidable illness and death. In the context of DDR, this requires that the health programmes focus on providing: \\n basic, preventive and curative, specifically designed and good-quality health care that is easily accessible at every stage of the process — in any transit stations, in demobili- zation/cantonment/assembly camps if they are used, in ICCs for children, and in the communities where combatants will live once they are demobilized; \\n basic health care, including reproductive health care and psychosocial care, that is appropriate to the different needs of men, women, youth, girls and boys going through DDR. This service needs to be supported by effective referral systems and emergency back-up systems, e.g., to control outbreaks of infectious diseases or deal with immediate, life-threatening mental trauma. Health information and advice must be made available in language that can be understood by the different groups for which the health care is designed; \\n training of camp managers on health-related matters, e.g., on the construction of appro- priate areas for the registration and protection of vulnerable groups, the provision of food appropriate to different needs (e.g., for the sick, and for nursing mothers, infants and small children), problems with drug and alcohol addiction, water, shelter, sanita- tion, supplies of items needed for hygiene (soap, buckets), and fuel. Women and girls will need specific assistance to meet their hygiene needs, including menstrual supplies and clean birthing kits.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 7,
+            "Heading1": "6. Operational objectives for the health sector in the DDR process",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "The health sector has three main areas of responsibility during the planning phase: (1) to assess the epidemiological profile in the areas and populations of interest; (2) to assess exist- ing health resources; and (3) to advise on public health concerns in choosing the sites where combatants, women associated with armed groups and forces and/or dependants will be assembled. Planning to meet health needs should start as early as possible and should be constantly updated as the DDR process develops.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 7,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "Three key questions must be asked in order to create an epidemiological profile: (1) What is the health status of the targeted population? (2) What health risks, if any, will they face when they move during DDR processes? (3) What health threats might they pose, if any, to local communities near transit areas or those in which they reintegrate?",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 7,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.1. Assessing epidemiological profiles",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "Epidemiological data, i.e., at least minimum statistics on the most prevalent causes of illness and death, are usually available from the national health authorities or the WHO country office. These data are usually of poor quality in war-torn countries or those in transi- tion into a post-conflict phase, and are often outdated. However, even a broad overview can provide enough information to start planning.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 7,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.1. Assessing epidemiological profiles",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "Assess the risks and plan accordingly.5 Information that will be needed includes: \\n the composition of target population (age and sex) and their general health status; \\n the transit sites and the health care situation there; \\n the places to which former combatants and the people associated with them will return and the capacity to supply health services there.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 7,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.1. Assessing epidemiological profiles",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "ore detailed and updated information may be available from NGOs working in the area or the health services of the armed forces or groups. If possible, it should come from field assessments or rapid surveys.6 The following guiding questions should be asked: \\n What kinds of population movements are expected during the DDR process (not only movements of people associated with armed forces and groups, but also an idea of where populations of refugees and internally displaced persons might intersect/interact with them in some way)? \\n What are the most prevalent health hazards (e.g., endemic diseases, history of epidem- ics) in the areas of origin, transit and destination? \\n What is the size of groups (women combatants and associates, child soldiers, disabled people, etc.) with specific health needs? \\n Are there specific health concerns relating to military personnel, as opposed to the civil- ian population?",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 7,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.1. Assessing epidemiological profiles",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "After the completion of an assessment of the health needs to be met in a crisis, the capacity of the system to meet these needs should be examined. It is necessary to identify the system’s main weaknesses and to make improvements so that they do not endanger the success of the DDR process.7",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 8,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.2. Assessment of health resources",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "The following information is needed: \\n What is the location and state of existing health infrastructure? What can be done to upgrade it quickly, if necessary? \\n Do adequate storage facilities for health supplies exist nearby? \\n Is there an adequate communications infrastructure/system with a good flow of information? \\n What human resources are there (numbers, qualification and experience levels, and geographical distribution)? \\n Where is the closest humanitarian and/or health organization? Is it ready to participate or offer support? Who will coordinate efforts? \\n What material resources, including supplies, equipment and finances, have been established? \\n What is the state of support systems, including transport, energy, logistics and admin- istration?",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 8,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.2. Assessment of health resources",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "After answering these questions and assessing the situation, it is possible to identify important gaps in the health system and to start taking steps to support the DDR process (e.g., rehabilitating a health centre in an area where troops will be assembled), and to identify stakeholders — national and international — who can form partnerships with the health sector.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 8,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.2. Assessment of health resources",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "When relevant and possible, the level of health expertise within armed groups and forces should be assessed to start identifying people who can be trained during the demo- bilization phase. Health expertise should be understood in a wide sense to include, when this is relevant and appropriate, traditional practitioners, and combatants and associates who have experience of health work, even without formal education and training, provided that appropriate supervision is guaranteed.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 8,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.2. Assessment of health resources",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "When assembly areas or cantonment sites are established to carry out demobilization and disarmament, health personnel should help with site selection and provide technical advice on site design. International humanitarian standards on camp design should apply, and gender-specific requirements should be taken into account (e.g., security, rape prevention, the provision of female-specific health care assistance). As a general rule, the area must conform with the Sphere standards for water supply and sanitation, drainage, vector control, etc. Locations and routes for medical and obstetric emergency referral must be pre-identi- fied, and there should be sufficient capacity for referral or medical evacuation to cater for any emergencies that might arise, e.g., post-partum bleeding (the distance to the nearest health facility and the time required to get there are important factors to consider here).",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 9,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.3. Support in the identification of assembly areas",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "When combatants are housed in military barracks or public buildings are restored for this purpose, these should also be assessed in terms of public health needs. Issues to con- sider include basic sanitary facilities, the possibility of health referrals in the surrounding area, and so on.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 9,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.3. Support in the identification of assembly areas",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "If nearby health facilities are to be rehabilitated or new facilities established, the work should fit in with medium- to long-term plans. Even though health care will be provided for combatants, associates and dependants during the DDR process only for a short time, facilities should be rehabilitated or established that meet the requirements of the national strategy for rehabilitating the health system and provide the maximum long-term benefit possible to the general population.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 9,
+            "Heading1": "7. The role of the health sector in the planning process",
+            "Heading2": "7.3. Support in the identification of assembly areas",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "The concrete features of a DDR health programme will depend on the nature of a specific situation and on the key characteristics of the demobilization process (e.g., how long it is planned for). In all cases, at least the following must be guaranteed: a medical screening on first contact, ongoing access to health care and outbreak control. Supplementary or therapeutic feeding and other specific care should be planned for if pregnant or lactating women and girls, children or infants, and chronically ill patients are expected at the site.8",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 9,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "Skilled workers, supplies, equipment and infrastructures will be needed inside, or within a very short distance from, the assembly area (within a maximum of one kilometre), to deliver, on a routine basis: (1) medical screening of newcomers; (2) basic health care; and, if necessary, (3) therapeutic feeding. Coordination with local health authorities and other sectors will ensure the presence of the necessary systems for medical evacuation, early detection of and response to disease outbreaks, and the equitable catering for people’s vital needs.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 9,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "Health concerns will vary greatly according to the geographical area where the demobili- zation occurs. Depending on location, health activities will normally include some or all of the following: \\n providing medical screening and counselling for combatants and dependants; \\n establishing basic preventive and curative health services. \\n Priority should go to acute and infectious conditions (typically malaria); however, as soon as possible, measures should also be set in place for chronic and non-infectious cases (e.g., tuberculosis and diabetes, or epilepsy) and for voluntary testing and counselling services for sexually transmitted infections (STIs), including HIV/AIDS; \\n establishing a referral system that can cover medical, surgical and obstetric emergencies, as well as laboratory confirmation at least for diseases that could cause epidemics; \\n adopting and adapting national standard protocols for the treatment of the most common diseases;9 \\n establishing systems to monitor potential epidemiological/nutritional problems within assembly areas, barracks, camps for dependants, etc. with the capacity for early warning and outbreak response; \\n providing drugs and equipment including a system for water quality control and bio- logical sample management; \\n organizing public health information campaigns on STIs (including HIV/AIDS), water- borne disease, sanitation issues such as excreta disposal, food conservation and basic hygiene (especially for longer-term cantonment); \\n establishing systems for coordination, communication and logistics in support of the delivery of preventive and curative health care; \\n establishing systems for coordination with other sectors, to ensure that all vital needs and support systems are in place and functioning.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 10,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.1. Dealing with key health concerns during demobilization",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "Whenever people are grouped together in a temporary facility such as a cantonment site, there will be matters of specific concern to health practitioners. Issues to be aware of include: \\n Chronic communicable diseases: Proper compliance with anti-TB treatment can be difficult to organize and sustain, but it should be considered a priority; \\n HIV/AIDS: Screening of soldiers should be voluntary and carried out after combatants are given enough information about the screening process. The usefulness of screening when the system is not able to respond adequately (by providing anti-retroviral therapy and proper follow-up) should be carefully thought out. Combatants have the right to the confidentiality of the information collected;10 \\n Violence/injury prevention: Cantonment is a strategy for reducing violence, because it aims to contain armed combatants until their weapons can be safely removed. However, there is a strong likelihood of violence within cantonment sites, especially when abducted women or girls are separated from men. Specific care should be taken to avoid all pos- sible situations that might lead to sexual violence; \\n Mental health, psychosocial support and substance abuse:11 While cantonment provides an opportunity to check for the presence of self-directed violence such as drug and alcohol abuse, a key principle is that the best way of improving the mental well-being of ex- combatants and their associates is through economic and social reintegration, with com- munities having the central role in developing and implementing the social support systems needed to achieve this. In the demobilization stage of DDR, the health services must have the capacity to detect and treat severe, acute and chronic mental disorders. An evidence-based approach to substance abuse in DDR processes has still to be developed.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 10,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.1. Dealing with key health concerns during demobilization",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "In sites where resources are limited, health planning to meet the needs of those going through the DDR process starts from a minimum package of medical screening, on-the-spot treat- ment, provision of condoms and medical evacuation/referral, which should be developed to cover, at least: \\n early detection of and response to epidemic outbreaks; \\n measles immunization + vitamin A for children aged 0–15 years; \\n polio immunization for children under 5; \\n treatment of severe, acute conditions (malaria, acute respiratory infections), diarrhoea, anaemia in pregnant women, acute malnutrition, dressing of wounds, STIs, etc.); \\n uncomplicated deliveries; \\n provision of long-lasting impregnated bed nets to prevent malaria; \\n referral of serious cases to secondary/tertiary care facilities; \\n voluntary testing and counselling for STIs, including HIV/AIDS; \\n care and treatment for survivors of sexual violence, including testing and treatment for STIs.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 11,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.2. An essential DDR health package in resource-poor settings",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "The delivery of such services requires the following personnel and equipment in each cantonment site or assembly area: \\n an average team of one doctor or mid-level health technician, 4–5 public health care nurses and 3–4 ancillary workers per camp; one midwife where necessary; \\n essential medicines and equipment (for sterilization, stabilization, cold-chain, etc.); \\n rapid tests and combined treatment for P. Falciparum malaria; \\n means of transport, easy procedures and pre-positioned facilities for medical/obstetric evacuation; \\n options — either locally or by referral — for the treatment of chronic conditions: at least TB and epilepsy should be covered; \\n back-up systems — teams on call, easy-access procedures, transport and buffer stocks (including protective equipment) — for early detection and treatment of outbreaks; \\n availability and adoption of national standard case definitions and case management protocols.12",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 11,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.2. An essential DDR health package in resource-poor settings",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "WHO provides hospitals with emergency health kits and UNFPA can provide emergency reproductive health kits (which may include post-exposure prophylaxis kits, when appropriate) to individuals, clinics and hospitals, along with training on their use as and when this is appropriate (also see IDDRS 5.60 on HIV/AIDS and DDR).13",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 12,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.2. An essential DDR health package in resource-poor settings",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "Training of local health personnel is vital in order to implement the complex health response needed during DDR processes. In many cases, the warring parties will have their own mili- tary medical staff who have had different training, roles, experiences and expectations. However, these personnel can all play a vital role in the DDR process. Their skills and knowl- edge will need to be updated and refreshed, since the health priorities likely to emerge in assembly areas or cantonment sites — or neighbouring villages — are different from those of the battlefield.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 12,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.3. Training of personnel",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "An analysis of the skills of the different armed forces’ and groups’ health workers is needed during the planning of the health programme, both to identify the areas in need of in-service training and to compare the medical knowledge and practices of different armed groups and forces. This analysis will not only be important for standardizing care during the demobilization phase, but will give a basic understanding of the capacities of military health workers, which will assist in their reintegration into civilian life, for example, as employees of the ministry of health.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 12,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.3. Training of personnel",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "The following questions can guide this assessment process: \\n What kinds of capacity are needed for each health service delivery point (tent-to-tent active case finding and/or specific health promotion messages, health posts within camps, referral health centre/hospital)? \\n Which mix of health workers and how many are needed at each of these delivery points? (The WHO recommended standard is 60 health workers for each 10,000 members of the target population.) \\n Are there national standard case definitions and case management protocols available, and is there any need to adapt these to the specific circumstances of DDR? \\n Is there a need to define or agree to specific public health intervention(s) at national level to respond to or prevent any public health threats (e.g., sleeping sickness mass screening to prevent the spread of the diseases during the quartering process)?",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 12,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.3. Training of personnel",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "It is important to assume that no sophisticated tools will be available in assembly or transit areas. Therefore, training should be based on syndrome-based case definitions, indi- vidual treatment protocols and the implementation of mass treatment interventions.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 12,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.3. Training of personnel",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "Special arrangements will be necessary for vulnerable groups. WHO recommends planning for children, the elderly, chronically sick and disabled people, as well as for women and girls who are pregnant or lactating, and anyone who has survived sexual violence. Guiding questions to assess the specific needs of each of these groups are as follows: \\n What are the specific health needs of these groups? \\n Do they need special interventions? \\n Are health personnel aware of their specific needs? \\n Are health personnel trained to assist individuals who have survived extreme inter- personal violence and have symptoms that they may be unable or unwilling to describe (e.g., survivors of rape describing ‘stomach pains’)?",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 13,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.4. Responding to the needs of vulnerable groups",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "Boy and girl child and adolescent soldiers can range in age from 6 to 18. It is very likely that they have been exposed to a variety of physical and psychological traumas, including mental and sexual abuse, and that they have had very limited access to clinical and public health services. Child and adolescent soldiers, who are often brutally recruited from very poor communities, or orphaned, are already in a poor state of health before they face the additional hardship of life with an armed group or force. Their vulnerability remains high during the DDR process, and health services should therefore deal with their specific needs as a priority. Special attention should be given to problems that may cause the child fear, embarrassment or stigmatization, e.g.: \\n child and adolescent care and support services should offer a special focus on trauma- related stress disorders, depression and anxiety; \\n treatment should be provided for drug and alcohol addiction; \\n there should be services for the prevention, early detection and clinical management of STIs and HIV/AIDS; \\n special assistance should be offered to girls and boys for the treatment and clinical management of the consequences of sexual abuse, and every effort should be made to prevent sexual abuse taking place, with due respect for confidentiality.14",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 13,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.4. Responding to the needs of vulnerable groups",
+            "Heading3": "8.4.1. Children and adolescents associated with armed groups and forces",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "To decrease the risk of stigma, these services should be provided as a part of general medical care. Ideally, all health care providers should have training in basic counselling, with some having the capacity to deal with the most serious cases (also see IDDRS 5.20 on Youth and DDR and IDDRS 5.30 on Children and DDR).",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 13,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.4. Responding to the needs of vulnerable groups",
+            "Heading3": "8.4.1. Children and adolescents associated with armed groups and forces",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "To assist this group, DDR health practitioners and national authorities should agree on a system to respond to war disabilities in order for disabled people to gain entitlement to disability pensions and/or to join the social security system. An approach can be designed that measures an individual’s physical impairment and how much the impairment limits his/her capacity to benefit from socio-economic reintegration.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 13,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.4. Responding to the needs of vulnerable groups",
+            "Heading3": "8.4.2. Disabled or chronically ill people",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "Women combatants and other women associated with armed forces and groups in non- combat roles require special measures to protect them throughout the cantonment or assembly phase, in transit camps and while travelling to their reintegration locations. Camps must be designed to offer women security, privacy and protection. Women who are pregnant, lac- tating or caring for young children will require health services that cater for their specific needs. Those who have survived rape or other gender-based violence should receive access to the Minimal Initial Service Package for reproductive health.15 Particular care should be taken to include women in the health team at assembly areas or cantonment sites (also see IDDRS 5.10 on Women, Gender and DDR and IDDRS 5.60 on HIV/AIDS and DDR).",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 13,
+            "Heading1": "8. The role of health actions in the demobilization process",
+            "Heading2": "8.4. Responding to the needs of vulnerable groups",
+            "Heading3": "8.4.3. Women",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "This section explains how to use the resources allocated to health action in DDR to reinforce and support the national health system in the medium and longer term.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 14,
+            "Heading1": "9. The role of health services in the reintegration process",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+            "Paragraph": "It needs to be emphasized that after combatants are discharged, they come under the responsibility of the national health system. It is vital, therefore, for all the health actions carried out during the demobilization phase to be consistent with national protocols and regulation (e.g., the administration of TB drugs). Especially in countries emerging from long-lasting violent conflict, the capacity of the national health system may not be able to meet the needs of population, and more often than not, good health care is expensive. In this case, preferential or subsidized access to health care for former combatants and others associated with armed groups and forces can be provided if possible. It needs to be em- phasized that the decision to create positive discrimination for former combatants is a political one.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 14,
+            "Heading1": "9. The role of health services in the reintegration process",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "The diagram in figure 3 (to be read from the top) shows how it is possible to systematize the various components, levels and executive lines of the health programme in a country emerging from conflict. Whatever the overall institutional setting in which DDR takes place, WHO, in consultation with the other agencies contributing to health service deliv- ery, will be represented as member of the UN/Inter-Agency Standing Committee country team. The WHO country representatives will be in a position to: (1) ensure that the neces- sary lines of liaison and coordination with the national health authorities are set up and managed; and (2) provide health information to other sectors and agencies, in order to ensure cooperation among the different actors involved in different components of the DDR process.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 14,
+            "Heading1": "10. Systems for programme implementation",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "In administering a DDR programme, the health sector is expected to supply both the technical guidance and the resources — personnel, supplies, funds, and administrative and logistic support — that are necessary for various partners to deliver coordinated and effective health preventive and curative care at the local level, i.e., in the assembly camps, etc., and beyond into the reintegration phase. In some instances, the military will be the main implementing partners at local level, with the support, in most cases, of medical NGOs and possibly the health units of peacekeeping forces.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 14,
+            "Heading1": "10. Systems for programme implementation",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 16,
+            "Heading1": "Annex A: Abbreviations",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        },
+        {
+       
+            "Paragraph": "1 WHO/Emergency and Humanitarian Action, ‘Preliminary Ideas for WHO Contribution to Disarma- ment, Demobilization, Repatriation, Reintegration and Resettlement in the Democratic Republic of the Congo’, unpublished technical paper, WHO Office in WR, 2002. \\n 2 Zagaria, N. and G. Arcadu, What Role for Health in a Peace Process? The Case Study of Angola, Rome, October 1997. \\n 3 Eide, E. B., A. T. Kaspersen, R. Kent and K. von Hippel, Report on Integrated Missions: Practical Perspec­ tive and Recommendation, Independent Study for the Expanded UN ECHA (Executive Committee for Humanitarian Affairs) Core Group, May 2005, pp. 3 and 28. \\n 4 In one example, in Angola during UN Verification Angola Mission III, the humanitarian entitlements for UNITA troops were much higher than the ones provided for their dependants. \\n 5 For technical guidance, refer to WHO, Communicable Disease Control in Emergencies: A Field Manual, http://www.who.int/infectious-disease-news/IDdocs/whocds200527/whocds200527chapters/ index.htm. \\n 6 For short health profiles of many countries in crisis, and for guidelines on rapid health assessments, see WHO, http://www.who.int/hac. \\n 7 The Sphere Project provides a wide range of standards that can provide useful points of reference for an assessment of the capacity of a local health system in a poor country (see Sphere Project, Humani­ tarian Charter and Minimum Standards in Disaster Response, 2004, or http://www.sphereproject.org). \\n 8 See Women’s Commission for Refugee Women and Children, Field­friendly Guide to Integrate Emergency Obstetric Care in Humanitarian Programs, http://www.rhrc.org/resources/general%5Ffieldtools/. \\n 9 Case definitions must be developed for each health event/disease/syndrome. Standard WHO case definitions are available, but these may have to be adapted according to the local situation. If pos- sible, the case definitions of the host country’s ministry of health should be used, if they are available. What is important is that all of those reporting to the monitoring/surveillance system, regardless of affiliation, use the same case definitions so that there is consistency in reporting. \\n 10 See Reproductive Health Responses in Conflict Consortium, Emergency Contraception for Conflict Affected Settings: A Reproductive Health Response in Conflict Consortium Distance Learning Module, 2004, http:// www.rhrc.org/resources/general%5Ffieldtools/. \\n 11 See the Sphere Project, op. cit., pp. 291–293. \\n 12 WHO/Emergency and Humanitarian Action, op. cit. \\n 13 Emergency reproductive health (RH) kits were originally developed in 1996 by the members of the Inter-Agency Working Group on Reproductive Health in Refugee Situations to deliver RH services in emergency and refugee situations. To obtain these kits, the DDR practitioners/health experts should contact the WHO/UNFPA field office in that country or relevant implementing partners. \\n 14 http://www.who.int/child-adolescent-health; see also WHO/UN High Commissioner for Refugees, Clinical Management of Rape Survivors: Developing Protocols for Use with Refugees and Internally Displaced Persons, revised edition, 2004, http://www.rhrc.org/resources/general%5Ffieldtools/. \\n 15 See resources at the Reproductive Health in Conflict Consortium, http://www.rhrc.org/resources/ general%5Ffieldtools/, especially the Inter­agency Field Manual.",
+            "Level": 5,
+            "Title": "Health and DDR",
+            "PageNum": 17,
+            "Heading1": "Endnotes",
+            "Heading2": "",
+            "Heading3": "",
+            "Heading4": ""
+        }
     ]
-    }
+}
